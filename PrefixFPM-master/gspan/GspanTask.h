@@ -1,361 +1,208 @@
-//########################################################################
-//## Copyright 2019 Da Yan http://www.cs.uab.edu/yanda
-//##
-//## Licensed under the Apache License, Version 2.0 (the "License");
-//## you may not use this file except in compliance with the License.
-//## You may obtain a copy of the License at
-//##
-//## //http://www.apache.org/licenses/LICENSE-2.0
-//##
-//## Unless required by applicable law or agreed to in writing, software
-//## distributed under the License is distributed on an "AS IS" BASIS,
-//## WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-//## See the License for the specific language governing permissions and
-//## limitations under the License.
-//########################################################################
-
-//########################################################################
-//## Contributors
-//## * Wenwen Qu
-//## * Da Yan
-//########################################################################
-
-#ifndef GSPANTASK_H_
-#define GSPANTASK_H_
-#include "GspanPattern.h"
-#include "omp.h"
-
-
-struct ChildrenT{
-	forwardEdge_Projected2 new_fwd_root;
-	forwardProjected_iter2 it1;
-
-	backEdge_Projected new_bck_root;
-	backProjected_iter it2;
-};
-
-class GspanTask: public Task<GspanPattern, ChildrenT, GspanTrans*> {
-public:
-	int minlabel; //min vertex label in current pattern graph
-	int maxtoc; //the dfs id of the right-most vertex
-
-	GspanPattern	MIN_PATTERN;
-	GspanTrans   MIN_GRAPH;
-
-	bool project_is_min (GspanProjDB &projected)
-	{
-		const RMPath& rmpath = MIN_PATTERN.buildRMPath ();
-		int minlabel         = MIN_PATTERN.items[0].fromlabel;
-		int maxtoc           = MIN_PATTERN.items[rmpath[0]].to;
-
-		/*===========================begin===========================
-		*enum all back edge, forward edge and find the minimum edge. Then store the minimum edge into MIN_PATTERN
-		*/
-		//first, back edge
-		{
-			backEdge_Projected root;
-			bool flg = false;
-
-
-			for (int i = rmpath.size()-1; ! flg  && i >= 1; --i) {
-				for (unsigned int n = 0; n < projected.size(); ++n) {
-					GspanProjTrans *cur = &projected[n];
-					History history (&MIN_GRAPH, cur);
-					Edge *e = get_backward (&MIN_GRAPH, history[rmpath[i]], history[rmpath[0]], history);
-					if (e) {
-						BackEdge edge(MIN_PATTERN.items[rmpath[i]].from,e->elabel);
-						root[edge].push (0, e, cur);
-						flg = true;
-					}
-				}
-			}
-
-			if (flg) {
-				backProjected_iter to = root.begin();
-				BackEdge edge = to->first;
-				MIN_PATTERN.push (maxtoc, edge.to, -1, edge.elabel, -1);
-				if (pat.items[MIN_PATTERN.items.size()-1] != MIN_PATTERN.items [MIN_PATTERN.items.size()-1]) return false;
-				return project_is_min (to->second);
-			}
-		}
-
-		//then forward edge
-		{
-			bool flg = false;
-			forwardEdge_Projected root;
-			EdgeList edges;
-
-			for (unsigned int n = 0; n < projected.size(); ++n) {
-				GspanProjTrans *cur = &projected[n];
-				History history (&MIN_GRAPH, cur);
-				if (get_forward_pure (&MIN_GRAPH, history[rmpath[0]], minlabel, history, edges)) {
-					flg = true;
-					for (EdgeList::iterator it = edges.begin(); it != edges.end();  ++it){
-						ForwardEdge edge(maxtoc,(*it)->elabel,MIN_GRAPH.graph[(*it)->to].label);
-						root[edge].push(0, *it, cur);
-					}
-				}
-			}
-
-			for (int i = 0; ! flg && i < (int)rmpath.size(); ++i) {
-				for (unsigned int n = 0; n < projected.size(); ++n) {
-					GspanProjTrans *cur = &projected[n];
-					History history (&MIN_GRAPH, cur);
-					if (get_forward_rmpath (&MIN_GRAPH, history[rmpath[i]], minlabel, history, edges)) {
-						flg = true;
-						for (EdgeList::iterator it = edges.begin(); it != edges.end();  ++it){
-							ForwardEdge edge(MIN_PATTERN.items[rmpath[i]].from,(*it)->elabel,MIN_GRAPH.graph[(*it)->to].label);
-							root[edge].push(0, *it, cur);
-						}
-					}
-				}
-			}
-
-			if (flg) {
-				forwardProjected_iter from  = root.begin();
-				ForwardEdge edge = from->first;
-				MIN_PATTERN.push (edge.from, maxtoc + 1, -1, edge.elabel, edge.toLabel);
-				if (pat.items[MIN_PATTERN.items.size()-1] != MIN_PATTERN.items [MIN_PATTERN.items.size()-1]) return false;
-				return project_is_min (from->second);
-			}
-		}
-		/*===========================end===========================*/
-
-		return true;
-	}
-
-	/**get the origin subgraph from DFS code, then regenerate the canonical DFS code
-	 *  for the subgraph, and judge whether current DFS code equals to the canonical DFS***
-	*/
-	bool is_min ()
-	{
-
-		if (pat.items.size() == 1)
-			return (true);
-
-		pat.toGraph (MIN_GRAPH);
-		MIN_PATTERN.items.clear ();
-
-		forwardEdge_Projected root;
-		EdgeList           edges;
-
-		for (unsigned int from = 0; from < MIN_GRAPH.graph.size() ; ++from)
-			if (get_forward_root (&MIN_GRAPH, MIN_GRAPH.graph[from], edges))
-				for (EdgeList::iterator it = edges.begin(); it != edges.end();  ++it){
-					ForwardEdge edge(MIN_GRAPH.graph[from].label,(*it)->elabel,MIN_GRAPH.graph[(*it)->to].label);
-					root[edge].push(0, *it, 0);
-				}
-		forwardProjected_iter fromlabel = root.begin();
-		//the first edge in root is the minimum edge, so push it into MIN_PATTERN
-		ForwardEdge edge = fromlabel->first;
-
-		MIN_PATTERN.push (0, 1, edge.fromLabel, edge.elabel, edge.toLabel);
-
-		return (project_is_min (fromlabel->second));
-	}
+    //璁剧疆閲囩敤鍝鍥惧垎鍖虹瓥鐣�
+    void set_ingress_method(const std::string& method,
+                            size_t bufsize = 50000, bool usehash = false, bool userecent = false,
+                            std::string favorite = "source",
+                            size_t threshold = 100, size_t theta = 100,size_t etheta=1000, size_t nedges = 0, size_t nverts = 0,size_t ceng=1,
+                            size_t interval = std::numeric_limits<size_t>::max()) {
+      if(ingress_ptr != NULL) { delete ingress_ptr; ingress_ptr = NULL; }
+      if (method == "oblivious") {
+        if (rpc.procid() == 0) logstream(LOG_EMPH) << "Use oblivious ingress, usehash: " << usehash
+          << ", userecent: " << userecent << std::endl;
+        ingress_ptr = new distributed_oblivious_ingress<VertexData, EdgeData>(rpc.dc(), *this, usehash, userecent);
+      } else if  (method == "random") {
+        if (rpc.procid() == 0)logstream(LOG_EMPH) << "Use random ingress" << std::endl;
+        ingress_ptr = new distributed_random_ingress<VertexData, EdgeData>(rpc.dc(), *this); 
+      } else if  (method == "matrix_hybrid") {
+          if (rpc.procid() == 0)logstream(LOG_EMPH) << "Use matrix ingress" << std::endl;
+          ingress_ptr = new distributed_matrix_hybrid_ingress<VertexData, EdgeData>(rpc.dc(), *this, threshold);
+      } else if  (method == "matrix_strict") {
+          if (rpc.procid() == 0)logstream(LOG_EMPH) << "Use matrix ingress" << std::endl;
+          ingress_ptr = new distributed_matrix_strict_ingress<VertexData, EdgeData>(rpc.dc(), *this, threshold);
+      }
+      else if  (method == "matrix_ginger") {
+          if (rpc.procid() == 0)logstream(LOG_EMPH) << "Use matrix ginger ingress" << std::endl;
+          ingress_ptr = new distributed_matrix_ginger_ingress<VertexData, EdgeData>(rpc.dc(), *this, threshold, nedges, nverts, interval);
+      } else if  (method == "topoX") {
+          if (rpc.procid() == 0)logstream(LOG_EMPH) << "Use topoX ingress" << std::endl;
+          ingress_ptr = new distributed_topoX_ingress<VertexData, EdgeData>(rpc.dc(), *this, threshold,theta,etheta,ceng);
+      }else if  (method == "matrix_block") {
+          if (rpc.procid() == 0)logstream(LOG_EMPH) << "Use matrix block ingress" << std::endl;
+          ingress_ptr = new distributed_matrix_block_ingress<VertexData, EdgeData>(rpc.dc(), *this, threshold,theta,etheta,ceng);
+      }
+      else if (method == "grid") {
+        if (rpc.procid() == 0)logstream(LOG_EMPH) << "Use grid ingress" << std::endl;
+        ingress_ptr = new distributed_constrained_random_ingress<VertexData, EdgeData>(rpc.dc(), *this, "grid");
+      } else if (method == "pds") {
+        if (rpc.procid() == 0)logstream(LOG_EMPH) << "Use pds ingress" << std::endl;
+        ingress_ptr = new distributed_constrained_random_ingress<VertexData, EdgeData>(rpc.dc(), *this, "pds");
+      } else if (method == "bipartite") {
+        if(data_affinity){
+          if (rpc.procid() == 0) logstream(LOG_EMPH) << "Use bipartite ingress w/ affinity" << std::endl;
+          ingress_ptr = new distributed_bipartite_affinity_ingress<VertexData, EdgeData>(rpc.dc(), *this, favorite);
+        } else{
+          if (rpc.procid() == 0) logstream(LOG_EMPH) << "Use bipartite ingress w/o affinity" << std::endl;
+          ingress_ptr = new distributed_bipartite_random_ingress<VertexData, EdgeData>(rpc.dc(), *this, favorite);
+        }
+      } else if (method == "bipartite_aweto") {
+        if (rpc.procid() == 0) logstream(LOG_EMPH) << "Use bipartite_aweto ingress" << std::endl;
+        ingress_ptr = new distributed_bipartite_aweto_ingress<VertexData, EdgeData>(rpc.dc(), *this, favorite);
+      } else if (method == "hybrid") {
+        if (rpc.procid() == 0) logstream(LOG_EMPH) << "Use hybrid ingress" << std::endl;
+        ingress_ptr = new distributed_hybrid_ingress<VertexData, EdgeData>(rpc.dc(), *this, threshold);
+        set_cuts_type(HYBRID_CUTS);
+      } else if (method == "hybrid_ginger") {
+        if (rpc.procid() == 0) logstream(LOG_EMPH) << "Use hybrid ginger ingress" << std::endl;
+        ASSERT_GT(nedges, 0); ASSERT_GT(nverts, 0);
+        ingress_ptr = new distributed_hybrid_ginger_ingress<VertexData, EdgeData>(rpc.dc(), *this, threshold, nedges, nverts, interval);
+        set_cuts_type(HYBRID_GINGER_CUTS);
+      } else {
+        // use default ingress method if none is specified
+        std::string ingress_auto = "";
+        size_t num_shards = rpc.numprocs();
+        int nrow, ncol, p;
+        if (sharding_constraint::is_pds_compatible(num_shards, p)) {
+          ingress_auto="pds";
+          ingress_ptr = new distributed_constrained_random_ingress<VertexData, EdgeData>(rpc.dc(), *this, "pds");
+        } else if (sharding_constraint::is_grid_compatible(num_shards, nrow, ncol)) {
+          ingress_auto="grid";
+          ingress_ptr = new distributed_constrained_random_ingress<VertexData, EdgeData>(rpc.dc(), *this, "grid");
+        } else {
+          ingress_auto="oblivious";
+          ingress_ptr = new distributed_oblivious_ingress<VertexData, EdgeData>(rpc.dc(), *this, usehash, userecent);
+        }
+        if (rpc.procid() == 0) logstream(LOG_EMPH) << "Automatically determine ingress method: " << ingress_auto << std::endl;
+      }
+      // batch ingress is deprecated
+      // if (method == "batch") {
+      //   logstream(LOG_EMPH) << "Use batch ingress, bufsize: " << bufsize
+      //     << ", usehash: " << usehash << ", userecent" << userecent << std::endl;
+      //   ingress_ptr = new distributed_batch_ingress<VertexData, EdgeData>(rpc.dc(), *this,
+      //                                                    bufsize, usehash, userecent);
+      // } else 
+    } // end of set ingress method
 
 
-	//infrequent pattern should have been pruned when generating child patterns from its parent
-	virtual bool pre_check(ostream& fout){
-		pat.print(fout);
-		return true;
-	}
-
-	bool needSplit(){
-		if(pat.pdb.size() > tauDB_singlethread)
-			return true;
-		return false;
-	};
-
-	/*
-	 * enum the children of an existed pattern, first back edge, then forward edge.
-	 */
-	virtual void setChildren(ChildrenT& children){
-		// We just output a frequent subgraph.  As it is frequent enough, so might be its (n+1)-extension-graphs, hence we enumerate them all.
-		vector<Element>& DFS_CODE = pat.items;
-		const RMPath &rmpath = pat.buildRMPath ();
-		minlabel = DFS_CODE[0].fromlabel;
-		maxtoc = DFS_CODE[rmpath[0]].to; //the right-most vertex
-		vector<GspanProjTrans>& projected = pat.pdb;
-
-		//Enumerate all possible one edge extensions of the current substructure.
-		if(projected.size() <= tauDB_omp){
-			for (unsigned int n = 0; n < projected.size(); ++n) {
-				EdgeList edges;
-				unsigned int id = projected[n].tid;
-				GspanProjTrans *cur = &projected[n];
-				History history (TransDB()[id], cur);
 
 
-				// backward
-				for (int i = (int)rmpath.size()-1; i >= 1; --i) {
-					/*
-					 * rmpath[0]: the last edge id in the rmpath
-					 */
-					Edge *e = get_backward (TransDB()[id], history[rmpath[i]], history[rmpath[0]], history);
-					if (e){ //NULL if history[rmpath[i]] and history[rmpath[0]] have no edge or the edge is redundancy
-						BackEdge edge(DFS_CODE[rmpath[i]].from,e->elabel);
-						children.new_bck_root[edge].emplace_back (cur->tid, e, cur);
-					}
-				}
-
-				// pure forward: from rightmost vertex
-				if (get_forward_pure (TransDB()[id], history[rmpath[0]], minlabel, history, edges)) // edges are set here
-					for (EdgeList::iterator it = edges.begin(); it != edges.end(); ++it){
-						ForwardEdge edge(maxtoc, (*it)->elabel,TransDB()[id]->graph[(*it)->to].label);
-						children.new_fwd_root[edge].emplace_back (cur->tid, *it, cur);
-					}
-
-				// backtracked forward
-				for (int i = 0; i < (int)rmpath.size(); ++i)
-					if (get_forward_rmpath (TransDB()[id], history[rmpath[i]], minlabel, history, edges))
-						for (EdgeList::iterator it = edges.begin(); it != edges.end();  ++it){
-							ForwardEdge edge(DFS_CODE[rmpath[i]].from,(*it)->elabel,TransDB()[id]->graph[(*it)->to].label);
-							children.new_fwd_root[edge].emplace_back (cur->tid, *it, cur);
-						}
-			}
-		}
-		else{
-			vector<ChildrenT> childrenOfThread(THREADS);
-			#pragma omp parallel for schedule(dynamic, CHUNK) num_threads(THREADS)
-			for (unsigned int n = 0; n < projected.size(); ++n){
-				EdgeList edges;
-				int thread_id = omp_get_thread_num();
-				unsigned int id = projected[n].tid;
-				GspanProjTrans *cur = &projected[n];
-				History history (TransDB()[id], cur);
-
-				// backward
-				for (int i = (int)rmpath.size()-1; i >= 1; --i) {
-					/*
-					 * rmpath[0]: the last edge id in the rmpath
-					 */
-					Edge *e = get_backward (TransDB()[id], history[rmpath[i]], history[rmpath[0]], history);
-					if (e){
-						BackEdge edge(DFS_CODE[rmpath[i]].from,e->elabel);
-						childrenOfThread[thread_id].new_bck_root[edge].emplace_back (cur->tid, e, cur);
-					}
-				}
-
-				// pure forward
-				if (get_forward_pure (TransDB()[id], history[rmpath[0]], minlabel, history, edges))
-					for (EdgeList::iterator it = edges.begin(); it != edges.end(); ++it){
-						ForwardEdge edge(maxtoc,(*it)->elabel,TransDB()[id]->graph[(*it)->to].label);
-						childrenOfThread[thread_id].new_fwd_root[edge].emplace_back (cur->tid, *it, cur);
-					}
-
-				// backtracked forward
-				for (int i = 0; i < (int)rmpath.size(); ++i)
-					if (get_forward_rmpath (TransDB()[id], history[rmpath[i]], minlabel, history, edges))
-						for (EdgeList::iterator it = edges.begin(); it != edges.end();  ++it){
-							ForwardEdge edge(DFS_CODE[rmpath[i]].from,(*it)->elabel,TransDB()[id]->graph[(*it)->to].label);
-							childrenOfThread[thread_id].new_fwd_root[edge].emplace_back (cur->tid, *it, cur);
-						}
-			}
-
-			// merge childrenOfThread elements into children
-			for(int i = 0; i < THREADS; i++){
-				ChildrenT& children_i = childrenOfThread[i];
-				backEdge_Projected& back_root = children_i.new_bck_root;
-				forwardEdge_Projected2& forward_root = children_i.new_fwd_root;
-				for(backEdge_Projected::iterator it = back_root.begin(); it!= back_root.end(); it++){
-					GspanProjDB& pdb_i = it->second;
-					GspanProjDB& pdb = children.new_bck_root[it->first];
-					pdb.insert(pdb.end(), pdb_i.begin(), pdb_i.end());
-					pdb_i.clear(); // to release memory space timely
-				}
-				children_i.new_bck_root.clear(); // to release memory space timely
-				for(forwardEdge_Projected2::iterator it = forward_root.begin(); it!= forward_root.end(); it++){
-					GspanProjDB& pdb_i = it->second;
-					GspanProjDB& pdb = children.new_fwd_root[it->first];
-					pdb.insert(pdb.end(), pdb_i.begin(), pdb_i.end());
-					pdb_i.clear(); // to release memory space timely
-				}
-				children_i.new_fwd_root.clear(); // to release memory space timely
-			}
-		}
-
-		for(forwardProjected_iter2 it = children.new_fwd_root.begin(); it != children.new_fwd_root.end();){
-			GspanProjDB& pdb = it->second;
-			int sup = pdb.support();
-			if (sup < minsup) {
-				forwardProjected_iter2 tmp = it;
-				++tmp;
-				children.new_fwd_root.erase(it);
-				it = tmp;
-			} else {
-				++it;
-			}
-		}
-		for(backProjected_iter it = children.new_bck_root.begin(); it != children.new_bck_root.end();){
-			GspanProjDB& pdb = it->second;
-			int sup = pdb.support();
-			if (sup < minsup) {
-				backProjected_iter tmp = it;
-				++tmp;
-				children.new_bck_root.erase(it);
-				it = tmp;
-			} else {
-				++it;
-			}
-		}
-
-		children.it2 = children.new_bck_root.begin();
-		children.it1 = children.new_fwd_root.begin();
-
-	}
-
-	/*
-	 * wrap a pattern and its project transactions into a new task
-	 * e: the child append to previous pattern
-	 * proj: the project transactions of new pattern
-	 */
-	Task* project(const Element& e, GspanProjDB& proj){
-		GspanTask* newTask = new GspanTask;
-		GspanPattern& newPat = newTask->pat;
-
-		//new pattern is old pattern plus new element
-		newPat.items.assign(pat.items.begin(),pat.items.end());
-		newPat.push (e.from,e.to,e.fromlabel,e.elabel,e.tolabel);
-
-		//swap the memory of projected database into new pattern.
-		newPat.pdb.swap(proj);
-		newPat.sup = proj.sup;
-
-		return newTask;
-	};
-
-	virtual Task* get_next_child(){
-		while(children.it2!=children.new_bck_root.end()){
-			BackEdge edge = children.it2->first;
-			Element e(maxtoc, edge.to, -1, edge.elabel, -1);
-			GspanProjDB& pdb = children.it2->second;
-			Task* newTask = this->project(e, pdb);
-			children.it2++;
-			//here the pattern and transaction are both ready, so delete infrequent and not canonical pattern here
-			if(!((GspanTask*)newTask)->is_min()) {
-				delete newTask;
-				continue;
-			}
-			return newTask;
-		}
-		while(children.it1!=children.new_fwd_root.end()){
-			ForwardEdge edge = children.it1->first;
-
-			Element e (edge.from, maxtoc+1, -1, edge.elabel, edge.toLabel);
-			GspanProjDB& pdb = children.it1->second;
-			Task* newTask = this->project(e, pdb);
-			children.it1++;
-			if(!((GspanTask*)newTask)->is_min()) {
-				delete newTask;
-				continue;
-			}
-			return newTask;
-		}
-		return 0;
-	}
-
-};
 
 
-#endif /* GSPANTASK_H_ */
+
+---------------------------------------------------
+    void set_options(const graphlab_options& opts) {
+      std::string ingress_method = "";
+
+      // hybrid cut
+      size_t threshold = 100;
+        //topox
+        size_t theta = 100;
+        size_t etheta = 1000;
+        size_t ceng = 1;
+      // ginger heuristic
+      size_t interval = std::numeric_limits<size_t>::max();
+      size_t nedges = 0;
+      size_t nverts = 0;
+      // bipartite
+      std::string favorite = "source"; /* source or target */
+
+      
+      // deprecated
+      size_t bufsize = 50000;
+      bool usehash = false;
+      bool userecent = false;
+
+      std::vector<std::string> keys = opts.get_graph_args().get_option_keys();
+      foreach(std::string opt, keys) {
+        if (opt == "ingress") {
+          opts.get_graph_args().get_option("ingress", ingress_method);
+          if (rpc.procid() == 0)
+            logstream(LOG_EMPH) << "Graph Option: ingress = "
+              << ingress_method << std::endl;
+        } else if (opt == "parallel_ingress") {
+         opts.get_graph_args().get_option("parallel_ingress", parallel_ingress);
+          if (!parallel_ingress && rpc.procid() == 0)
+            logstream(LOG_EMPH) << "Disable parallel ingress. Graph will be streamed through one node."
+              << std::endl;
+        } else if (opt == "threshold") {
+          opts.get_graph_args().get_option("threshold", threshold);
+          if (rpc.procid() == 0)
+            logstream(LOG_EMPH) << "Graph Option: threshold = "
+                                << threshold << std::endl;
+        }else if (opt == "ceng") {
+            opts.get_graph_args().get_option("ceng", ceng);
+            if (rpc.procid() == 0)
+                logstream(LOG_EMPH) << "Graph Option: ceng = "
+                                    << ceng << std::endl;
+        }
+        else if (opt == "theta") {
+            opts.get_graph_args().get_option("theta", theta);
+            if (rpc.procid() == 0)
+                logstream(LOG_EMPH) << "Graph Option: theta = "
+                                    << theta << std::endl;
+        }
+        else if (opt == "etheta"){
+            opts.get_graph_args().get_option("etheta", etheta);
+            if (rpc.procid() == 0)
+                logstream(LOG_EMPH) << "Graph Option: etheta = "
+                                    << etheta << std::endl;
+        }
+        else if (opt == "interval") {
+          opts.get_graph_args().get_option("interval", interval);
+          if (rpc.procid() == 0)
+            logstream(LOG_EMPH) << "Graph Option: interval = "
+                                << interval << std::endl;
+        }  else if (opt == "nedges") {
+          opts.get_graph_args().get_option("nedges", nedges);
+          if (rpc.procid() == 0)
+            logstream(LOG_EMPH) << "Graph Option: nedges = "
+                                << nedges << std::endl;
+        } else if (opt == "nverts") {
+          opts.get_graph_args().get_option("nverts", nverts);
+          if (rpc.procid() == 0)
+            logstream(LOG_EMPH) << "Graph Option: nverts = "
+                                << nverts << std::endl;
+        } else if (opt == "affinity") {
+          opts.get_graph_args().get_option("affinity", data_affinity);
+          if (rpc.procid() == 0)
+            logstream(LOG_EMPH) << "Graph Option: affinity = "
+                                << data_affinity << std::endl;
+        } else if (opt == "favorite") {
+          opts.get_graph_args().get_option("favorite", favorite);
+          if(favorite != "target") favorite = "source";
+          if (rpc.procid() == 0)
+            logstream(LOG_EMPH) << "Graph Option: favorite = "
+                                << favorite << std::endl;
+        }
+        
+        /**
+         * These options below are deprecated.
+         */
+        else if (opt == "bufsize") {
+          opts.get_graph_args().get_option("bufsize", bufsize);
+          if (rpc.procid() == 0)
+            logstream(LOG_EMPH) << "Graph Option: bufsize = "
+              << bufsize << std::endl;
+        } else if (opt == "usehash") {
+          opts.get_graph_args().get_option("usehash", usehash);
+          if (rpc.procid() == 0)
+            logstream(LOG_EMPH) << "Graph Option: usehash = "
+              << usehash << std::endl;
+        } else if (opt == "userecent") {
+          opts.get_graph_args().get_option("userecent", userecent);
+          if (rpc.procid() == 0)
+            logstream(LOG_EMPH) << "Graph Option: userecent = "
+              << userecent << std::endl;
+        }
+	else if (opt == "partitionfile") {
+          opts.get_graph_args().get_option("partitionfile", partitionfile);
+          if (rpc.procid() == 0)
+            logstream(LOG_EMPH) << "Graph Option: partitionfile = "
+              << partitionfile << std::endl;
+        }else{
+          logstream(LOG_ERROR) << "Unexpected Graph Option: " << opt << std::endl;
+        }
+      }
+        set_ingress_method(ingress_method, bufsize, usehash, userecent, favorite,
+                           threshold, theta,etheta, nedges, nverts, ceng, interval);
+    }
+
+
