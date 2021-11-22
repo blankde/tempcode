@@ -1,718 +1,1126 @@
-9973  |PDB| = 182
-9934  |PDB| = 186
-9917  |PDB| = 218
-9914  |PDB| = 197
-9888  |PDB| = 131
-9873  |PDB| = 193
-9847  |PDB| = 163
-9827  |PDB| = 247
-9820  |PDB| = 256
-9793  |PDB| = 121
-9781  |PDB| = 105
-9767  |PDB| = 159
-9749  |PDB| = 101
-9702  |PDB| = 154
-9686  |PDB| = 279
-9677  |PDB| = 251
-9645  |PDB| = 149
-9638  |PDB| = 127
-9627  |PDB| = 107
-9626  |PDB| = 333
-9614  |PDB| = 131
-9596  |PDB| = 164
-9567  |PDB| = 199
-9556  |PDB| = 197
-9552  |PDB| = 175
-9533  |PDB| = 144
-9518  |PDB| = 103
-9509  |PDB| = 246
-9488  |PDB| = 160
-9462  |PDB| = 127
-9449  |PDB| = 575
-9397  |PDB| = 235
-9386  |PDB| = 177
-9344  |PDB| = 227
-9329  |PDB| = 105
-9303  |PDB| = 137
-9300  |PDB| = 658
-9300 7284  |PDB| = 107
-9300 7284 4026  |PDB| = 100
-9300 324  |PDB| = 111
-9300 324 4026  |PDB| = 102
-9275  |PDB| = 114
-9243  |PDB| = 285
-9243 9021  |PDB| = 115
-9217  |PDB| = 201
-9189  |PDB| = 169
-9179  |PDB| = 197
-9163  |PDB| = 310
-9163 9446  |PDB| = 106
-9148  |PDB| = 353
-9119  |PDB| = 275
-9104  |PDB| = 166
-9101  |PDB| = 124
-9083  |PDB| = 125
-9077  |PDB| = 169
-9066  |PDB| = 119
-9064  |PDB| = 119
-9040  |PDB| = 133
-9039  |PDB| = 104
-9021  |PDB| = 295
-9013  |PDB| = 222
-8988  |PDB| = 100
-8962  |PDB| = 170
-8956  |PDB| = 134
-8948  |PDB| = 124
-8943  |PDB| = 158
-8925  |PDB| = 246
-8925 6063  |PDB| = 105
-8916  |PDB| = 120
-8899  |PDB| = 169
-8883  |PDB| = 177
-8832  |PDB| = 112
-8819  |PDB| = 275
-8819 7620  |PDB| = 107
-8803  |PDB| = 393
-8785  |PDB| = 107
-8783  |PDB| = 198
-8783 9731  |PDB| = 101
-8783 9300  |PDB| = 112
-8783 9300 4026  |PDB| = 103
-8783 860  |PDB| = 100
-8783 324  |PDB| = 111
-8783 324 4026  |PDB| = 106
-8751 1256  |PDB| = 117
-8751 1256 2422  |PDB| = 105
-8694  |PDB| = 104
-8687  |PDB| = 472
-8644  |PDB| = 181
-8634  |PDB| = 220
-8605  |PDB| = 117
-8595  |PDB| = 122
-8557  |PDB| = 144
-8546  |PDB| = 225
-8527  |PDB| = 154
-8526  |PDB| = 108
-8512  |PDB| = 102
-8505  |PDB| = 113
-8487  |PDB| = 178
-8473  |PDB| = 119
-8466  |PDB| = 134
-8456  |PDB| = 184
-8439  |PDB| = 140
-8436  |PDB| = 194
-8430  |PDB| = 120
-8420  |PDB| = 474
-8392  |PDB| = 266
-8392 3334  |PDB| = 120
-8382  |PDB| = 102
-8395 5346  |PDB| = 107
-8365  |PDB| = 160
-8365 8938  |PDB| = 137
-8365 8938 2345  |PDB| = 118
-8349  |PDB| = 139
-8351 47  |PDB| = 121
-8351 47 1698  |PDB| = 113
-8351 47 819  |PDB| = 109
-8351 47 819 1698  |PDB| = 102
-8310  |PDB| = 178
-8299  |PDB| = 195
-8289  |PDB| = 197
-8289 8784  |PDB| = 114
-8275  |PDB| = 212
-8244  |PDB| = 209
-8244 1945  |PDB| = 108
-8206  |PDB| = 123
-8185  |PDB| = 318
-8142  |PDB| = 151
-8126  |PDB| = 116
-8117  |PDB| = 371
-8086  |PDB| = 101
-8083  |PDB| = 166
-8083 8351  |PDB| = 131
-8083 8351 1698  |PDB| = 117
-8058  |PDB| = 204
-8044  |PDB| = 232
-8018  |PDB| = 170
-8008  |PDB| = 158
-7988  |PDB| = 150
-7977  |PDB| = 268
-7977 1406  |PDB| = 101
-7887 1354  |PDB| = 103
-7858  |PDB| = 113
-7855  |PDB| = 179
-7844  |PDB| = 118
-7841  |PDB| = 103
-7840  |PDB| = 169
-7799  |PDB| = 100
-7794  |PDB| = 263
-7750  |PDB| = 163
-7726  |PDB| = 111
-7707  |PDB| = 143
-7682  |PDB| = 104
-7660  |PDB| = 103
-7655  |PDB| = 129
-7627  |PDB| = 268
-7627 8341  |PDB| = 189
-7614  |PDB| = 194
-7594  |PDB| = 104
-7592  |PDB| = 134
-7580  |PDB| = 239
-7580 7669  |PDB| = 225
-7531  |PDB| = 156
-7525  |PDB| = 280
-7505  |PDB| = 139
-7450  |PDB| = 169
-7437  |PDB| = 174
-7418  |PDB| = 131
-7400  |PDB| = 287
-7400 4752  |PDB| = 101
-7377  |PDB| = 144
-7350  |PDB| = 106
-7316  |PDB| = 196
-7316 8300  |PDB| = 106
-7263  |PDB| = 116
-7256  |PDB| = 183
-7223  |PDB| = 112
-7203  |PDB| = 140
-7183  |PDB| = 103
-7166  |PDB| = 166
-7125  |PDB| = 158
-7116  |PDB| = 259
-7083  |PDB| = 239
-7059  |PDB| = 106
-7035  |PDB| = 162
-7028  |PDB| = 135
-7028 8682  |PDB| = 135
-6976  |PDB| = 262
-6952  |PDB| = 288
-6926  |PDB| = 161
-6910  |PDB| = 109
-6910 8718  |PDB| = 105
-6896  |PDB| = 415
-6817  |PDB| = 201
-6779  |PDB| = 244
-6749  |PDB| = 220
-6736  |PDB| = 372
-6709  |PDB| = 206
-6730 1868  |PDB| = 101
-6730 1868 6063  |PDB| = 100
-6698  |PDB| = 118
-6688  |PDB| = 183
-6676  |PDB| = 125
-6648  |PDB| = 131
-6614  |PDB| = 435
-6608 2062  |PDB| = 107
-6608 2062 8392  |PDB| = 100
-6584  |PDB| = 208
-6536  |PDB| = 168
-6527  |PDB| = 108
-6510  |PDB| = 104
-6505  |PDB| = 438
-6477  |PDB| = 109
-6466  |PDB| = 126
-6442  |PDB| = 108
-6433  |PDB| = 114
-6416  |PDB| = 141
-6383  |PDB| = 223
-6363  |PDB| = 237
-6363 8020  |PDB| = 100
-6413 3820 4007  |PDB| = 100
-6413 3820 3825  |PDB| = 100
-6413 3820 3825 4007  |PDB| = 100
-6413 3026 4007  |PDB| = 102
-6413 3797 3820  |PDB| = 102
-6413 3797 1032  |PDB| = 100
-6413 3026 3825  |PDB| = 102
-6413 3026 3825 4007  |PDB| = 101
-6413 3026 1032  |PDB| = 115
-6413 3026 1032 6048  |PDB| = 103
-6413 3026 3820 2412  |PDB| = 105
-6413 3820 1032  |PDB| = 110
-6413 3820 1032 6048  |PDB| = 100
-6413 2412 4007  |PDB| = 101
-6413 2412 3825  |PDB| = 100
-6413 2412 3825 4007  |PDB| = 100
-6413 1414  |PDB| = 142
-6413 1414 6048  |PDB| = 101
-6413 1414 2412  |PDB| = 105
-6413 1414 1032  |PDB| = 105
-6413 1414 1032 2412  |PDB| = 104
-6413 1492 3797 1414  |PDB| = 106
-6413 1492 3797 1414 2235  |PDB| = 105
-6413 2235 3026  |PDB| = 109
-6341  |PDB| = 161
-6341 8316  |PDB| = 155
-6334  |PDB| = 307
-6307  |PDB| = 275
-6287  |PDB| = 215
-6256  |PDB| = 140
-6244  |PDB| = 150
-6234  |PDB| = 258
-6234 7387  |PDB| = 115
-6183  |PDB| = 240
-6157  |PDB| = 144
-6153  |PDB| = 226
-6107  |PDB| = 225
-6083  |PDB| = 199
-6069  |PDB| = 144
-6064 9021  |PDB| = 112
-6063  |PDB| = 269
-6049  |PDB| = 263
-6034  |PDB| = 106
-6016  |PDB| = 196
-6013  |PDB| = 122
-5994  |PDB| = 192
-5970  |PDB| = 121
-5950  |PDB| = 111
-5944  |PDB| = 102
-5938  |PDB| = 124
-5938 6687  |PDB| = 100
-5925  |PDB| = 108
-5923  |PDB| = 448
-5923 8743  |PDB| = 101
-5876  |PDB| = 180
-5861  |PDB| = 112
-5861 9569  |PDB| = 103
-5838  |PDB| = 234
-5838 9955  |PDB| = 149
-5790  |PDB| = 172
-5773  |PDB| = 175
-5728  |PDB| = 124
-5722  |PDB| = 223
-5708  |PDB| = 329
-5656  |PDB| = 193
-5656 8784  |PDB| = 102
-5656 4183  |PDB| = 103
-5614  |PDB| = 133
-5613  |PDB| = 113
-5636 4772  |PDB| = 122
-5636 4772 4511  |PDB| = 113
-5636 4772 4511 3379  |PDB| = 100
-5636 4772 4511 1514  |PDB| = 106
-5602  |PDB| = 197
-5585  |PDB| = 345
-5560  |PDB| = 413
-5560 6815  |PDB| = 100
-5530  |PDB| = 124
-5505  |PDB| = 117
-5505 5801  |PDB| = 116
-5460  |PDB| = 170
-5417  |PDB| = 109
-5477 1514  |PDB| = 103
-5408  |PDB| = 146
-5477 4772 1514  |PDB| = 101
-5386  |PDB| = 243
-5367  |PDB| = 196
-5349  |PDB| = 230
-5339  |PDB| = 163
-5337  |PDB| = 227
-5333  |PDB| = 118
-5317  |PDB| = 163
-5305  |PDB| = 217
-5283  |PDB| = 327
-5221  |PDB| = 110
-5210  |PDB| = 130
-5208  |PDB| = 123
-5201  |PDB| = 220
-5159  |PDB| = 256
-5159 8332  |PDB| = 101
-5159 869  |PDB| = 100
-5123  |PDB| = 117
-5116  |PDB| = 333
-5109  |PDB| = 255
-5050  |PDB| = 101
-5035  |PDB| = 334
-4993  |PDB| = 225
-4966  |PDB| = 128
-4958  |PDB| = 434
-4927  |PDB| = 125
-4927 8275  |PDB| = 115
-4896  |PDB| = 202
-4936 9021  |PDB| = 161
-4936 6064  |PDB| = 117
-4936 6064 9243  |PDB| = 116
-4936 6064 9243 9021  |PDB| = 105
-4936 1201 9021  |PDB| = 105
-4936 1201 6064  |PDB| = 115
-4936 1201 6064 9243  |PDB| = 114
-4936 1201 6064 9243 9021  |PDB| = 103
-4936 1201 6064 9021  |PDB| = 103
-4871  |PDB| = 194
-4848  |PDB| = 136
-4825  |PDB| = 114
-4799  |PDB| = 185
-4788  |PDB| = 143
-4787  |PDB| = 159
-4769  |PDB| = 213
-4754  |PDB| = 167
-4772 7525  |PDB| = 103
-4772 4548  |PDB| = 103
-4772 4548 7525  |PDB| = 101
-4772 3379  |PDB| = 114
-4772 1514  |PDB| = 118
-4772 1514 3379  |PDB| = 108
-4742  |PDB| = 198
-4724  |PDB| = 163
-4712  |PDB| = 200
-4705  |PDB| = 367
-4668  |PDB| = 291
-4647  |PDB| = 266
-4599  |PDB| = 260
-4599 9281  |PDB| = 149
-4564  |PDB| = 197
-4548  |PDB| = 277
-4548 7525  |PDB| = 107
-4543  |PDB| = 170
-4541  |PDB| = 143
-4525  |PDB| = 127
-4506  |PDB| = 129
-4500  |PDB| = 203
-4500 8477  |PDB| = 106
-4451  |PDB| = 147
-4429  |PDB| = 103
-4426  |PDB| = 137
-4418  |PDB| = 385
-4418 9903  |PDB| = 110
-4394  |PDB| = 172
-4374  |PDB| = 155
-4354  |PDB| = 133
-4333  |PDB| = 274
-4292  |PDB| = 213
-4252  |PDB| = 128
-4250  |PDB| = 117
-4242  |PDB| = 247
-4215  |PDB| = 182
-4189  |PDB| = 118
-4173  |PDB| = 150
-4169  |PDB| = 247
-4169 9705  |PDB| = 135
-4114  |PDB| = 113
-4093  |PDB| = 179
-4055  |PDB| = 144
-4028  |PDB| = 105
-4026  |PDB| = 333
-4026 9731  |PDB| = 114
-4026 3408  |PDB| = 113
-4026 3408 9731  |PDB| = 110
-3999  |PDB| = 215
-3967  |PDB| = 139
-3967 6383  |PDB| = 105
-3934  |PDB| = 132
-3925  |PDB| = 128
-3884  |PDB| = 152
-3867  |PDB| = 144
-3845  |PDB| = 114
-3845 5670  |PDB| = 110
-3831  |PDB| = 168
-3824  |PDB| = 125
-3800  |PDB| = 206
-3820 1032  |PDB| = 124
-3820 1032 6048  |PDB| = 111
-3794  |PDB| = 128
-3793  |PDB| = 126
-3797 3825  |PDB| = 101
-3797 3026  |PDB| = 144
-3797 3026 6048  |PDB| = 127
-3797 3026 3820  |PDB| = 104
-3797 3026 1032  |PDB| = 101
-3763  |PDB| = 133
-3744  |PDB| = 150
-3720  |PDB| = 100
-3696  |PDB| = 123
-3689  |PDB| = 309
-3664  |PDB| = 120
-3652  |PDB| = 101
-3640  |PDB| = 153
-3640 9498  |PDB| = 112
-3638  |PDB| = 204
-3638 6492  |PDB| = 119
-3611  |PDB| = 230
-3588  |PDB| = 134
-3575  |PDB| = 105
-3567  |PDB| = 175
-3565  |PDB| = 146
-3554  |PDB| = 435
-3546  |PDB| = 242
-3531  |PDB| = 108
-3512  |PDB| = 180
-3500  |PDB| = 148
-3495  |PDB| = 122
-3481  |PDB| = 340
-3481 2505  |PDB| = 105
-3478  |PDB| = 107
-3464  |PDB| = 199
-3452  |PDB| = 115
-3415  |PDB| = 121
-3421 4026  |PDB| = 117
-3421 52  |PDB| = 102
-3421 7284 324  |PDB| = 100
-3383  |PDB| = 387
-3354  |PDB| = 113
-3336  |PDB| = 145
-3348 3481  |PDB| = 106
-3334  |PDB| = 446
-3269  |PDB| = 174
-3269 9006  |PDB| = 101
-3269 2743  |PDB| = 109
-3269 1351  |PDB| = 121
-3269 1351 8925  |PDB| = 119
-3212  |PDB| = 142
-3205  |PDB| = 140
-3175  |PDB| = 161
-3132  |PDB| = 206
-3132 8085  |PDB| = 197
-3063  |PDB| = 131
-3107 9282  |PDB| = 122
-3107 9282 3464  |PDB| = 105
-3107 3888 3464  |PDB| = 106
-3038  |PDB| = 111
-3026  |PDB| = 539
-3026 6048  |PDB| = 165
-3026 6048 4007  |PDB| = 105
-3026 3820  |PDB| = 134
-3026 3820 6048  |PDB| = 117
-3026 3820 3825  |PDB| = 100
-3026 3820 3825 4007  |PDB| = 100
-3026 1032 4007  |PDB| = 103
-3026 1032 3825  |PDB| = 103
-3026 1032 3825 4007  |PDB| = 101
-3026 3820 1032  |PDB| = 114
-3026 3820 1032 6048  |PDB| = 102
-3026 1032 2412 4007  |PDB| = 102
-3026 2412 4007  |PDB| = 105
-3026 2412 3825  |PDB| = 104
-3026 2412 3825 4007  |PDB| = 103
-2930  |PDB| = 107
-2921  |PDB| = 186
-2911  |PDB| = 424
-2877  |PDB| = 184
-2832  |PDB| = 345
-2810  |PDB| = 108
-2789  |PDB| = 209
-2749  |PDB| = 134
-2749 3063  |PDB| = 111
-2727  |PDB| = 218
-2688  |PDB| = 253
-2651  |PDB| = 193
-2647  |PDB| = 116
-2630  |PDB| = 134
-2620  |PDB| = 135
-2612  |PDB| = 237
-2612 5477  |PDB| = 132
-2612 5477 4772  |PDB| = 110
-2612 5477 4772 4511  |PDB| = 101
-2552  |PDB| = 384
-2504  |PDB| = 142
-2485  |PDB| = 107
-2477  |PDB| = 270
-2461  |PDB| = 150
-2453  |PDB| = 250
-2426  |PDB| = 116
-2412  |PDB| = 292
-2412 6048  |PDB| = 128
-2412 6048 4007  |PDB| = 103
-2401  |PDB| = 116
-2385  |PDB| = 142
-2382  |PDB| = 101
-2371  |PDB| = 166
-2371 6614  |PDB| = 113
-2351  |PDB| = 253
-2333  |PDB| = 215
-2312  |PDB| = 159
-2312 2655  |PDB| = 100
-2295  |PDB| = 117
-2288  |PDB| = 275
-2267  |PDB| = 105
-2261  |PDB| = 204
-2235  |PDB| = 601
-2235 6048  |PDB| = 118
-2235 3825  |PDB| = 106
-2235 3825 4007  |PDB| = 101
-2235 2412  |PDB| = 121
-2235 2412 6048  |PDB| = 104
-2235 3820 2412  |PDB| = 104
-2235 3026 2412  |PDB| = 108
-2172  |PDB| = 151
-2152  |PDB| = 553
-2106  |PDB| = 163
-2095  |PDB| = 124
-2084  |PDB| = 111
-2062  |PDB| = 194
-2062 8392  |PDB| = 110
-2013  |PDB| = 223
-1995  |PDB| = 171
-1981  |PDB| = 155
-1974  |PDB| = 233
-1956  |PDB| = 185
-1946  |PDB| = 145
-1946 9303  |PDB| = 135
-1929  |PDB| = 120
-1903  |PDB| = 324
-1855  |PDB| = 140
-1848  |PDB| = 113
-1838  |PDB| = 162
-1818  |PDB| = 125
-1811  |PDB| = 246
-1783  |PDB| = 219
-1773  |PDB| = 205
-1773 8113  |PDB| = 116
-1772  |PDB| = 158
-1761  |PDB| = 170
-1754  |PDB| = 107
-1731  |PDB| = 179
-1728  |PDB| = 122
-1719  |PDB| = 153
-1696  |PDB| = 170
-1677  |PDB| = 154
-1667  |PDB| = 222
-1652  |PDB| = 140
-1652 5393  |PDB| = 110
-1631  |PDB| = 158
-1631 8572  |PDB| = 100
-1631 4502  |PDB| = 101
-1610  |PDB| = 129
-1604  |PDB| = 122
-1592  |PDB| = 102
-1564  |PDB| = 228
-1519  |PDB| = 125
-1508  |PDB| = 135
-1492  |PDB| = 181
-1492 6048  |PDB| = 138
-1492 3820  |PDB| = 114
-1492 3026  |PDB| = 146
-1492 3026 6048  |PDB| = 128
-1492 3026 2412  |PDB| = 102
-1492 3797 3820  |PDB| = 110
-1478 6730 2743  |PDB| = 100
-1478 6730 1351  |PDB| = 107
-1478 6730 1351 8925  |PDB| = 106
-1492 3797 1414  |PDB| = 117
-1492 3797 1414 2235  |PDB| = 115
-1492 1414  |PDB| = 119
-1492 1414 2235  |PDB| = 117
-1454  |PDB| = 129
-1445  |PDB| = 113
-1417  |PDB| = 117
-1406  |PDB| = 240
-1389  |PDB| = 180
-1389 8456  |PDB| = 116
-1371  |PDB| = 137
-1414 2235  |PDB| = 318
-1414 2235 6048  |PDB| = 114
-1414 2235 3026  |PDB| = 123
-1414 2235 3026 6048  |PDB| = 103
-1414 2235 3026 1032  |PDB| = 106
-1414 2235 3026 1032 2412  |PDB| = 104
-1354  |PDB| = 198
-1344  |PDB| = 298
-1351 2743  |PDB| = 107
-1351 1868  |PDB| = 104
-1351 1868 6063  |PDB| = 102
-1330  |PDB| = 176
-1317  |PDB| = 187
-1285  |PDB| = 298
-1260  |PDB| = 148
-1253  |PDB| = 113
-1231  |PDB| = 103
-1222  |PDB| = 165
-1256 2007  |PDB| = 114
-1216  |PDB| = 105
-1206  |PDB| = 184
-1203  |PDB| = 141
-1201  |PDB| = 127
-1201 9243  |PDB| = 126
-1201 9243 9021  |PDB| = 112
-1194  |PDB| = 374
-1201 6064 9021  |PDB| = 110
-1178  |PDB| = 242
-1202 4558 5346  |PDB| = 106
-1147  |PDB| = 101
-1136  |PDB| = 186
-1114  |PDB| = 347
-1114 7284  |PDB| = 114
-1075  |PDB| = 279
-1075 5966  |PDB| = 151
-1033  |PDB| = 132
-1030  |PDB| = 162
-1008  |PDB| = 343
-1032 2412 4007  |PDB| = 110
-990  |PDB| = 296
-983  |PDB| = 177
-959  |PDB| = 187
-944  |PDB| = 268
-922  |PDB| = 209
-916  |PDB| = 161
-902  |PDB| = 127
-900  |PDB| = 185
-920 7620  |PDB| = 103
-898  |PDB| = 132
-897  |PDB| = 116
-866  |PDB| = 220
-837  |PDB| = 121
-837 3673  |PDB| = 118
-810  |PDB| = 176
-796  |PDB| = 333
-770  |PDB| = 315
-735  |PDB| = 102
-732  |PDB| = 265
-732 1214  |PDB| = 170
-643  |PDB| = 112
-625  |PDB| = 112
-597  |PDB| = 146
-585  |PDB| = 146
-617 2062  |PDB| = 119
-617 2062 8392  |PDB| = 108
-544  |PDB| = 112
-534  |PDB| = 129
-534 913  |PDB| = 127
-552 7620  |PDB| = 104
-517  |PDB| = 329
-489  |PDB| = 111
-472  |PDB| = 218
-512 9401  |PDB| = 102
-448  |PDB| = 253
-448 9243  |PDB| = 117
-448 9243 9021  |PDB| = 106
-448 4936  |PDB| = 156
-448 4936 9243  |PDB| = 107
-448 4936 9021  |PDB| = 139
-448 1201 9021  |PDB| = 104
-448 1201 6064  |PDB| = 114
-448 1201 6064 9243  |PDB| = 113
-448 1201 6064 9243 9021  |PDB| = 102
-448 1201 6064 9021  |PDB| = 102
-448 4936 6064  |PDB| = 105
-448 4936 6064 9243  |PDB| = 104
-406  |PDB| = 203
-406 6896  |PDB| = 149
-374  |PDB| = 116
-362  |PDB| = 116
-350  |PDB| = 104
-346  |PDB| = 156
-354 5307  |PDB| = 111
-354 5307 5585  |PDB| = 111
-319  |PDB| = 122
-319 2345  |PDB| = 121
-286  |PDB| = 189
-273  |PDB| = 116
-267  |PDB| = 316
-320 5346  |PDB| = 130
-320 5346 7325  |PDB| = 111
-220  |PDB| = 156
-217  |PDB| = 140
-129  |PDB| = 373
-129 5373  |PDB| = 163
-188 4936 9021  |PDB| = 143
-188 4936 6064  |PDB| = 103
-188 4936 6064 9243  |PDB| = 102
-111  |PDB| = 108
-90  |PDB| = 101
-75  |PDB| = 137
-69  |PDB| = 121
-55  |PDB| = 225
-46  |PDB| = 149
-32  |PDB| = 117
-28  |PDB| = 107
-18  |PDB| = 154
-8  |PDB| = 148
+                /*
+
+NUDT wjy
+ */
+
+
+#ifndef GRAPHLAB_DISTRIBUTED_TOPOX_INGRESS_HPP
+#define GRAPHLAB_DISTRIBUTED_TOPOX_INGRESS_HPP
+
+#include <boost/functional/hash.hpp>
+
+
+#include <graphlab/graph/graph_basic_types.hpp>
+#include <graphlab/graph/ingress/distributed_ingress_base.hpp>
+#include <graphlab/graph/distributed_graph.hpp>
+#include <graphlab/graph/graph_hash.hpp>
+#include <graphlab/rpc/buffered_exchange.hpp>
+#include <graphlab/rpc/distributed_event_log.hpp>
+#include <graphlab/parallel/pthread_tools.hpp>
+#include <graphlab/logger/logger.hpp>
+#include <vector>
+#include <queue>
+
+
+#include <graphlab/macros_def.hpp>
+
+#define TUNING
+namespace graphlab {
+  template<typename VertexData, typename EdgeData>
+  class distributed_graph;
+
+  /**
+   * \brief Ingress object assigning edges using a topoX method.
+   *        That is, for high degree edge, hashing from its source vertex;
+   *        for low degree edge, hashing from its target vertex.
+   */
+  template<typename VertexData, typename EdgeData>
+  class distributed_topoX_ingress :
+    public distributed_ingress_base<VertexData, EdgeData> {
+  public:
+    typedef distributed_graph<VertexData, EdgeData> graph_type;
+    /// The type of the vertex data stored in the graph
+    typedef VertexData vertex_data_type;
+    /// The type of the edge data stored in the graph
+    typedef EdgeData   edge_data_type;
+
+    typedef distributed_ingress_base<VertexData, EdgeData> base_type;
+
+    typedef typename graph_type::vertex_record vertex_record;
+    typedef typename graph_type::mirror_type mirror_type;
+
+    typedef typename buffered_exchange<vertex_id_type>::buffer_type
+        vertex_id_buffer_type;
+
+    /// The rpc interface for this object
+    dc_dist_object<distributed_topoX_ingress> topoX_rpc;
+    /// The underlying distributed graph object that is being loaded
+    graph_type& graph;
+
+    /// threshold to divide high-degree and low-degree vertices
+    size_t threshold;
+	size_t theta;
+	size_t etheta;
+	size_t ceng;
+
+    bool standalone;
+
+    typedef typename base_type::edge_buffer_record edge_buffer_record;
+    typedef typename buffered_exchange<edge_buffer_record>::buffer_type
+        edge_buffer_type;
+
+    typedef typename base_type::vertex_buffer_record vertex_buffer_record;
+    typedef typename buffered_exchange<vertex_buffer_record>::buffer_type
+        vertex_buffer_type;
+
+    std::vector<edge_buffer_record> topoX_edges;
+
+    /* ingress exchange */
+    buffered_exchange<edge_buffer_record> topoX_edge_exchange;
+    buffered_exchange<vertex_buffer_record> topoX_vertex_exchange;
+
+    /// detail vertex record for the second pass coordination.
+    typedef typename base_type::vertex_negotiator_record
+      vertex_negotiator_record;
+	typedef typename boost::unordered_map<vertex_id_type, std::vector<vertex_id_type> > target_hash_table_type;
+	std::queue<vertex_id_type> p_queue;
+
+	target_hash_table_type iht;
+	target_hash_table_type oht;
+	typedef typename boost::unordered_map<vertex_id_type,int> flag_hash_table_type;
+	flag_hash_table_type fht;
+	flag_hash_table_type flaght;
+	flag_hash_table_type countht;
+	typedef typename boost::unordered_map<vertex_id_type, size_t> degree_hash_table_type;
+	degree_hash_table_type dht;
+	mutex point_lock;
+	//mutex lock2;
+
+	typedef typename boost::unordered_map<vertex_id_type, size_t > vertex_hash_table_type;
+	vertex_hash_table_type vht;
+	size_t* count;         //��¼���ڵ����еķ��䵽�ıߵ���Ŀ����ηֲ�ʽ��
+	typedef typename std::pair<vertex_id_type, size_t> hash_pair_type;
+	buffered_exchange<hash_pair_type> vht_exchange;
+	typedef typename buffered_exchange<hash_pair_type>::buffer_type vht_buffer_type;
+  public:
+    distributed_topoX_ingress(distributed_control& dc,
+		graph_type& graph, size_t threshold = 100, size_t theta = 100,size_t etheta=1000,size_t ceng=1) :
+        base_type(dc, graph), topoX_rpc(dc, this),
+		graph(graph), threshold(threshold), theta(theta), etheta(etheta),ceng(ceng),
+#ifdef _OPENMP
+        topoX_edge_exchange(dc, omp_get_max_threads()),
+		vht_exchange(dc, omp_get_max_threads()),
+        topoX_vertex_exchange(dc, omp_get_max_threads())
+#else
+        topoX_edge_exchange(dc),
+        vht_exchange(dc),
+        topoX_vertex_exchange(dc)
+#endif
+    {
+      /* fast pass for standalone case. */
+      standalone = topoX_rpc.numprocs() == 1;
+      topoX_rpc.barrier();
+        count = (size_t *) malloc((topoX_rpc.numprocs() / ceng)*sizeof (size_t));
+    } // end of constructor
+
+    ~distributed_topoX_ingress() {
+        free (count);
+    }
+
+    /** Add an edge to the ingress object using random hashing assignment.
+     *  This function acts as the first phase for SNAP graph to deliver edges
+     *  via the hashing value of its target vertex.
+     */
+    void add_edge(vertex_id_type source, vertex_id_type target,
+                  const EdgeData& edata) {
+		size_t numproc = topoX_rpc.numprocs();
+		const edge_buffer_record record(source, target, edata);
+		const size_t sh = source%numproc;
+		const size_t th = target%numproc;
+#ifdef _OPENMP
+		if (sh!=th)
+			topoX_edge_exchange.send(sh, record, omp_get_thread_num());
+		topoX_edge_exchange.send(th, record, omp_get_thread_num());
+#else
+		if (sh != th)
+			topoX_edge_exchange.send(sh, record);                  //��һ���߷���source��target���ڵ������ڵ��£����λ��ͬһ�ڵ㣬ֻ����һ��
+		topoX_edge_exchange.send(th, record);
+#endif
+
+    } // end of add edge
+
+
+    /* add vdata */
+    void add_vertex(vertex_id_type vid, const VertexData& vdata) {
+      const vertex_buffer_record record(vid, vdata);
+      const procid_t owning_proc = standalone ? 0 :
+        vid % topoX_rpc.numprocs();
+#ifdef _OPENMP
+      topoX_vertex_exchange.send(owning_proc, record, omp_get_thread_num());
+#else
+      topoX_vertex_exchange.send(owning_proc, record);
+#endif
+    } // end of add vertex
+
+
+
+
+	void set_queue(const size_t& v, const size_t& owning,const size_t& vp,const size_t& topoXcount){
+		if (flaght[v] == 0){
+			point_lock.lock();
+			p_queue.push(v);
+			if (fht[v] == -1){
+				fht[v] = owning;
+				countht[v] = topoXcount+1;
+			}
+			point_lock.unlock();
+		}
+		if (flaght[vp] == 0){
+			flaght[vp] = 1;
+		}
+		if (fht[vp] == -1){
+			fht[vp] = owning;
+		}
+
+	}
+	void add_queue(const size_t& v,const size_t& owning,const size_t& vp,const size_t& topoXcount){
+		size_t owningmachine = v%topoX_rpc.numprocs();
+		if (owningmachine != topoX_rpc.procid())
+			topoX_rpc.remote_call(owningmachine, &distributed_topoX_ingress<VertexData, EdgeData>::set_queue, v, owning, vp,topoXcount);
+		else
+			set_queue(v, owning,vp,topoXcount);
+	}
+
+
+    void finalize() {
+
+      graphlab::timer ti;
+
+      size_t nprocs = topoX_rpc.numprocs();
+	  size_t cnodes = nprocs / ceng;
+      procid_t l_procid = topoX_rpc.procid();
+      size_t nedges = 0;
+
+      topoX_rpc.full_barrier();
+
+      if (l_procid == 0) {
+        memory_info::log_usage("start finalizing");
+        logstream(LOG_EMPH) << "topoX finalizing ..."
+                            << " #vertices=" << graph.local_graph.num_vertices()
+                            << " #edges=" << graph.local_graph.num_edges()
+                            << " threshold=" << threshold
+							<< " theta=" << theta
+							<< "etheta=" <<etheta
+                            << std::endl;
+      }
+
+
+      /**************************************************************************/
+      /*                                                                        */
+      /*                       Flush any additional data                        */
+      /*                                                                        */
+      /**************************************************************************/
+      topoX_edge_exchange.flush(); topoX_vertex_exchange.flush();
+
+      /**
+       * Fast pass for redundant finalization with no graph changes.
+       */
+      {
+        size_t changed_size = topoX_edge_exchange.size() + topoX_vertex_exchange.size();
+        topoX_rpc.all_reduce(changed_size);
+        if (changed_size == 0) {
+          logstream(LOG_INFO) << "Skipping Graph Finalization because no changes happened..." << std::endl;
+          return;
+        }
+      }
+
+
+      /**************************************************************************/
+      /*                                                                        */
+      /*                       Prepare topoX ingress                           */
+      /*                                                                        */
+      /**************************************************************************/
+      {
+        edge_buffer_type edge_buffer;
+        procid_t proc;
+        nedges = topoX_edge_exchange.size();
+
+        topoX_edges.reserve(nedges);
+        if (standalone) { /* fast pass for standalone */
+          proc = -1;
+          while(topoX_edge_exchange.recv(proc, edge_buffer))
+			  foreach(const edge_buffer_record& rec, edge_buffer){
+				  if (rec.target%nprocs == l_procid){
+					  topoX_edges.push_back(rec);
+					  iht[rec.target].push_back(rec.source); //in-degree hash table
+					  if (rec.source%nprocs == l_procid)
+						  oht[rec.source].push_back(rec.target); //out-degree hash table
+				  }
+				  else{
+					  oht[rec.source].push_back(rec.target);
+				  }
+				  fht[rec.source] = -1;
+				  fht[rec.target] = -1;
+				  flaght[rec.target] = 0;
+				  flaght[rec.source] = 0;
+
+			  }
+
+          topoX_edge_exchange.clear();
+        } else {
+
+
+          proc = -1;
+          while(topoX_edge_exchange.recv(proc, edge_buffer)) {
+
+				foreach(const edge_buffer_record& rec, edge_buffer){         //��Ŀ�ĵ�洢�ñߣ������ݱ߹���iht��oht
+ 					if (rec.target%nprocs == l_procid){
+						topoX_edges.push_back(rec);
+						iht[rec.target].push_back(rec.source);
+						if (rec.source%nprocs == l_procid)
+							oht[rec.source].push_back(rec.target);
+					}
+					else{
+						oht[rec.source].push_back(rec.target);
+					}
+					fht[rec.source] = -1;                                 //fht���ã�mapping proc hash table
+					fht[rec.target] = -1;
+					flaght[rec.target] = 0;
+					flaght[rec.source] = 0;
+					countht[rec.target] = 0;
+
+				}
+
+
+          }
+          topoX_edge_exchange.clear();
+          topoX_edge_exchange.barrier(); // barrier before reusing
+#ifdef TUNING
+          if(l_procid == 0) {
+            logstream(LOG_INFO) << "iet,oet building in parallel: "
+                                << ti.current_time()
+                                << " secs"
+                                << std::endl;
+          }
+#endif
+		  //size_t point[1000]; // ��ǰ�ȴ�����ĵ�Ķ���
+		  //size_t topoX_count=0;
+		  //int point_count = -1;
+		  double last_time = 0.0+ti.current_time();
+		  for (size_t ix = 0; ix < cnodes; ix++)
+			  count[ix] = 0;
+		  for (target_hash_table_type::iterator iter = iht.begin(); iter != iht.end(); iter++){
+			  //logstream(LOG_INFO) << "in ok!" << std::endl;
+			  //   topoX_rpc.cout() << iht[iter->first].size() << std::endl;
+			  if (l_procid == 0&&ti.current_time()-last_time>2) {
+				  for (size_t ix = 0; ix < cnodes; ix++)
+					  logstream(LOG_INFO) << count[ix] <<" ";
+				  logstream(LOG_INFO) << std::endl;
+				  last_time = 0.0+ti.current_time();
+			  }
+			  dht[iter->first] = iht[iter->first].size();
+			  if (!p_queue.empty()){
+				  //logstream(LOG_INFO) << "queue ok!" << std::endl;
+				  while (!p_queue.empty()){
+					  point_lock.lock();
+					  size_t p_point = p_queue.front();
+					  p_queue.pop();
+					  point_lock.unlock();
+					  if (flaght[p_point] == 0){ // @wenwen�� flag hash table
+
+						  flaght[p_point] += 1; // @wenwen: check whether is visited
+
+						  procid_t min_proc = fht[p_point]; //@wenwen: current -1
+
+						  if (countht[p_point] > etheta){ //@wenwen: move to the smallest proc
+							  int temp2 = count[0];
+							  min_proc = 0;
+							  for (size_t ix = 1; ix < cnodes; ix++){
+								  if (temp2>count[ix]){
+									  temp2 = count[ix];
+									  min_proc = ix;
+								  }
+							  }
+							  fht[p_point] = min_proc;
+							  countht[p_point] = 0;
+						  }
+						  for (size_t ix = 0; ix < nprocs; ix++){
+							  if (ix != l_procid)
+								  vht_exchange.send(ix, hash_pair_type(p_point, min_proc));
+							  else
+								  vht[p_point] = min_proc; //@wenwen: vertex hash table
+						  }
+						  dht[p_point] = iht[p_point].size();
+						  if (dht[p_point] <= threshold)
+						       count[min_proc] += dht[p_point]; //@wenwen: we want to place p_point to min_proc
+						  if (dht[p_point] <= threshold&&oht[p_point].size() <= theta){
+
+							  for (size_t j = 0; j < dht[p_point]; j++){
+								  if (fht[iht[p_point][j]] == -1){
+									  fht[iht[p_point][j]] = min_proc;
+									  add_queue(iht[p_point][j], min_proc, p_point, countht[p_point]);
+								  }
+							  }
+							  for (size_t j = 0; j < oht[p_point].size(); j++){
+								  if (fht[oht[p_point][j]] == -1){
+									  fht[oht[p_point][j]] = min_proc;
+									  add_queue(oht[p_point][j], min_proc, p_point, countht[p_point]);
+								  }
+							  }
+						  }
+
+
+
+					  }
+
+				  }
+				  if (flaght[iter->first] == 0 && dht[iter->first]<=threshold){
+
+					  flaght[iter->first]+= 1;
+
+					  procid_t min_proc = 0;
+					  if (fht[iter->first] == -1){
+
+						  int temp2 = count[0];
+						  for (size_t ix = 1; ix < cnodes; ix++){
+							  if (temp2>count[ix]){
+								  temp2 = count[ix];
+								  min_proc = ix;
+							  }
+						  }
+						  fht[iter->first] = min_proc;                  //��һ�θ���fht����ʱֻ���±���fht
+					  }
+					  else {
+						  if (countht[iter->first] > etheta){
+							  int temp2 = count[0];
+							  for (size_t ix = 1; ix < cnodes; ix++){
+								  if (temp2>count[ix]){
+									  temp2 = count[ix];
+									  min_proc = ix;
+								  }
+							  }
+							  fht[iter->first] = min_proc;
+							  countht[iter->first] = 0;
+						  }
+						  else min_proc = fht[iter->first];
+					  }
+					  for (size_t ix = 0; ix < nprocs; ix++){
+						  if (ix != l_procid)
+							  vht_exchange.send(ix, hash_pair_type(iter->first, min_proc));
+						  else
+							  vht[iter->first] = min_proc;
+					  }
+					  if (dht[iter->first] <= threshold)
+						  count[min_proc] += dht[iter->first];
+					  if (dht[iter->first] <= threshold&&oht[iter->first].size() <= theta){
+
+						  for (size_t j = 0; j < dht[iter->first]; j++){
+							  if (fht[iht[iter->first][j]] == -1){
+								  fht[iht[iter->first][j]] = min_proc;
+								  add_queue(iht[iter->first][j], min_proc, iter->first, countht[iter->first]);
+							  }
+						  }
+
+						  for (size_t j = 0; j < oht[iter->first].size(); j++){
+							  if (fht[oht[iter->first][j]] == -1){
+								  fht[oht[iter->first][j]] = min_proc;
+								  add_queue(oht[iter->first][j], min_proc, iter->first, countht[iter->first]);
+							  }
+						  }
+
+					  }
+				  }
+
+
+			  }
+			  else{
+				  if (flaght[iter->first] == 0 && dht[iter->first] <= threshold){
+
+					  flaght[iter->first] += 1;
+
+					  procid_t min_proc = 0;
+					  if (fht[iter->first] == -1){
+
+						  int temp2 = count[0];
+						  for (size_t ix = 1; ix < cnodes; ix++){
+							  if (temp2>count[ix]){
+								  temp2 = count[ix];
+								  min_proc = ix;
+							  }
+						  }
+						  fht[iter->first] = min_proc;                  //��һ�θ���fht����ʱֻ���±���fht
+					  }
+					  else {
+						  if (countht[iter->first] > etheta){
+							  int temp2 = count[0];
+							  for (size_t ix = 1; ix < cnodes; ix++){
+								  if (temp2>count[ix]){
+									  temp2 = count[ix];
+									  min_proc = ix;
+								  }
+							  }
+							  fht[iter->first] = min_proc;
+							  countht[iter->first] = 0;
+						  }
+						  else min_proc = fht[iter->first];
+					  }
+					  for (size_t ix = 0; ix < nprocs; ix++){
+						  if (ix != l_procid)
+							  vht_exchange.send(ix, hash_pair_type(iter->first, min_proc ));
+						  else
+							  vht[iter->first] = min_proc;
+					  }
+					  if (dht[iter->first] <= threshold)
+						  count[min_proc] += dht[iter->first];
+					  if (dht[iter->first] <= threshold&&oht[iter->first].size() <= theta){
+
+						  for (size_t j = 0; j < dht[iter->first]; j++){
+							  if (fht[iht[iter->first][j]] == -1){
+								  fht[iht[iter->first][j]] = min_proc;
+								  add_queue(iht[iter->first][j], min_proc, iter->first, countht[iter->first]);
+							  }
+						  }
+
+						  for (size_t j = 0; j < oht[iter->first].size(); j++){
+							  if (fht[oht[iter->first][j]] == -1){
+								  fht[oht[iter->first][j]] = min_proc;
+								  add_queue(oht[iter->first][j], min_proc, iter->first, countht[iter->first]);
+							  }
+						  }
+
+					  }
+				  }
+			  }
+
+
+
+
+
+
+
+		  }
+
+		  for (target_hash_table_type::iterator iter = iht.begin(); iter != iht.end(); iter++){
+			  if (flaght[iter->first] > 1){
+				  logstream(LOG_INFO) << "flaght>2: " << iter->first << std::endl;
+			  }
+
+		  }
+		  topoX_rpc.full_barrier();
+		  if (l_procid == 0) {
+			  logstream(LOG_INFO) << "topo time: "
+				  << ti.current_time()
+				  << " secs"
+				  << std::endl;
+
+		  }
+		  iht.clear();
+		  oht.clear();
+		  //fht.clear();
+		 // flaght.clear();
+		  //countht.clear();
+		  vht_exchange.flush();
+		  vht_buffer_type vht_buffer;
+		  proc = -1;
+		  while (vht_exchange.recv(proc, vht_buffer)){
+			  foreach(const hash_pair_type& pair, vht_buffer){
+				  vht[pair.first] = pair.second;
+				  //logstream(LOG_INFO) << "first = " << pair.first << " second = " << pair.second << std::endl;
+			  }
+		  }
+		  vht_exchange.clear();
+		  //fht.clear();
+		  //vht_exchange.flush();                                   //
+		  //vht_buffer_type vht_buffer;
+		  //proc = -1;
+		 // while (vht_exchange.recv(proc, vht_buffer)){
+		//	  foreach(const hash_pair_type& pair, vht_buffer){
+			//	  vht[pair.first] = pair.second;
+				  //logstream(LOG_INFO) << "first = " << pair.first << " second = " << pair.second << std::endl;
+		//	  }
+		 // }
+		//  vht_exchange.clear();
+		  if (l_procid == 0) {
+			  for (size_t ix = 0; ix < cnodes; ix++)
+				  logstream(LOG_INFO) << " count[ " << ix << " ] = " << count[ix] << std::endl;
+		  }
+		  // re-send edges of high-degree vertices
+
+
+
+		  for (size_t i = 0; i < topoX_edges.size(); i++){
+			  procid_t owning_proc = 0;
+			  edge_buffer_record& rec = topoX_edges[i];
+			  if (dht[rec.target] <= threshold){
+				  if (vht.find(rec.target) != vht.end() && vht[rec.target]!=-1){
+					  owning_proc = vht[rec.target];
+				  }
+				  else{
+					  owning_proc = rec.target%cnodes;
+				  }
+				  if (owning_proc != l_procid){
+					  for (int j = 0; j < ceng; j++){
+						  topoX_edge_exchange.send(owning_proc%cnodes, rec);
+					  }
+
+					  // set re-sent edges as empty for skipping
+					  topoX_edges[i] = edge_buffer_record();
+					  --nedges;
+				  }
+
+			  }
+			  else{
+				  if (vht.find(rec.source) != vht.end()&&vht[rec.source]!=-1){
+					  owning_proc = vht[rec.source];
+				  }
+				  else {
+					  owning_proc = rec.source%cnodes;
+				  }
+				  if (owning_proc != l_procid){
+
+					  topoX_edge_exchange.send(owning_proc%cnodes, rec);
+
+
+					  // set re-sent edges as empty for skipping
+					  topoX_edges[i] = edge_buffer_record();
+					  --nedges;
+				  }
+			  }
+		  }
+
+#ifdef TUNING
+          if(l_procid == 0) {
+            logstream(LOG_INFO) << "resend edges time: "
+                                << ti.current_time()
+                                << " secs"
+                                << std::endl;
+
+          }
+#endif
+
+          // receive edges of high-degree vertices
+          topoX_edge_exchange.flush();
+#ifdef TUNING
+          logstream(LOG_INFO) << "receive high-degree edges: "
+                              << topoX_edge_exchange.size() << std::endl;
+#endif
+          proc = -1;
+          while(topoX_edge_exchange.recv(proc, edge_buffer)) {
+            foreach(const edge_buffer_record& rec, edge_buffer) {
+              topoX_edges.push_back(rec);
+              ++nedges;
+            }
+          }
+          topoX_edge_exchange.clear();
+
+#ifdef TUNING
+          if(l_procid == 0) {
+            logstream(LOG_INFO) << "receive resend edges time: "
+                                << ti.current_time()
+                                << " secs"
+                                << std::endl;
+          }
+#endif
+        }
+      }
+
+      if(l_procid == 0) {
+        memory_info::log_usage("prepare topoX finalizing done.");
+        logstream(LOG_EMPH) << "prepare topoX finalizing. ("
+                            << ti.current_time()
+                            << " secs)"
+                            << std::endl;
+      }
+
+      // connect to base finalize()
+      modified_base_finalize(nedges);
+
+      // set vertex degree type for topoX engine
+      set_degree_type();
+
+      if(l_procid == 0) {
+        memory_info::log_usage("topoX finalizing graph done.");
+        logstream(LOG_EMPH) << "topoX finalizing graph. ("
+                            << ti.current_time()
+                            << " secs)"
+                            << std::endl;
+      }
+    } // end of finalize
+
+
+
+
+    void set_degree_type() {
+      graphlab::timer ti;
+      procid_t l_procid = topoX_rpc.procid();
+      size_t high_master = 0, high_mirror = 0, low_master = 0, low_mirror = 0;
+
+      for (size_t lvid = 0; lvid < graph.num_local_vertices(); lvid++) {
+        vertex_record& vrec = graph.lvid2record[lvid];
+        if (vrec.num_in_edges > threshold) {
+          vrec.dtype = graph_type::HIGH;
+          if (vrec.owner == l_procid) high_master ++;
+          else high_mirror ++;
+        } else {
+          vrec.dtype = graph_type::LOW;
+          if (vrec.owner == l_procid) low_master ++;
+          else low_mirror ++;
+        }
+      }
+
+#ifdef TUNING
+      // Compute the total number of high-degree and low-degree vertices
+      std::vector<size_t> swap_counts(topoX_rpc.numprocs());
+
+      swap_counts[l_procid] = high_master;
+      topoX_rpc.all_gather(swap_counts);
+      high_master = 0;
+      foreach(size_t count, swap_counts) high_master += count;
+
+      swap_counts[l_procid] = high_mirror;
+      topoX_rpc.all_gather(swap_counts);
+      high_mirror = 0;
+      foreach(size_t count, swap_counts) high_mirror += count;
+
+      swap_counts[l_procid] = low_master;
+      topoX_rpc.all_gather(swap_counts);
+      low_master = 0;
+      foreach(size_t count, swap_counts) low_master += count;
+
+      swap_counts[l_procid] = low_mirror;
+      topoX_rpc.all_gather(swap_counts);
+      low_mirror = 0;
+      foreach(size_t count, swap_counts) low_mirror += count;
+
+      if(l_procid == 0) {
+        logstream(LOG_EMPH) << "topoX info: master ["
+                            << high_master << " "
+                            << low_master << " "
+                            << (float(high_master)/(high_master+low_master)) << "]"
+                            << std::endl;
+        if ((high_mirror + low_mirror) > 0)
+        logstream(LOG_EMPH) << "topoX info: mirror ["
+                            << high_mirror << " "
+                            << low_mirror << " "
+                            << (float(high_mirror)/(high_mirror+low_mirror)) << "]"
+                            << std::endl;
+
+        memory_info::log_usage("set vertex type done.");
+        logstream(LOG_EMPH) << "set vertex type: "
+                            << ti.current_time()
+                            << " secs"
+                            << std::endl;
+      }
+#endif
+    }
+
+
+    /*
+     * do the same job as original base finalize except for
+     * extracting edges from topoX_edges instead of original edge_buffer
+     */
+    void modified_base_finalize(size_t nedges) {
+      graphlab::timer ti;
+      procid_t l_procid = topoX_rpc.procid();
+      size_t nprocs = topoX_rpc.numprocs();
+	  size_t cnodes = nprocs / ceng;
+      topoX_rpc.full_barrier();
+
+      bool first_time_finalize = false;
+      /**
+       * Fast pass for first time finalization.
+       */
+      if (graph.is_dynamic()) {
+        size_t nverts = graph.num_local_vertices();
+        topoX_rpc.all_reduce(nverts);
+        first_time_finalize = (nverts == 0);
+      } else {
+        first_time_finalize = false;
+      }
+
+
+      typedef typename hopscotch_map<vertex_id_type, lvid_type>::value_type
+          vid2lvid_pair_type;
+
+      /**
+       * \internal
+       * Buffer storage for new vertices to the local graph.
+       */
+      typedef typename graph_type::hopscotch_map_type vid2lvid_map_type;
+      vid2lvid_map_type vid2lvid_buffer;
+
+      /**
+       * \internal
+       * The begining id assinged to the first new vertex.
+       */
+      const lvid_type lvid_start  = graph.vid2lvid.size();
+
+      /**
+       * \internal
+       * Bit field incidate the vertex that is updated during the ingress.
+       */
+      dense_bitset updated_lvids(graph.vid2lvid.size());
+
+
+      /**************************************************************************/
+      /*                                                                        */
+      /*                         Construct local graph                          */
+      /*                                                                        */
+      /**************************************************************************/
+      { // Add all the edges to the local graph
+        graph.local_graph.reserve_edge_space(nedges + 1);
+
+        foreach(const edge_buffer_record& rec, topoX_edges) {
+          // skip re-sent edges
+          if (rec.source == vertex_id_type(-1)) continue;
+
+          // Get the source_vlid;
+          lvid_type source_lvid(-1);
+          if(graph.vid2lvid.find(rec.source) == graph.vid2lvid.end()) {
+            if (vid2lvid_buffer.find(rec.source) == vid2lvid_buffer.end()) {
+              source_lvid = lvid_start + vid2lvid_buffer.size();
+              vid2lvid_buffer[rec.source] = source_lvid;
+            } else {
+              source_lvid = vid2lvid_buffer[rec.source];
+            }
+          } else {
+            source_lvid = graph.vid2lvid[rec.source];
+            updated_lvids.set_bit(source_lvid);
+          }
+          // Get the target_lvid;
+          lvid_type target_lvid(-1);
+          if(graph.vid2lvid.find(rec.target) == graph.vid2lvid.end()) {
+            if (vid2lvid_buffer.find(rec.target) == vid2lvid_buffer.end()) {
+              target_lvid = lvid_start + vid2lvid_buffer.size();
+              vid2lvid_buffer[rec.target] = target_lvid;
+            } else {
+              target_lvid = vid2lvid_buffer[rec.target];
+            }
+          } else {
+            target_lvid = graph.vid2lvid[rec.target];
+            updated_lvids.set_bit(target_lvid);
+          }
+          graph.local_graph.add_edge(source_lvid, target_lvid, rec.edata);
+        } // end for loop over buffers
+        topoX_edges.clear();
+
+        ASSERT_EQ(graph.vid2lvid.size() + vid2lvid_buffer.size(),
+                  graph.local_graph.num_vertices());
+#ifdef TUNING
+        if(l_procid == 0)  {
+          logstream(LOG_INFO) << "populating local graph: "
+                              << ti.current_time()
+                              << " secs"
+                              << std::endl;
+        }
+#endif
+        // Finalize local graph
+        graph.local_graph.finalize();
+#ifdef TUNING
+        logstream(LOG_INFO) << "local graph info: " << std::endl
+                            << "\t nverts: " << graph.local_graph.num_vertices()
+                            << std::endl
+                            << "\t nedges: " << graph.local_graph.num_edges()
+                            << std::endl;
+
+        if(l_procid == 0) {
+          logstream(LOG_INFO) << "finalizing local graph: "
+                              << ti.current_time()
+                              << " secs"
+                              << std::endl;
+        }
+#endif
+      }
+
+
+      /**************************************************************************/
+      /*                                                                        */
+      /*             Receive and add vertex data to masters                     */
+      /*                                                                        */
+      /**************************************************************************/
+      // Setup the map containing all the vertices being negotiated by this machine
+      {
+        // receive any vertex data sent by other machines
+        if (topoX_vertex_exchange.size() > 0) {
+          vertex_buffer_type vertex_buffer; procid_t sending_proc(-1);
+          while(topoX_vertex_exchange.recv(sending_proc, vertex_buffer)) {
+            foreach(const vertex_buffer_record& rec, vertex_buffer) {
+              lvid_type lvid(-1);
+              if (graph.vid2lvid.find(rec.vid) == graph.vid2lvid.end()) {
+                if (vid2lvid_buffer.find(rec.vid) == vid2lvid_buffer.end()) {
+                  lvid = lvid_start + vid2lvid_buffer.size();
+                  vid2lvid_buffer[rec.vid] = lvid;
+                } else {
+                  lvid = vid2lvid_buffer[rec.vid];
+                }
+              } else {
+                lvid = graph.vid2lvid[rec.vid];
+                updated_lvids.set_bit(lvid);
+              }
+              if (distributed_topoX_ingress::vertex_combine_strategy
+                && lvid < graph.num_local_vertices()) {
+                distributed_topoX_ingress::vertex_combine_strategy(
+                  graph.l_vertex(lvid).data(), rec.vdata);
+              } else {
+                graph.local_graph.add_vertex(lvid, rec.vdata);
+              }
+            }
+          }
+          topoX_vertex_exchange.clear();
+#ifdef TUNING
+          logstream(LOG_INFO) << "base::#vert-msgs=" << topoX_vertex_exchange.size()
+                              << std::endl;
+          if(l_procid == 0) {
+            logstream(LOG_INFO) << "adding vertex data: "
+                                << ti.current_time()
+                                << " secs"
+                                << std::endl;
+          }
+#endif
+        }
+       } // end of loop to populate vrecmap
+
+
+      /**************************************************************************/
+      /*                                                                        */
+      /*        Assign vertex data and allocate vertex (meta)data  space        */
+      /*                                                                        */
+      /**************************************************************************/
+      {
+        // determine masters for all negotiated vertices
+        const size_t local_nverts = graph.vid2lvid.size() + vid2lvid_buffer.size();
+        graph.lvid2record.reserve(local_nverts);
+        graph.lvid2record.resize(local_nverts);
+        graph.local_graph.resize(local_nverts);
+        foreach(const vid2lvid_pair_type& pair, vid2lvid_buffer) {
+          vertex_record& vrec = graph.lvid2record[pair.second];
+          vrec.gvid = pair.first;
+          if (standalone)
+            vrec.owner = 0;
+		  else{
+			  if (vht.find(pair.first) != vht.end())
+				  vrec.owner = vht[pair.first] ;
+			  else vrec.owner = pair.first % cnodes + l_procid/cnodes*cnodes;
+		  }
+        }
+        ASSERT_EQ(local_nverts, graph.local_graph.num_vertices());
+        ASSERT_EQ(graph.lvid2record.size(), graph.local_graph.num_vertices());
+#ifdef TUNING
+        if(l_procid == 0) {
+          logstream(LOG_INFO) << "allocating lvid2record: "
+                              << ti.current_time()
+                              << " secs"
+                              << std::endl;
+        }
+#endif
+      }
+	  vht.clear();
+
+      /**************************************************************************/
+      /*                                                                        */
+      /*                          Master handshake                              */
+      /*                                                                        */
+      /**************************************************************************/
+      if (!standalone) {
+#ifdef _OPENMP
+        buffered_exchange<vertex_id_type> vid_buffer(topoX_rpc.dc(), omp_get_max_threads());
+#else
+        buffered_exchange<vertex_id_type> vid_buffer(topoX_rpc.dc());
+#endif
+
+#ifdef _OPENMP
+#pragma omp parallel for
+#endif
+        // send not owned vids to their master
+        for (lvid_type i = lvid_start; i < graph.lvid2record.size(); ++i) {
+          procid_t master = graph.lvid2record[i].owner;
+          if (master != l_procid)
+#ifdef _OPENMP
+            vid_buffer.send(master, graph.lvid2record[i].gvid, omp_get_thread_num());
+#else
+            vid_buffer.send(master, graph.lvid2record[i].gvid);
+#endif
+        }
+        vid_buffer.flush();
+        topoX_rpc.barrier();
+
+        // receive all vids owned by me
+        mutex flying_vids_lock;
+        boost::unordered_map<vertex_id_type, mirror_type> flying_vids;
+#ifdef _OPENMP
+#pragma omp parallel
+#endif
+        {
+          typename buffered_exchange<vertex_id_type>::buffer_type buffer;
+          procid_t recvid = -1;
+          while(vid_buffer.recv(recvid, buffer)) {
+            foreach(const vertex_id_type vid, buffer) {
+              if (graph.vid2lvid.find(vid) == graph.vid2lvid.end()) {
+                if (vid2lvid_buffer.find(vid) == vid2lvid_buffer.end()) {
+                  flying_vids_lock.lock();
+                  mirror_type& mirrors = flying_vids[vid];
+                  mirrors.set_bit(recvid);
+                  flying_vids_lock.unlock();
+                } else {
+                  lvid_type lvid = vid2lvid_buffer[vid];
+                  graph.lvid2record[lvid]._mirrors.set_bit(recvid);
+                }
+              } else {
+                lvid_type lvid = graph.vid2lvid[vid];
+                graph.lvid2record[lvid]._mirrors.set_bit(recvid);
+                updated_lvids.set_bit(lvid);
+              }
+            }
+          }
+        }
+        vid_buffer.clear();
+
+        if (!flying_vids.empty()) {
+			logstream(LOG_INFO) << "procID= " << l_procid
+			  << " #flying-own-nverts="
+                              << flying_vids.size()
+                              << std::endl;
+
+          // reallocate spaces for the flying vertices.
+          size_t vsize_old = graph.lvid2record.size();
+          size_t vsize_new = vsize_old + flying_vids.size();
+          graph.lvid2record.resize(vsize_new);
+          graph.local_graph.resize(vsize_new);
+          for (typename boost::unordered_map<vertex_id_type, mirror_type>::iterator it = flying_vids.begin();
+               it != flying_vids.end(); ++it) {
+            lvid_type lvid = lvid_start + vid2lvid_buffer.size();
+            vertex_record& vrec = graph.lvid2record[lvid];
+            vertex_id_type gvid = it->first;
+            vrec.owner = l_procid;
+            vrec.gvid = gvid;
+            vrec._mirrors = it->second;
+            vid2lvid_buffer[gvid] = lvid;
+          }
+        }
+      } // end of master handshake
+
+#ifdef TUNING
+      if(l_procid == 0) {
+        logstream(LOG_INFO) << "master handshake: "
+                            << ti.current_time()
+                            << " secs"
+                            << std::endl;
+      }
+#endif
+
+
+      /**************************************************************************/
+      /*                                                                        */
+      /*                        Merge in vid2lvid_buffer                        */
+      /*                                                                        */
+      /**************************************************************************/
+      {
+        if (graph.vid2lvid.size() == 0) {
+          graph.vid2lvid.swap(vid2lvid_buffer);
+        } else {
+          graph.vid2lvid.rehash(graph.vid2lvid.size() + vid2lvid_buffer.size());
+          foreach (const typename vid2lvid_map_type::value_type& pair, vid2lvid_buffer) {
+            graph.vid2lvid.insert(pair);
+          }
+          vid2lvid_buffer.clear();
+        }
+      }
+
+
+      /**************************************************************************/
+      /*                                                                        */
+      /*              Synchronize vertex data and meta information              */
+      /*                                                                        */
+      /**************************************************************************/
+      // TODO:  optimization for standalone
+      {
+        // construct the vertex set of changed vertices
+
+        // Fast pass for first time finalize;
+        vertex_set changed_vset(true);
+
+        // Compute the vertices that needs synchronization
+        if (!first_time_finalize) {
+          vertex_set changed_vset = vertex_set(false);
+          changed_vset.make_explicit(graph);
+
+          updated_lvids.resize(graph.num_local_vertices());
+          for (lvid_type i = lvid_start; i <  graph.num_local_vertices(); ++i) {
+            updated_lvids.set_bit(i);
+          }
+          changed_vset.localvset = updated_lvids;
+          buffered_exchange<vertex_id_type> vset_exchange(topoX_rpc.dc());
+          // sync vset with all mirrors
+          changed_vset.synchronize_mirrors_to_master_or(graph, vset_exchange);
+          changed_vset.synchronize_master_to_mirrors(graph, vset_exchange);
+        }
+
+        graphlab::graph_gather_apply<graph_type, vertex_negotiator_record>
+            vrecord_sync_gas(graph,
+                             boost::bind(&distributed_topoX_ingress::finalize_gather, this, _1, _2),
+                             boost::bind(&distributed_topoX_ingress::finalize_apply, this, _1, _2, _3));
+        vrecord_sync_gas.exec(changed_vset);
+
+#ifdef TUNING
+        if(l_procid == 0) {
+          logstream(LOG_INFO) << "synchrionizing vertex (meta)data: "
+                              << ti.current_time()
+                              << " secs"
+                              << std::endl;
+        }
+#endif
+      }
+
+      base_type::exchange_global_info(standalone);
+#ifdef TUNING
+      if(l_procid == 0) {
+        logstream(LOG_INFO) << "exchange global info: "
+                            << ti.current_time()
+                            << " secs"
+                            << std::endl;
+      }
+#endif
+
+      if(l_procid == 0) {
+        memory_info::log_usage("base finalizing done.");
+        logstream(LOG_EMPH) << "base finalizing. ("
+                            << ti.current_time()
+                            << " secs)"
+                            << std::endl;
+      }
+    } // end of modified base finalize
+
+  private:
+    boost::function<void(vertex_data_type&, const vertex_data_type&)> vertex_combine_strategy;
+
+    /**
+     * \brief Gather the vertex distributed meta data.
+     */
+    vertex_negotiator_record finalize_gather(lvid_type& lvid, graph_type& graph) {
+      vertex_negotiator_record accum;
+      accum.num_in_edges = graph.local_graph.num_in_edges(lvid);
+      accum.num_out_edges = graph.local_graph.num_out_edges(lvid);
+      if (graph.l_is_master(lvid)) {
+        accum.has_data = true;
+        accum.vdata = graph.l_vertex(lvid).data();
+        accum.mirrors = graph.lvid2record[lvid]._mirrors;
+      }
+      return accum;
+    }
+
+    /**
+     * \brief Update the vertex data structures with the gathered vertex metadata.
+     */
+    void finalize_apply(lvid_type lvid, const vertex_negotiator_record& accum, graph_type& graph) {
+      typename graph_type::vertex_record& vrec = graph.lvid2record[lvid];
+      vrec.num_in_edges = accum.num_in_edges;
+      vrec.num_out_edges = accum.num_out_edges;
+      graph.l_vertex(lvid).data() = accum.vdata;
+      vrec._mirrors = accum.mirrors;
+    }
+  }; // end of distributed_topoX_ingress
+}; // end of namespace graphlab
+#include <graphlab/macros_undef.hpp>
+
+
+#endif
