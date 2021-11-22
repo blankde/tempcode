@@ -1,660 +1,1201 @@
-9998  |PDB| = 105
-9969  |PDB| = 161
-9933  |PDB| = 219
-9894  |PDB| = 117
-9881  |PDB| = 114
-9860  |PDB| = 334
-9836  |PDB| = 424
-9836 9433  |PDB| = 116
-9813  |PDB| = 274
-9764  |PDB| = 152
-9724  |PDB| = 153
-9701  |PDB| = 128
-9683  |PDB| = 234
-9672  |PDB| = 103
-9648  |PDB| = 276
-9648 8530  |PDB| = 105
-9620  |PDB| = 171
-9590  |PDB| = 317
-9558  |PDB| = 215
-9547  |PDB| = 140
-9547 9626  |PDB| = 134
-9513  |PDB| = 174
-9496  |PDB| = 119
-9482  |PDB| = 130
-9450  |PDB| = 133
-9441  |PDB| = 251
-9408  |PDB| = 143
-9401  |PDB| = 222
-9401 9847  |PDB| = 158
-9392  |PDB| = 265
-9342  |PDB| = 190
-9325  |PDB| = 187
-9297  |PDB| = 166
-9287  |PDB| = 216
-9281  |PDB| = 522
-9278  |PDB| = 157
-9257  |PDB| = 126
-9253  |PDB| = 163
-9239  |PDB| = 121
-9215  |PDB| = 205
-9182  |PDB| = 243
-9174  |PDB| = 106
-9167  |PDB| = 173
-9159  |PDB| = 264
-9145  |PDB| = 135
-9134  |PDB| = 643
-9091  |PDB| = 154
-9071  |PDB| = 158
-9006  |PDB| = 280
-9006 2743  |PDB| = 102
-8917  |PDB| = 280
-8833  |PDB| = 129
-8833 9482  |PDB| = 124
-8783 4026  |PDB| = 118
-8783 3421  |PDB| = 104
-8783 3421 7284  |PDB| = 102
-8783 52  |PDB| = 102
-8738  |PDB| = 105
-8702  |PDB| = 120
-8697  |PDB| = 228
-8655  |PDB| = 120
-8642  |PDB| = 101
-8628  |PDB| = 158
-8627  |PDB| = 103
-8596  |PDB| = 101
-8572  |PDB| = 260
-8551  |PDB| = 120
-8540  |PDB| = 591
-8474  |PDB| = 148
-8474 3481  |PDB| = 112
-8457  |PDB| = 144
-8457 545  |PDB| = 103
-8432  |PDB| = 129
-8428  |PDB| = 177
-8421  |PDB| = 140
-8421 7400  |PDB| = 109
-8421 4752  |PDB| = 104
-8421 4082  |PDB| = 103
-8421 4082 4752  |PDB| = 102
-8395  |PDB| = 361
-8395 5656  |PDB| = 100
-8373  |PDB| = 188
-8358  |PDB| = 349
-8351  |PDB| = 133
-8351 1698  |PDB| = 119
-8351 819  |PDB| = 114
-8351 819 1698  |PDB| = 106
-8340  |PDB| = 170
-8340 944  |PDB| = 117
-8317  |PDB| = 107
-8315  |PDB| = 385
-8292  |PDB| = 139
-8269  |PDB| = 220
-8249  |PDB| = 108
-8238  |PDB| = 158
-8219  |PDB| = 122
-8214  |PDB| = 137
-8172  |PDB| = 101
-8167  |PDB| = 124
-8147  |PDB| = 185
-8133  |PDB| = 166
-8133 9104  |PDB| = 164
-8089  |PDB| = 150
-8069  |PDB| = 219
-8083 47  |PDB| = 122
-8083 47 1698  |PDB| = 112
-8083 47 819  |PDB| = 110
-8083 47 819 1698  |PDB| = 102
-8040  |PDB| = 103
-8033  |PDB| = 153
-8017  |PDB| = 111
-7991  |PDB| = 325
-7969  |PDB| = 428
-7921  |PDB| = 342
-7885  |PDB| = 269
-7887 1854  |PDB| = 101
-7863  |PDB| = 101
-7859  |PDB| = 167
-7851  |PDB| = 129
-7843  |PDB| = 230
-7820  |PDB| = 130
-7797  |PDB| = 168
-7783  |PDB| = 177
-7748  |PDB| = 407
-7661  |PDB| = 138
-7661 1009  |PDB| = 112
-7620  |PDB| = 341
-7620 9433  |PDB| = 119
-7610  |PDB| = 128
-7607  |PDB| = 273
-7571  |PDB| = 103
-7564  |PDB| = 104
-7542  |PDB| = 487
-7494  |PDB| = 135
-7471  |PDB| = 221
-7466  |PDB| = 188
-7452  |PDB| = 157
-7427  |PDB| = 131
-7415  |PDB| = 129
-7404  |PDB| = 186
-7378  |PDB| = 125
-7345  |PDB| = 157
-7288  |PDB| = 155
-7285  |PDB| = 235
-7266  |PDB| = 128
-7265  |PDB| = 198
-7284 324  |PDB| = 101
-7238  |PDB| = 315
-7204  |PDB| = 179
-7168  |PDB| = 189
-7135  |PDB| = 118
-7135 7859  |PDB| = 103
-7114  |PDB| = 220
-7067  |PDB| = 186
-7050  |PDB| = 205
-7032  |PDB| = 113
-7010  |PDB| = 215
-6968  |PDB| = 174
-6954  |PDB| = 112
-6940  |PDB| = 134
-6921  |PDB| = 200
-6921 7616  |PDB| = 119
-6894  |PDB| = 196
-6882  |PDB| = 119
-6823  |PDB| = 144
-6804  |PDB| = 124
-6785  |PDB| = 161
-6778  |PDB| = 206
-6750  |PDB| = 106
-6738  |PDB| = 129
-6721  |PDB| = 203
-6704  |PDB| = 106
-6730 3269  |PDB| = 135
-6730 3269 8925  |PDB| = 102
-6684  |PDB| = 127
-6650  |PDB| = 105
-6646  |PDB| = 241
-6646 7991  |PDB| = 133
-6608 3334  |PDB| = 116
-6608 617  |PDB| = 104
-6608 617 2062  |PDB| = 104
-6579  |PDB| = 105
-6556  |PDB| = 241
-6530  |PDB| = 113
-6526  |PDB| = 167
-6507  |PDB| = 108
-6507 8349  |PDB| = 107
-6460  |PDB| = 162
-6434  |PDB| = 199
-6411  |PDB| = 290
-6413 4007  |PDB| = 111
-6413 3825  |PDB| = 111
-6413 3825 4007  |PDB| = 110
-6413 3820  |PDB| = 128
-6413 3820 6048  |PDB| = 113
-6413 3820 2412  |PDB| = 111
-6413 3820 2412 6048  |PDB| = 101
-6413 3797 1414  |PDB| = 109
-6413 3797 1414 2235  |PDB| = 108
-6413 2412  |PDB| = 124
-6413 2412 6048  |PDB| = 111
-6413 3820 1032 2412  |PDB| = 109
-6413 3820 1032 2412 6048  |PDB| = 100
-6413 2235 3820  |PDB| = 107
-6413 1414 3820  |PDB| = 105
-6413 1414 2235  |PDB| = 139
-6413 1414 2235 3820  |PDB| = 103
-6413 1414 2235 2412  |PDB| = 104
-6413 1492 2235  |PDB| = 111
-6413 2235 1032  |PDB| = 108
-6413 2235 1032 2412  |PDB| = 106
-6413 1032 3825  |PDB| = 100
-6340  |PDB| = 115
-6327  |PDB| = 129
-6318  |PDB| = 251
-6289  |PDB| = 117
-6264  |PDB| = 259
-6264 6688  |PDB| = 151
-6241  |PDB| = 170
-6212  |PDB| = 111
-6209  |PDB| = 126
-6195  |PDB| = 140
-6181  |PDB| = 267
-6137  |PDB| = 272
-6088  |PDB| = 297
-6088 9933  |PDB| = 135
-6051  |PDB| = 262
-6048 3825  |PDB| = 115
-6048 3825 4007  |PDB| = 111
-6035  |PDB| = 216
-6035 2353  |PDB| = 105
-5988  |PDB| = 103
-5953  |PDB| = 111
-5953 9013  |PDB| = 104
-5932  |PDB| = 802
-5923 3348  |PDB| = 103
-5867  |PDB| = 262
-5846  |PDB| = 111
-5830  |PDB| = 133
-5829  |PDB| = 129
-5791  |PDB| = 177
-5787  |PDB| = 296
-5787 9462  |PDB| = 103
-5718  |PDB| = 169
-5702  |PDB| = 147
-5670  |PDB| = 212
-5636  |PDB| = 176
-5636 7794  |PDB| = 115
-5636 4511  |PDB| = 140
-5636 4511 7794  |PDB| = 111
-5636 4772 1514  |PDB| = 109
-5636 4772 1514 3379  |PDB| = 100
-5636 1514  |PDB| = 114
-5636 1514 3379  |PDB| = 104
-5605  |PDB| = 287
-5595  |PDB| = 125
-5569  |PDB| = 160
-5561  |PDB| = 154
-5563 6231  |PDB| = 102
-5549  |PDB| = 129
-5539  |PDB| = 205
-5508  |PDB| = 121
-5491  |PDB| = 260
-5491 8410  |PDB| = 104
-5429  |PDB| = 116
-5421  |PDB| = 132
-5477 4511  |PDB| = 107
-5392  |PDB| = 251
-5373  |PDB| = 235
-5350  |PDB| = 193
-5338  |PDB| = 146
-5336  |PDB| = 193
-5336 6815  |PDB| = 101
-5336 5560  |PDB| = 104
-5262  |PDB| = 160
-5239  |PDB| = 147
-5218  |PDB| = 163
-5202  |PDB| = 537
-5131  |PDB| = 266
-5121  |PDB| = 103
-5132 3481  |PDB| = 101
-5114  |PDB| = 155
-5132 5923 3348  |PDB| = 100
-5098  |PDB| = 404
-5037  |PDB| = 126
-5000  |PDB| = 335
-5000 864  |PDB| = 105
-4950  |PDB| = 104
-4936  |PDB| = 576
-4936 9243  |PDB| = 122
-4936 9243 9021  |PDB| = 108
-4936 1201  |PDB| = 117
-4936 1201 9243  |PDB| = 116
-4936 1201 9243 9021  |PDB| = 105
-4884  |PDB| = 140
-4859  |PDB| = 100
-4842  |PDB| = 135
-4797  |PDB| = 312
-4772  |PDB| = 277
-4772 7794  |PDB| = 102
-4772 3662  |PDB| = 106
-4772 3662 7794  |PDB| = 102
-4737  |PDB| = 103
-4718  |PDB| = 189
-4697  |PDB| = 280
-4697 8870  |PDB| = 181
-4642  |PDB| = 157
-4631  |PDB| = 103
-4625  |PDB| = 154
-4625 7288  |PDB| = 152
-4586  |PDB| = 165
-4573  |PDB| = 182
-4567  |PDB| = 181
-4559  |PDB| = 102
-4558  |PDB| = 187
-4558 8395  |PDB| = 182
-4558 8395 5346  |PDB| = 103
-4511  |PDB| = 268
-4511 7794  |PDB| = 119
-4511 3662  |PDB| = 120
-4511 3662 7794  |PDB| = 119
-4485  |PDB| = 155
-4449  |PDB| = 319
-4421  |PDB| = 172
-4404  |PDB| = 105
-4400  |PDB| = 155
-4378  |PDB| = 165
-4364  |PDB| = 117
-4339  |PDB| = 147
-4322  |PDB| = 125
-4313  |PDB| = 160
-4266  |PDB| = 129
-4256  |PDB| = 305
-4238  |PDB| = 163
-4197  |PDB| = 100
-4190  |PDB| = 161
-4171  |PDB| = 116
-4170  |PDB| = 173
-4162  |PDB| = 164
-4127  |PDB| = 110
-4126  |PDB| = 187
-4105  |PDB| = 187
-4068  |PDB| = 106
-4052  |PDB| = 114
-4038  |PDB| = 343
-4007  |PDB| = 127
-4006  |PDB| = 295
-3983  |PDB| = 129
-3970  |PDB| = 167
-3943  |PDB| = 332
-3888  |PDB| = 410
-3888 9282  |PDB| = 181
-3888 9282 3464  |PDB| = 123
-3812  |PDB| = 121
-3798  |PDB| = 123
-3820 2412  |PDB| = 124
-3820 2412 6048  |PDB| = 112
-3820 1032 2412  |PDB| = 122
-3820 1032 2412 6048  |PDB| = 111
-3786  |PDB| = 140
-3797 2235  |PDB| = 127
-3797 1032 2412  |PDB| = 109
-3780  |PDB| = 107
-3748  |PDB| = 258
-3703  |PDB| = 251
-3681  |PDB| = 110
-3673  |PDB| = 122
-3659  |PDB| = 281
-3659 8751  |PDB| = 236
-3639  |PDB| = 132
-3662 1514  |PDB| = 100
-3628  |PDB| = 224
-3599  |PDB| = 105
-3587  |PDB| = 117
-3582  |PDB| = 294
-3559  |PDB| = 222
-3559 8339  |PDB| = 103
-3539  |PDB| = 119
-3528  |PDB| = 125
-3509  |PDB| = 156
-3498  |PDB| = 180
-3493  |PDB| = 384
-3481 1306  |PDB| = 107
-3481 1306 2505  |PDB| = 104
-3499 5388 8133  |PDB| = 134
-3499 5388 8133 9104  |PDB| = 132
-3421  |PDB| = 202
-3421 7284  |PDB| = 158
-3421 7284 4026  |PDB| = 115
-3384  |PDB| = 105
-3373  |PDB| = 173
-3357  |PDB| = 138
-3341  |PDB| = 109
-3341 8349  |PDB| = 108
-3328  |PDB| = 191
-3299  |PDB| = 107
-3284  |PDB| = 202
-3254  |PDB| = 131
-3269 8925  |PDB| = 123
-3247  |PDB| = 116
-3223  |PDB| = 136
-3208  |PDB| = 154
-3178  |PDB| = 343
-3123  |PDB| = 173
-3107  |PDB| = 308
-3075 8457  |PDB| = 116
-3075 8457 545  |PDB| = 101
-3107 3464  |PDB| = 134
-3029  |PDB| = 163
-2996  |PDB| = 360
-2980  |PDB| = 103
-2959  |PDB| = 179
-3026 1032  |PDB| = 130
-3026 1032 6048  |PDB| = 115
-3026 1032 2412  |PDB| = 126
-3026 1032 2412 6048  |PDB| = 114
-3026 3820 1032 2412  |PDB| = 112
-3026 3820 1032 2412 6048  |PDB| = 102
-2923  |PDB| = 461
-2923 3021  |PDB| = 157
-2868  |PDB| = 131
-2840  |PDB| = 130
-2820  |PDB| = 170
-2799  |PDB| = 119
-2774  |PDB| = 151
-2751  |PDB| = 172
-2731  |PDB| = 105
-2719  |PDB| = 260
-2689  |PDB| = 112
-2685  |PDB| = 155
-2655  |PDB| = 254
-2655 4958  |PDB| = 106
-2641  |PDB| = 280
-2615  |PDB| = 147
-2610  |PDB| = 120
-2573  |PDB| = 119
-2612 4511  |PDB| = 106
-2612 5477 4511  |PDB| = 105
-2612 5477 1514  |PDB| = 102
-2612 5477 4772 1514  |PDB| = 100
-2554  |PDB| = 135
-2543  |PDB| = 102
-2514  |PDB| = 108
-2509  |PDB| = 203
-2467  |PDB| = 220
-2466  |PDB| = 315
-2439  |PDB| = 216
-2439 9275  |PDB| = 113
-2402  |PDB| = 190
-2412 4007  |PDB| = 113
-2412 6048 3825  |PDB| = 103
-2412 6048 3825 4007  |PDB| = 101
-2399  |PDB| = 435
-2354  |PDB| = 234
-2345  |PDB| = 457
-2300  |PDB| = 122
-2297  |PDB| = 213
-2271  |PDB| = 381
-2271 6104  |PDB| = 103
-2252  |PDB| = 115
-2236  |PDB| = 333
-2192  |PDB| = 139
-2189  |PDB| = 117
-2178  |PDB| = 222
-2235 3820  |PDB| = 119
-2235 3820 6048  |PDB| = 103
-2235 3026 3820  |PDB| = 107
-2235 3820 1032  |PDB| = 105
-2235 3820 1032 2412  |PDB| = 103
-2145  |PDB| = 153
-2129  |PDB| = 131
-2109  |PDB| = 161
-2098  |PDB| = 144
-2087  |PDB| = 145
-2070  |PDB| = 135
-2047  |PDB| = 109
-2062 3334  |PDB| = 102
-2010  |PDB| = 272
-2007  |PDB| = 397
-2007 9449  |PDB| = 194
-1959  |PDB| = 188
-1945  |PDB| = 275
-1899  |PDB| = 136
-1869  |PDB| = 224
-1854  |PDB| = 296
-1854 1354  |PDB| = 102
-1821  |PDB| = 188
-1800  |PDB| = 186
-1800 4769  |PDB| = 108
-1789  |PDB| = 103
-1815 6234  |PDB| = 201
-1815 6234 7387  |PDB| = 114
-1793 5563  |PDB| = 167
-1793 5563 8542  |PDB| = 101
-1743  |PDB| = 248
-1726  |PDB| = 340
-1670  |PDB| = 174
-1670 5562  |PDB| = 117
-1654  |PDB| = 181
-1644  |PDB| = 104
-1636  |PDB| = 137
-1627  |PDB| = 175
-1627 8540  |PDB| = 117
-1587  |PDB| = 176
-1514  |PDB| = 132
-1514 7525  |PDB| = 101
-1514 4548  |PDB| = 102
-1514 4548 7525  |PDB| = 101
-1505  |PDB| = 117
-1489  |PDB| = 206
-1492 3825  |PDB| = 100
-1492 3797  |PDB| = 176
-1492 3797 6048  |PDB| = 136
-1492 3026 1032  |PDB| = 101
-1492 3797 3026  |PDB| = 142
-1492 3797 3026 6048  |PDB| = 126
-1492 3797 3026 2412  |PDB| = 100
-1492 3797 3026 1032  |PDB| = 100
-1492 3797 2235  |PDB| = 120
-1478 6063  |PDB| = 101
-1492 2235  |PDB| = 122
-1492 1032  |PDB| = 110
-1492 1032 2412  |PDB| = 108
-1478 3269 1351  |PDB| = 101
-1478 3269 1351 8925  |PDB| = 101
-1433  |PDB| = 134
-1413  |PDB| = 180
-1410  |PDB| = 153
-1390  |PDB| = 146
-1388  |PDB| = 132
-1378  |PDB| = 159
-1373  |PDB| = 166
-1414 4007  |PDB| = 102
-1414 3825  |PDB| = 108
-1414 3825 4007  |PDB| = 100
-1414 3820  |PDB| = 117
-1414 3820 6048  |PDB| = 102
-1414 3026 3820  |PDB| = 107
-1414 3820 2412  |PDB| = 102
-1414 1032  |PDB| = 118
-1414 1032 6048  |PDB| = 104
-1414 2235 3825  |PDB| = 100
-1414 2235 3820  |PDB| = 115
-1414 2235 3820 6048  |PDB| = 100
-1414 2235 3820 1032  |PDB| = 101
-1414 2235 3820 1032 2412  |PDB| = 100
-1414 1032 2412  |PDB| = 116
-1414 1032 2412 6048  |PDB| = 103
-1351  |PDB| = 275
-1351 8925  |PDB| = 170
-1351 8925 6063  |PDB| = 100
-1327  |PDB| = 171
-1306  |PDB| = 381
-1306 2505  |PDB| = 180
-1278  |PDB| = 133
-1256  |PDB| = 330
-1256 2422  |PDB| = 122
-1256 2422 2007  |PDB| = 103
-1214  |PDB| = 348
-1200  |PDB| = 255
-1202 7325  |PDB| = 100
-1202 4558  |PDB| = 185
-1202 4558 8395  |PDB| = 180
-1202 4558 8395 5346  |PDB| = 102
-1117  |PDB| = 293
-1099  |PDB| = 168
-1083  |PDB| = 155
-1083 1899  |PDB| = 127
-1063  |PDB| = 101
-1042  |PDB| = 225
-1032  |PDB| = 238
-1032 6048  |PDB| = 128
-1032 6048 4007  |PDB| = 102
-1032 2412  |PDB| = 141
-1032 2412 6048  |PDB| = 126
-1032 2412 6048 4007  |PDB| = 102
-1032 2412 6048 3825  |PDB| = 102
-1032 2412 6048 3825 4007  |PDB| = 100
-1032 2412 3825  |PDB| = 110
-1032 2412 3825 4007  |PDB| = 108
-986  |PDB| = 101
-971  |PDB| = 222
-953  |PDB| = 168
-927  |PDB| = 251
-913  |PDB| = 269
-920 8819  |PDB| = 101
-917 4670  |PDB| = 104
-891  |PDB| = 123
-853  |PDB| = 285
-828  |PDB| = 133
-819  |PDB| = 416
-819 2246  |PDB| = 102
-785  |PDB| = 115
-771  |PDB| = 290
-771 6363  |PDB| = 100
-733  |PDB| = 242
-726  |PDB| = 129
-681  |PDB| = 214
-632  |PDB| = 135
-628  |PDB| = 190
-602  |PDB| = 161
-576  |PDB| = 164
-554  |PDB| = 108
-552  |PDB| = 309
-552 9467  |PDB| = 139
-531  |PDB| = 130
-531 785  |PDB| = 109
-512  |PDB| = 305
-512 9847  |PDB| = 102
-512 7607  |PDB| = 255
-431  |PDB| = 389
-431 7540  |PDB| = 116
-448 4936 1201  |PDB| = 106
-448 4936 1201 9243  |PDB| = 105
-448 4936 1201 6064  |PDB| = 104
-448 4936 1201 6064 9243  |PDB| = 103
-397  |PDB| = 172
-377  |PDB| = 102
-363  |PDB| = 176
-354  |PDB| = 234
-354 5585  |PDB| = 115
-341  |PDB| = 144
-324  |PDB| = 195
-324 9731  |PDB| = 101
-324 4026  |PDB| = 118
-324 860  |PDB| = 101
-303  |PDB| = 201
-268  |PDB| = 252
-246  |PDB| = 121
-320 5656  |PDB| = 125
-243  |PDB| = 306
-243 733  |PDB| = 194
-214  |PDB| = 161
-203  |PDB| = 136
-199  |PDB| = 194
-176  |PDB| = 151
-176 2949  |PDB| = 116
-188 6064  |PDB| = 110
-188 6064 9243  |PDB| = 109
-188 6064 9243 9021  |PDB| = 100
-188 6064 9021  |PDB| = 100
-188 1201  |PDB| = 110
-188 1201 9243  |PDB| = 109
-188 1201 9243 9021  |PDB| = 100
-188 4936 1201  |PDB| = 103
-188 4936 1201 9243  |PDB| = 102
-188 448  |PDB| = 151
-188 448 9243  |PDB| = 102
-188 448 9021  |PDB| = 133
-188 448 6064  |PDB| = 101
-188 448 6064 9243  |PDB| = 100
-109  |PDB| = 168
-97  |PDB| = 405
-54  |PDB| = 120
-52  |PDB| = 147
-43  |PDB| = 301
-11  |PDB| = 115
-22 356  |PDB| = 129
-8 2197  |PDB| = 145
-8 2197 5202  |PDB| = 111
+/**  
+ * Copyright (c) 2009 Carnegie Mellon University.
+ *     All rights reserved.
+ *
+ *  Licensed under the Apache License, Version 2.0 (the "License");
+ *  you may not use this file except in compliance with the License.
+ *  You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *  Unless required by applicable law or agreed to in writing,
+ *  software distributed under the License is distributed on an "AS
+ *  IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
+ *  express or implied.  See the License for the specific language
+ *  governing permissions and limitations under the License.
+ *
+ * For more about this software visit:
+ *
+ *      http://www.graphlab.ml.cmu.edu
+ *
+ */
+
+#ifndef GRAPHLAB_DISTRIBUTED_MATRIX_RR_INGRESS_HPP
+#define GRAPHLAB_DISTRIBUTED_MATRIX_RR_INGRESS_HPP
+
+#include <boost/functional/hash.hpp>
+
+#include <graphlab/rpc/buffered_exchange.hpp>
+#include <graphlab/graph/graph_basic_types.hpp>
+#include <graphlab/graph/ingress/distributed_ingress_base.hpp>
+#include <graphlab/graph/distributed_graph.hpp>
+
+
+#include <graphlab/macros_def.hpp>
+namespace graphlab {
+  template<typename VertexData, typename EdgeData>
+  class distributed_graph;
+
+  /**
+   * \brief Ingress object assigning edges using randoming hash function.
+   */
+  template<typename VertexData, typename EdgeData>
+  class distributed_matrix_block_ingress :
+    public distributed_ingress_base<VertexData, EdgeData> {
+  public:
+    typedef distributed_graph<VertexData, EdgeData> graph_type;
+    /// The type of the vertex data stored in the graph 
+    typedef VertexData vertex_data_type;
+    /// The type of the edge data stored in the graph 
+    typedef EdgeData   edge_data_type;
+
+    typedef distributed_ingress_base<VertexData, EdgeData> base_type;
+
+    typedef typename graph_type::vertex_record vertex_record;
+    typedef typename graph_type::mirror_type mirror_type;
+
+    typedef typename buffered_exchange<vertex_id_type>::buffer_type
+        vertex_id_buffer_type;
+
+    /// The rpc interface for this object
+    dc_dist_object<distributed_matrix_block_ingress> matrix_rpc;
+    /// The underlying distributed graph object that is being loaded
+    graph_type& graph;
+
+    /// threshold to divide high-degree and low-degree vertices
+    size_t threshold;
+
+    //@topoX
+      size_t theta;
+      size_t etheta;
+      size_t ceng;
+
+    bool standalone;
+
+    typedef typename base_type::edge_buffer_record edge_buffer_record;
+    typedef typename buffered_exchange<edge_buffer_record>::buffer_type
+        edge_buffer_type;
+
+    typedef typename base_type::vertex_buffer_record vertex_buffer_record;
+    typedef typename buffered_exchange<vertex_buffer_record>::buffer_type
+        vertex_buffer_type;
+
+    std::vector<edge_buffer_record> matrix_edges;
+
+    //@hybrid
+    hopscotch_map<vertex_id_type, size_t> in_degree_set;
+
+    /* ingress exchange */
+    buffered_exchange<edge_buffer_record> matrix_edge_exchange;
+    buffered_exchange<vertex_buffer_record> matrix_vertex_exchange;
+
+
+
+
+    /// detail vertex record for the second pass coordination.
+
+      typedef typename base_type::vertex_negotiator_record
+              vertex_negotiator_record;
+
+      //@wenwen: topox codes
+      typedef typename boost::unordered_map<vertex_id_type, std::vector<vertex_id_type> > target_hash_table_type;
+      std::queue<vertex_id_type> p_queue;
+
+      target_hash_table_type iht;
+      target_hash_table_type oht;
+      typedef typename boost::unordered_map<vertex_id_type,int> flag_hash_table_type;
+      flag_hash_table_type fht;
+      flag_hash_table_type flaght;
+      flag_hash_table_type countht;
+      typedef typename boost::unordered_map<vertex_id_type, size_t> degree_hash_table_type;
+      degree_hash_table_type dht;
+      mutex point_lock;
+      //mutex lock2;
+
+      typedef typename boost::unordered_map<vertex_id_type, size_t > vertex_hash_table_type;
+      vertex_hash_table_type vht;
+      size_t* count;         //记录各节点现有的分配到的边的数目，如何分布式？
+      typedef typename std::pair<vertex_id_type, size_t> hash_pair_type;
+      buffered_exchange<hash_pair_type> vht_exchange;
+      typedef typename buffered_exchange<hash_pair_type>::buffer_type vht_buffer_type;
+   
+  public:
+
+      //@matrix
+    std::vector<std::vector<int> > myMatrix;
+	int matrixSize, maxValue;
+
+	//@ginder
+    /** Type of the master location hash table: [vertex-id, location-of-master] */
+    typedef typename boost::unordered_map<vertex_id_type, procid_t>
+        master_hash_table_type;
+    typedef typename std::pair<vertex_id_type, procid_t>
+        master_pair_type;
+    typedef typename buffered_exchange<master_pair_type>::buffer_type
+        master_buffer_type;
+    typedef typename buffered_exchange<hopscotch_map<vertex_id_type, size_t> >::buffer_type degree_buffer_type;
+    /** master hash table (mht): location mapping of low-degree vertices  */
+    master_hash_table_type mht;
+    buffered_exchange<master_pair_type> mht_exchange;
+
+    buffered_exchange<hopscotch_map<vertex_id_type, size_t> > in_degree_exchange;
+
+
+      distributed_matrix_block_ingress(distributed_control& dc,
+      graph_type& graph, size_t threshold = 100, size_t theta = 100,size_t etheta=1000,size_t ceng=1) :
+      base_type(dc, graph), matrix_rpc(dc, this),
+      graph(graph), threshold(threshold), theta(theta), etheta(etheta),ceng(ceng),
+#ifdef _OPENMP
+      matrix_edge_exchange(dc, omp_get_max_threads()),
+		vht_exchange(dc, omp_get_max_threads()),
+        matrix_vertex_exchange(dc, omp_get_max_threads())
+#else
+      matrix_edge_exchange(dc),
+      vht_exchange(dc),
+      matrix_vertex_exchange(dc)
+#endif
+		, mht_exchange(dc)
+		,in_degree_exchange(dc)
+	{
+    	std::fstream fin(graph.partitionfile.c_str());
+    	fin >> matrixSize >> maxValue;
+    	myMatrix.resize(matrixSize);
+    	for(int i = 0;i<matrixSize;i++){
+    		myMatrix[i].resize(matrixSize);
+    		for(int j = 0; j< matrixSize; j++){
+    			fin >> myMatrix[i][j];
+			}
+    	}
+
+        count = (size_t *) malloc((matrix_rpc.numprocs() / ceng)*sizeof (size_t));
+    } // end of constructor
+
+    ~distributed_matrix_block_ingress() {
+          free (count);
+      }
+
+
+      /** Add an edge to the ingress object using random hashing assignment.
+       *  This function acts as the first phase for SNAP graph to deliver edges
+       *  via the hashing value of its target vertex.
+       */
+      void add_edge(vertex_id_type source, vertex_id_type target,
+                    const EdgeData& edata) {
+          size_t numproc = matrix_rpc.numprocs();
+          const edge_buffer_record record(source, target, edata);
+          const size_t sh = source%numproc;
+          const size_t th = target%numproc;
+#ifdef _OPENMP
+          if (sh!=th)
+			matrix_edge_exchange.send(sh, record, omp_get_thread_num());
+		matrix_edge_exchange.send(th, record, omp_get_thread_num());
+#else
+          if (sh != th)
+              matrix_edge_exchange.send(sh, record);                  //��һ���߷���source��target���ڵ������ڵ��£����λ��ͬһ�ڵ㣬ֻ����һ��
+          matrix_edge_exchange.send(th, record);
+#endif
+
+      } // end of add edge
+
+
+
+      /* add vdata */
+      void add_vertex(vertex_id_type vid, const VertexData& vdata) {
+          const vertex_buffer_record record(vid, vdata);
+          const procid_t owning_proc = standalone ? 0 :
+                                       vid % matrix_rpc.numprocs();
+#ifdef _OPENMP
+          matrix_vertex_exchange.send(owning_proc, record, omp_get_thread_num());
+#else
+          matrix_vertex_exchange.send(owning_proc, record);
+#endif
+      } // end of add vertex
+
+      void set_queue(const size_t& v, const size_t& owning,const size_t& vp,const size_t& matrixcount){
+          if (flaght[v] == 0){
+              point_lock.lock();
+              p_queue.push(v);
+              if (fht[v] == -1){
+                  fht[v] = owning;
+                  countht[v] = matrixcount+1;
+              }
+              point_lock.unlock();
+          }
+          if (flaght[vp] == 0){
+              flaght[vp] = 1;
+          }
+          if (fht[vp] == -1){
+              fht[vp] = owning;
+          }
+
+      }
+      void add_queue(const size_t& v,const size_t& owning,const size_t& vp,const size_t& matrixcount){
+          size_t owningmachine = v%matrix_rpc.numprocs();
+          if (owningmachine != matrix_rpc.procid())
+              matrix_rpc.remote_call(owningmachine, &distributed_matrix_block_ingress<VertexData, EdgeData>::set_queue, v, owning, vp,matrixcount);
+          else
+              set_queue(v, owning,vp,matrixcount);
+      }
+
+
+      void finalize() {
+
+          graphlab::timer ti;
+          int ceng = 1;
+          size_t nprocs = matrix_rpc.numprocs();
+          size_t cnodes = nprocs / ceng;
+          procid_t l_procid = matrix_rpc.procid();
+          size_t nedges = 0;
+
+          matrix_rpc.full_barrier();
+
+          if (l_procid == 0) {
+              memory_info::log_usage("start finalizing");
+              logstream(LOG_EMPH) << "matrix finalizing ..."
+                                  << " #vertices=" << graph.local_graph.num_vertices()
+                                  << " #edges=" << graph.local_graph.num_edges()
+                                  << " threshold=" << threshold
+                                  << " theta=" << theta
+                                  << "etheta=" <<etheta
+                                  << std::endl;
+          }
+
+
+          /**************************************************************************/
+          /*                                                                        */
+          /*                       Flush any additional data                        */
+          /*                                                                        */
+          /**************************************************************************/
+          matrix_edge_exchange.flush(); matrix_vertex_exchange.flush();
+
+          /**
+           * Fast pass for redundant finalization with no graph changes.
+           */
+          {
+              size_t changed_size = matrix_edge_exchange.size() + matrix_vertex_exchange.size();
+              matrix_rpc.all_reduce(changed_size);
+              if (changed_size == 0) {
+                  logstream(LOG_INFO) << "Skipping Graph Finalization because no changes happened..." << std::endl;
+                  return;
+              }
+          }
+
+
+          /**************************************************************************/
+          /*                                                                        */
+          /*                       Prepare matrix ingress                           */
+          /*                                                                        */
+          /**************************************************************************/
+          {
+              edge_buffer_type edge_buffer;
+              procid_t proc;
+              nedges = matrix_edge_exchange.size();
+
+              matrix_edges.reserve(nedges);
+              if (standalone) { /* fast pass for standalone */
+                  proc = -1;
+                  while(matrix_edge_exchange.recv(proc, edge_buffer))
+                      foreach(const edge_buffer_record& rec, edge_buffer){
+                      if (rec.target%nprocs == l_procid){
+                          matrix_edges.push_back(rec);
+                          iht[rec.target].push_back(rec.source); //in-degree hash table
+                          if (rec.source%nprocs == l_procid)
+                              oht[rec.source].push_back(rec.target); //out-degree hash table
+                      }
+                      else{
+                          oht[rec.source].push_back(rec.target);
+                      }
+                      fht[rec.source] = -1;
+                      fht[rec.target] = -1;
+                      flaght[rec.target] = 0;
+                      flaght[rec.source] = 0;
+
+                  }
+
+                  matrix_edge_exchange.clear();
+              } else {
+
+
+                  proc = -1;
+                  while(matrix_edge_exchange.recv(proc, edge_buffer)) {
+
+                      foreach(const edge_buffer_record& rec, edge_buffer){         //按目的点存储该边，并根据边构建iht和oht
+                          if (rec.target%nprocs == l_procid){
+                              matrix_edges.push_back(rec);
+                              iht[rec.target].push_back(rec.source);
+                              if (rec.source%nprocs == l_procid)
+                                  oht[rec.source].push_back(rec.target);
+                          }
+                          else{
+                              oht[rec.source].push_back(rec.target);
+                          }
+                          fht[rec.source] = -1;                                 //fht作用：mapping proc hash table
+                          fht[rec.target] = -1;
+                          flaght[rec.target] = 0;
+                          flaght[rec.source] = 0;
+                          countht[rec.target] = 0;
+
+                      }
+
+
+                  }
+                  matrix_edge_exchange.clear();
+                  matrix_edge_exchange.barrier(); // barrier before reusing
+#ifdef TUNING
+                  if(l_procid == 0) {
+            logstream(LOG_INFO) << "iet,oet building in parallel: "
+                                << ti.current_time()
+                                << " secs"
+                                << std::endl;
+          }
+#endif
+                  //size_t point[1000]; // 当前等待计算的点的队列
+                  //size_t topoX_count=0;
+                  //int point_count = -1;
+                  double last_time = 0.0+ti.current_time();
+                  for (size_t ix = 0; ix < cnodes; ix++)
+                      count[ix] = 0;
+                  for (target_hash_table_type::iterator iter = iht.begin(); iter != iht.end(); iter++){
+                      //logstream(LOG_INFO) << "in ok!" << std::endl;
+                      //   topoX_rpc.cout() << iht[iter->first].size() << std::endl;
+                      if (l_procid == 0&&ti.current_time()-last_time>2) {
+                          for (size_t ix = 0; ix < cnodes; ix++)
+                              logstream(LOG_INFO) << count[ix] <<" ";
+                          logstream(LOG_INFO) << std::endl;
+                          last_time = 0.0+ti.current_time();
+                      }
+                      dht[iter->first] = iht[iter->first].size();
+                      if (!p_queue.empty()){
+                          //logstream(LOG_INFO) << "queue ok!" << std::endl;
+                          while (!p_queue.empty()){
+                              point_lock.lock();
+                              size_t p_point = p_queue.front(); //@wenwen: p_point maybe high-degree
+                              p_queue.pop();
+                              point_lock.unlock();
+                              if (flaght[p_point] == 0){ // @wenwen： flag hash table
+
+                                  flaght[p_point] += 1; // @wenwen: check whether is visited
+
+                                  procid_t min_proc = fht[p_point]; //@wenwen: current -1
+
+                                  if (countht[p_point] > etheta){ //@wenwen: move to the smallest proc
+                                      int temp2 = count[0];
+                                      min_proc = 0;
+                                      for (size_t ix = 1; ix < cnodes; ix++){
+                                          if (temp2>count[ix]){
+                                              temp2 = count[ix];
+                                              min_proc = ix;
+                                          }
+                                      }
+                                      fht[p_point] = min_proc;
+                                      countht[p_point] = 0;
+                                  }
+                                  for (size_t ix = 0; ix < nprocs; ix++){
+                                      if (ix != l_procid)
+                                          vht_exchange.send(ix, hash_pair_type(p_point, min_proc));
+                                      else
+                                          vht[p_point] = min_proc; //@wenwen: vertex hash table
+                                  }
+                                  dht[p_point] = iht[p_point].size();
+                                  if (dht[p_point] <= threshold)
+                                      count[min_proc] += dht[p_point]; //@wenwen: we want to place p_point to min_proc
+                                  if (dht[p_point] <= threshold&&oht[p_point].size() <= theta){
+
+                                      for (size_t j = 0; j < dht[p_point]; j++){
+                                          if (fht[iht[p_point][j]] == -1){
+                                              fht[iht[p_point][j]] = min_proc;
+                                              add_queue(iht[p_point][j], min_proc, p_point, countht[p_point]);
+                                          }
+                                      }
+                                      for (size_t j = 0; j < oht[p_point].size(); j++){
+                                          if (fht[oht[p_point][j]] == -1){
+                                              fht[oht[p_point][j]] = min_proc;
+                                              add_queue(oht[p_point][j], min_proc, p_point, countht[p_point]);
+                                          }
+                                      }
+                                  }
+
+
+
+                              }
+
+                          }
+                          if (flaght[iter->first] == 0 && dht[iter->first]<=threshold){
+
+                              flaght[iter->first]+= 1;
+
+                              procid_t min_proc = 0;
+                              if (fht[iter->first] == -1){
+
+                                  int temp2 = count[0];
+                                  for (size_t ix = 1; ix < cnodes; ix++){
+                                      if (temp2>count[ix]){
+                                          temp2 = count[ix];
+                                          min_proc = ix;
+                                      }
+                                  }
+                                  fht[iter->first] = min_proc;                  //第一次更新fht，此时只更新本地fht
+                              }
+                              else {
+                                  if (countht[iter->first] > etheta){
+                                      int temp2 = count[0];
+                                      for (size_t ix = 1; ix < cnodes; ix++){
+                                          if (temp2>count[ix]){
+                                              temp2 = count[ix];
+                                              min_proc = ix;
+                                          }
+                                      }
+                                      fht[iter->first] = min_proc;
+                                      countht[iter->first] = 0;
+                                  }
+                                  else min_proc = fht[iter->first];
+                              }
+                              for (size_t ix = 0; ix < nprocs; ix++){
+                                  if (ix != l_procid)
+                                      vht_exchange.send(ix, hash_pair_type(iter->first, min_proc));
+                                  else
+                                      vht[iter->first] = min_proc;
+                              }
+                              if (dht[iter->first] <= threshold)
+                                  count[min_proc] += dht[iter->first];
+                              if (dht[iter->first] <= threshold&&oht[iter->first].size() <= theta){
+
+                                  for (size_t j = 0; j < dht[iter->first]; j++){
+                                      if (fht[iht[iter->first][j]] == -1){
+                                          fht[iht[iter->first][j]] = min_proc;
+                                          add_queue(iht[iter->first][j], min_proc, iter->first, countht[iter->first]);
+                                      }
+                                  }
+
+                                  for (size_t j = 0; j < oht[iter->first].size(); j++){
+                                      if (fht[oht[iter->first][j]] == -1){
+                                          fht[oht[iter->first][j]] = min_proc;
+                                          add_queue(oht[iter->first][j], min_proc, iter->first, countht[iter->first]);
+                                      }
+                                  }
+
+                              }
+                          }
+
+
+                      }
+                      else{
+                          if (flaght[iter->first] == 0 && dht[iter->first] <= threshold){
+
+                              flaght[iter->first] += 1;
+
+                              procid_t min_proc = 0;
+                              if (fht[iter->first] == -1){
+
+                                  int temp2 = count[0];
+                                  for (size_t ix = 1; ix < cnodes; ix++){
+                                      if (temp2>count[ix]){
+                                          temp2 = count[ix];
+                                          min_proc = ix;
+                                      }
+                                  }
+                                  fht[iter->first] = min_proc;                  //第一次更新fht，此时只更新本地fht
+                              }
+                              else {
+                                  if (countht[iter->first] > etheta){
+                                      int temp2 = count[0];
+                                      for (size_t ix = 1; ix < cnodes; ix++){
+                                          if (temp2>count[ix]){
+                                              temp2 = count[ix];
+                                              min_proc = ix;
+                                          }
+                                      }
+                                      fht[iter->first] = min_proc;
+                                      countht[iter->first] = 0;
+                                  }
+                                  else min_proc = fht[iter->first];
+                              }
+                              for (size_t ix = 0; ix < nprocs; ix++){
+                                  if (ix != l_procid)
+                                      vht_exchange.send(ix, hash_pair_type(iter->first, min_proc ));
+                                  else
+                                      vht[iter->first] = min_proc;
+                              }
+                              if (dht[iter->first] <= threshold)
+                                  count[min_proc] += dht[iter->first];
+                              if (dht[iter->first] <= threshold&&oht[iter->first].size() <= theta){
+
+                                  for (size_t j = 0; j < dht[iter->first]; j++){
+                                      if (fht[iht[iter->first][j]] == -1){
+                                          fht[iht[iter->first][j]] = min_proc;
+                                          add_queue(iht[iter->first][j], min_proc, iter->first, countht[iter->first]);
+                                      }
+                                  }
+
+                                  for (size_t j = 0; j < oht[iter->first].size(); j++){
+                                      if (fht[oht[iter->first][j]] == -1){
+                                          fht[oht[iter->first][j]] = min_proc;
+                                          add_queue(oht[iter->first][j], min_proc, iter->first, countht[iter->first]);
+                                      }
+                                  }
+
+                              }
+                          }
+                      }
+
+
+
+
+
+
+
+                  }
+
+                  for (target_hash_table_type::iterator iter = iht.begin(); iter != iht.end(); iter++){
+                      if (flaght[iter->first] > 1){
+                          logstream(LOG_INFO) << "flaght>2: " << iter->first << std::endl;
+                      }
+
+                  }
+                  matrix_rpc.full_barrier();
+                  if (l_procid == 0) {
+                      logstream(LOG_INFO) << "matrix time: "
+                                          << ti.current_time()
+                                          << " secs"
+                                          << std::endl;
+
+                  }
+                  iht.clear();
+                  oht.clear();
+                  //fht.clear();
+                  // flaght.clear();
+                  //countht.clear();
+                  vht_exchange.flush();
+                  vht_buffer_type vht_buffer;
+                  proc = -1;
+                  while (vht_exchange.recv(proc, vht_buffer)){
+                      foreach(const hash_pair_type& pair, vht_buffer){
+                          vht[pair.first] = pair.second;
+                          //logstream(LOG_INFO) << "first = " << pair.first << " second = " << pair.second << std::endl;
+                      }
+                  }
+                  vht_exchange.clear();
+                  //fht.clear();
+                  //vht_exchange.flush();                                   //
+                  //vht_buffer_type vht_buffer;
+                  //proc = -1;
+                  // while (vht_exchange.recv(proc, vht_buffer)){
+                  //	  foreach(const hash_pair_type& pair, vht_buffer){
+                  //	  vht[pair.first] = pair.second;
+                  //logstream(LOG_INFO) << "first = " << pair.first << " second = " << pair.second << std::endl;
+                  //	  }
+                  // }
+                  //  vht_exchange.clear();
+                  if (l_procid == 0) {
+                      for (size_t ix = 0; ix < cnodes; ix++)
+                          logstream(LOG_INFO) << " count[ " << ix << " ] = " << count[ix] << std::endl;
+                  }
+                  // re-send edges of high-degree vertices
+
+
+
+                  for (size_t i = 0; i < matrix_edges.size(); i++){
+                      procid_t owning_proc = 0;
+                      edge_buffer_record& rec = matrix_edges[i];
+                      if (dht[rec.target] <= threshold){
+                          if (vht.find(rec.target) != vht.end() && vht[rec.target]!=-1){
+                              owning_proc = vht[rec.target];
+                          }
+                          else{
+                              owning_proc = rec.target%cnodes;
+                          }
+                          if (owning_proc != l_procid){
+                              for (int j = 0; j < ceng; j++){
+                                  matrix_edge_exchange.send(owning_proc%cnodes, rec);
+                              }
+
+                              // set re-sent edges as empty for skipping
+                              matrix_edges[i] = edge_buffer_record();
+                              --nedges;
+                          }
+
+                      }
+                      else{
+                          if (vht.find(rec.target) != vht.end()&&vht[rec.target]!=-1){
+                              owning_proc = vht[rec.target];
+                          }
+                          else {
+                              int row, col;
+                              col = (rec.source) % matrixSize;
+                              row = (rec.target) % matrixSize;
+                              if (col == row) col = rand() % matrixSize;
+
+
+                              owning_proc = myMatrix[row][col];
+
+                              if (vht.find(rec.target) != vht.end() && vht[rec.target] != -1) {
+                                  // update mht and nedges_incr
+                                  for (procid_t p = 0; p < nprocs; ++p) {
+                                      if (p != l_procid)
+                                          vht_exchange.send(p, hash_pair_type(rec.target, owning_proc));
+                                      else
+                                          vht[rec.target] = owning_proc;
+                                  }
+                              }
+                          }
+
+                          if (owning_proc != l_procid){
+
+                              matrix_edge_exchange.send(owning_proc%cnodes, rec);
+
+
+                              // set re-sent edges as empty for skipping
+                              matrix_edges[i] = edge_buffer_record();
+                              --nedges;
+                          }
+                      }
+                  }
+
+                  vht_exchange.flush();
+                  vht_buffer_type vht_buffer2;
+                  proc = -1;
+                  while (vht_exchange.recv(proc, vht_buffer2)){
+                      foreach(const hash_pair_type& pair, vht_buffer2){
+                          vht[pair.first] = pair.second;
+                          //logstream(LOG_INFO) << "first = " << pair.first << " second = " << pair.second << std::endl;
+                      }
+                  }
+                  vht_exchange.clear();
+
+#ifdef TUNING
+                  if(l_procid == 0) {
+            logstream(LOG_INFO) << "resend edges time: "
+                                << ti.current_time()
+                                << " secs"
+                                << std::endl;
+
+          }
+#endif
+
+                  // receive edges of high-degree vertices
+                  matrix_edge_exchange.flush();
+#ifdef TUNING
+                  logstream(LOG_INFO) << "receive high-degree edges: "
+                              << matrix_edge_exchange.size() << std::endl;
+#endif
+                  proc = -1;
+                  while(matrix_edge_exchange.recv(proc, edge_buffer)) {
+                      foreach(const edge_buffer_record& rec, edge_buffer) {
+                          matrix_edges.push_back(rec);
+                          ++nedges;
+                      }
+                  }
+                  matrix_edge_exchange.clear();
+
+#ifdef TUNING
+                  if(l_procid == 0) {
+            logstream(LOG_INFO) << "receive resend edges time: "
+                                << ti.current_time()
+                                << " secs"
+                                << std::endl;
+          }
+#endif
+              }
+          }
+
+          if(l_procid == 0) {
+              memory_info::log_usage("prepare matrix finalizing done.");
+              logstream(LOG_EMPH) << "prepare matrix finalizing. ("
+                                  << ti.current_time()
+                                  << " secs)"
+                                  << std::endl;
+          }
+
+          // connect to base finalize()
+          modified_base_finalize(nedges);
+
+          // set vertex degree type for topoX engine
+          set_degree_type();
+
+          if(l_procid == 0) {
+              memory_info::log_usage("matrix finalizing graph done.");
+              logstream(LOG_EMPH) << "matrix finalizing graph. ("
+                                  << ti.current_time()
+                                  << " secs)"
+                                  << std::endl;
+          }
+      } // end of finalize
+
+    void set_degree_type() {
+      graphlab::timer ti;
+      procid_t l_procid = matrix_rpc.procid();
+      size_t high_master = 0, high_mirror = 0, low_master = 0, low_mirror = 0;
+
+      for (size_t lvid = 0; lvid < graph.num_local_vertices(); lvid++) {
+        vertex_record& vrec = graph.lvid2record[lvid];
+        if (vrec.num_in_edges > threshold) {
+          vrec.dtype = graph_type::HIGH;
+          if (vrec.owner == l_procid) high_master ++;
+          else high_mirror ++;
+        } else {
+          vrec.dtype = graph_type::LOW;
+          if (vrec.owner == l_procid) low_master ++;
+          else low_mirror ++;
+        }
+      }
+
+#ifdef TUNING
+      // Compute the total number of high-degree and low-degree vertices
+      std::vector<size_t> swap_counts(matrix_rpc.numprocs());
+
+      swap_counts[l_procid] = high_master;
+      matrix_rpc.all_gather(swap_counts);
+      high_master = 0;
+      foreach(size_t count, swap_counts) high_master += count;
+
+      swap_counts[l_procid] = high_mirror;
+      matrix_rpc.all_gather(swap_counts);
+      high_mirror = 0;
+      foreach(size_t count, swap_counts) high_mirror += count;
+
+      swap_counts[l_procid] = low_master;
+      matrix_rpc.all_gather(swap_counts);
+      low_master = 0;
+      foreach(size_t count, swap_counts) low_master += count;
+
+      swap_counts[l_procid] = low_mirror;
+      matrix_rpc.all_gather(swap_counts);
+      low_mirror = 0;
+      foreach(size_t count, swap_counts) low_mirror += count;
+
+      if(l_procid == 0) {
+        logstream(LOG_EMPH) << "matrix info: master ["
+                            << high_master << " "
+                            << low_master << " "
+                            << (float(high_master)/(high_master+low_master)) << "]"
+                            << std::endl;
+        if ((high_mirror + low_mirror) > 0)
+        logstream(LOG_EMPH) << "matrix info: mirror ["
+                            << high_mirror << " "
+                            << low_mirror << " "
+                            << (float(high_mirror)/(high_mirror+low_mirror)) << "]"
+                            << std::endl;
+
+        memory_info::log_usage("set vertex type done.");
+        logstream(LOG_EMPH) << "set vertex type: "
+                            << ti.current_time()
+                            << " secs"
+                            << std::endl;
+      }
+#endif
+    }
+
+
+    /*
+     * do the same job as original base finalize except for
+     * extracting edges from matrix_edges instead of original edge_buffer
+     */
+      /*
+       * do the same job as original base finalize except for
+       * extracting edges from matrix_edges instead of original edge_buffer
+       */
+      void modified_base_finalize(size_t nedges) {
+          graphlab::timer ti;
+          procid_t l_procid = matrix_rpc.procid();
+          size_t nprocs = matrix_rpc.numprocs();
+          size_t cnodes = nprocs / ceng;
+
+          matrix_rpc.full_barrier();
+
+          bool first_time_finalize = false;
+          /**
+           * Fast pass for first time finalization.
+           */
+          if (graph.is_dynamic()) {
+              size_t nverts = graph.num_local_vertices();
+              matrix_rpc.all_reduce(nverts);
+              first_time_finalize = (nverts == 0);
+          } else {
+              first_time_finalize = false;
+          }
+
+
+          typedef typename hopscotch_map<vertex_id_type, lvid_type>::value_type
+                  vid2lvid_pair_type;
+
+          /**
+           * \internal
+           * Buffer storage for new vertices to the local graph.
+           */
+          typedef typename graph_type::hopscotch_map_type vid2lvid_map_type;
+          vid2lvid_map_type vid2lvid_buffer;
+
+          /**
+           * \internal
+           * The begining id assinged to the first new vertex.
+           */
+          const lvid_type lvid_start  = graph.vid2lvid.size();
+
+          /**
+           * \internal
+           * Bit field incidate the vertex that is updated during the ingress.
+           */
+          dense_bitset updated_lvids(graph.vid2lvid.size());
+
+
+          /**************************************************************************/
+          /*                                                                        */
+          /*                         Construct local graph                          */
+          /*                                                                        */
+          /**************************************************************************/
+          { // Add all the edges to the local graph
+              graph.local_graph.reserve_edge_space(nedges + 1);
+
+              foreach(const edge_buffer_record& rec, matrix_edges) {
+                  // skip re-sent edges
+                  if (rec.source == vertex_id_type(-1)) continue;
+
+                  // Get the source_vlid;
+                  lvid_type source_lvid(-1);
+                  if(graph.vid2lvid.find(rec.source) == graph.vid2lvid.end()) {
+                      if (vid2lvid_buffer.find(rec.source) == vid2lvid_buffer.end()) {
+                          source_lvid = lvid_start + vid2lvid_buffer.size();
+                          vid2lvid_buffer[rec.source] = source_lvid;
+                      } else {
+                          source_lvid = vid2lvid_buffer[rec.source];
+                      }
+                  } else {
+                      source_lvid = graph.vid2lvid[rec.source];
+                      updated_lvids.set_bit(source_lvid);
+                  }
+                  // Get the target_lvid;
+                  lvid_type target_lvid(-1);
+                  if(graph.vid2lvid.find(rec.target) == graph.vid2lvid.end()) {
+                      if (vid2lvid_buffer.find(rec.target) == vid2lvid_buffer.end()) {
+                          target_lvid = lvid_start + vid2lvid_buffer.size();
+                          vid2lvid_buffer[rec.target] = target_lvid;
+                      } else {
+                          target_lvid = vid2lvid_buffer[rec.target];
+                      }
+                  } else {
+                      target_lvid = graph.vid2lvid[rec.target];
+                      updated_lvids.set_bit(target_lvid);
+                  }
+                  graph.local_graph.add_edge(source_lvid, target_lvid, rec.edata);
+              } // end for loop over buffers
+              matrix_edges.clear();
+
+              ASSERT_EQ(graph.vid2lvid.size() + vid2lvid_buffer.size(),
+                        graph.local_graph.num_vertices());
+#ifdef TUNING
+              if(l_procid == 0)  {
+          logstream(LOG_INFO) << "populating local graph: "
+                              << ti.current_time()
+                              << " secs"
+                              << std::endl;
+        }
+#endif
+              // Finalize local graph
+              graph.local_graph.finalize();
+#ifdef TUNING
+              logstream(LOG_INFO) << "local graph info: " << std::endl
+                            << "\t nverts: " << graph.local_graph.num_vertices()
+                            << std::endl
+                            << "\t nedges: " << graph.local_graph.num_edges()
+                            << std::endl;
+
+        if(l_procid == 0) {
+          logstream(LOG_INFO) << "finalizing local graph: "
+                              << ti.current_time()
+                              << " secs"
+                              << std::endl;
+        }
+#endif
+          }
+
+
+          /**************************************************************************/
+          /*                                                                        */
+          /*             Receive and add vertex data to masters                     */
+          /*                                                                        */
+          /**************************************************************************/
+          // Setup the map containing all the vertices being negotiated by this machine
+          {
+              // receive any vertex data sent by other machines
+              if (matrix_vertex_exchange.size() > 0) {
+                  vertex_buffer_type vertex_buffer; procid_t sending_proc(-1);
+                  while(matrix_vertex_exchange.recv(sending_proc, vertex_buffer)) {
+                      foreach(const vertex_buffer_record& rec, vertex_buffer) {
+                          lvid_type lvid(-1);
+                          if (graph.vid2lvid.find(rec.vid) == graph.vid2lvid.end()) {
+                              if (vid2lvid_buffer.find(rec.vid) == vid2lvid_buffer.end()) {
+                                  lvid = lvid_start + vid2lvid_buffer.size();
+                                  vid2lvid_buffer[rec.vid] = lvid;
+                              } else {
+                                  lvid = vid2lvid_buffer[rec.vid];
+                              }
+                          } else {
+                              lvid = graph.vid2lvid[rec.vid];
+                              updated_lvids.set_bit(lvid);
+                          }
+                          if (distributed_matrix_block_ingress::vertex_combine_strategy
+                              && lvid < graph.num_local_vertices()) {
+                              distributed_matrix_block_ingress::vertex_combine_strategy(
+                                      graph.l_vertex(lvid).data(), rec.vdata);
+                          } else {
+                              graph.local_graph.add_vertex(lvid, rec.vdata);
+                          }
+                      }
+                  }
+                  matrix_vertex_exchange.clear();
+#ifdef TUNING
+                  logstream(LOG_INFO) << "base::#vert-msgs=" << matrix_vertex_exchange.size()
+                              << std::endl;
+          if(l_procid == 0) {
+            logstream(LOG_INFO) << "adding vertex data: "
+                                << ti.current_time()
+                                << " secs"
+                                << std::endl;
+          }
+#endif
+              }
+          } // end of loop to populate vrecmap
+
+
+          /**************************************************************************/
+          /*                                                                        */
+          /*        Assign vertex data and allocate vertex (meta)data  space        */
+          /*                                                                        */
+          /**************************************************************************/
+          {
+              // determine masters for all negotiated vertices
+              const size_t local_nverts = graph.vid2lvid.size() + vid2lvid_buffer.size();
+              graph.lvid2record.reserve(local_nverts);
+              graph.lvid2record.resize(local_nverts);
+              graph.local_graph.resize(local_nverts);
+              foreach(const vid2lvid_pair_type& pair, vid2lvid_buffer) {
+                  vertex_record& vrec = graph.lvid2record[pair.second];
+                  vrec.gvid = pair.first;
+                  if (standalone)
+                      vrec.owner = 0;
+                  else{
+                      if (vht.find(pair.first) != vht.end())
+                          vrec.owner = vht[pair.first] ;
+                      else vrec.owner = pair.first % cnodes + l_procid/cnodes*cnodes;
+                  }
+              }
+              ASSERT_EQ(local_nverts, graph.local_graph.num_vertices());
+              ASSERT_EQ(graph.lvid2record.size(), graph.local_graph.num_vertices());
+#ifdef TUNING
+              if(l_procid == 0) {
+          logstream(LOG_INFO) << "allocating lvid2record: "
+                              << ti.current_time()
+                              << " secs"
+                              << std::endl;
+        }
+#endif
+          }
+
+
+          /**************************************************************************/
+          /*                                                                        */
+          /*                          Master handshake                              */
+          /*                                                                        */
+          /**************************************************************************/
+          if (!standalone) {
+#ifdef _OPENMP
+              buffered_exchange<vertex_id_type> vid_buffer(matrix_rpc.dc(), omp_get_max_threads());
+#else
+              buffered_exchange<vertex_id_type> vid_buffer(matrix_rpc.dc());
+#endif
+
+#ifdef _OPENMP
+#pragma omp parallel for
+#endif
+              // send not owned vids to their master
+              for (lvid_type i = lvid_start; i < graph.lvid2record.size(); ++i) {
+                  procid_t master = graph.lvid2record[i].owner;
+                  if (master != l_procid)
+#ifdef _OPENMP
+                      vid_buffer.send(master, graph.lvid2record[i].gvid, omp_get_thread_num());
+#else
+                      vid_buffer.send(master, graph.lvid2record[i].gvid);
+#endif
+              }
+              vid_buffer.flush();
+              matrix_rpc.barrier();
+
+              // receive all vids owned by me
+              mutex flying_vids_lock;
+              boost::unordered_map<vertex_id_type, mirror_type> flying_vids;
+#ifdef _OPENMP
+#pragma omp parallel
+#endif
+              {
+                  typename buffered_exchange<vertex_id_type>::buffer_type buffer;
+                  procid_t recvid = -1;
+                  while(vid_buffer.recv(recvid, buffer)) {
+                      foreach(const vertex_id_type vid, buffer) {
+                          if (graph.vid2lvid.find(vid) == graph.vid2lvid.end()) {
+                              if (vid2lvid_buffer.find(vid) == vid2lvid_buffer.end()) {
+                                  flying_vids_lock.lock();
+                                  mirror_type& mirrors = flying_vids[vid];
+                                  mirrors.set_bit(recvid);
+                                  flying_vids_lock.unlock();
+                              } else {
+                                  lvid_type lvid = vid2lvid_buffer[vid];
+                                  graph.lvid2record[lvid]._mirrors.set_bit(recvid);
+                              }
+                          } else {
+                              lvid_type lvid = graph.vid2lvid[vid];
+                              graph.lvid2record[lvid]._mirrors.set_bit(recvid);
+                              updated_lvids.set_bit(lvid);
+                          }
+                      }
+                  }
+              }
+              vid_buffer.clear();
+
+              if (!flying_vids.empty()) {
+                  logstream(LOG_INFO) << "#flying-own-nverts="
+                                      << flying_vids.size()
+                                      << std::endl;
+
+                  // reallocate spaces for the flying vertices.
+                  size_t vsize_old = graph.lvid2record.size();
+                  size_t vsize_new = vsize_old + flying_vids.size();
+                  graph.lvid2record.resize(vsize_new);
+                  graph.local_graph.resize(vsize_new);
+                  for (typename boost::unordered_map<vertex_id_type, mirror_type>::iterator it = flying_vids.begin();
+                       it != flying_vids.end(); ++it) {
+                      lvid_type lvid = lvid_start + vid2lvid_buffer.size();
+                      vertex_record& vrec = graph.lvid2record[lvid];
+                      vertex_id_type gvid = it->first;
+                      vrec.owner = l_procid;
+                      vrec.gvid = gvid;
+                      vrec._mirrors = it->second;
+                      vid2lvid_buffer[gvid] = lvid;
+                  }
+              }
+          } // end of master handshake
+
+#ifdef TUNING
+          if(l_procid == 0) {
+        logstream(LOG_INFO) << "master handshake: "
+                            << ti.current_time()
+                            << " secs"
+                            << std::endl;
+      }
+#endif
+
+
+          /**************************************************************************/
+          /*                                                                        */
+          /*                        Merge in vid2lvid_buffer                        */
+          /*                                                                        */
+          /**************************************************************************/
+          {
+              if (graph.vid2lvid.size() == 0) {
+                  graph.vid2lvid.swap(vid2lvid_buffer);
+              } else {
+                  graph.vid2lvid.rehash(graph.vid2lvid.size() + vid2lvid_buffer.size());
+                  foreach (const typename vid2lvid_map_type::value_type& pair, vid2lvid_buffer) {
+                      graph.vid2lvid.insert(pair);
+                  }
+                  vid2lvid_buffer.clear();
+              }
+          }
+
+
+          /**************************************************************************/
+          /*                                                                        */
+          /*              Synchronize vertex data and meta information              */
+          /*                                                                        */
+          /**************************************************************************/
+          // TODO:  optimization for standalone
+          {
+              // construct the vertex set of changed vertices
+
+              // Fast pass for first time finalize;
+              vertex_set changed_vset(true);
+
+              // Compute the vertices that needs synchronization
+              if (!first_time_finalize) {
+                  vertex_set changed_vset = vertex_set(false);
+                  changed_vset.make_explicit(graph);
+
+                  updated_lvids.resize(graph.num_local_vertices());
+                  for (lvid_type i = lvid_start; i <  graph.num_local_vertices(); ++i) {
+                      updated_lvids.set_bit(i);
+                  }
+                  changed_vset.localvset = updated_lvids;
+                  buffered_exchange<vertex_id_type> vset_exchange(matrix_rpc.dc());
+                  // sync vset with all mirrors
+                  changed_vset.synchronize_mirrors_to_master_or(graph, vset_exchange);
+                  changed_vset.synchronize_master_to_mirrors(graph, vset_exchange);
+              }
+
+              graphlab::graph_gather_apply<graph_type, vertex_negotiator_record>
+                      vrecord_sync_gas(graph,
+                                       boost::bind(&distributed_matrix_block_ingress::finalize_gather, this, _1, _2),
+                                       boost::bind(&distributed_matrix_block_ingress::finalize_apply, this, _1, _2, _3));
+              vrecord_sync_gas.exec(changed_vset);
+
+#ifdef TUNING
+              if(l_procid == 0) {
+          logstream(LOG_INFO) << "synchrionizing vertex (meta)data: "
+                              << ti.current_time()
+                              << " secs"
+                              << std::endl;
+        }
+#endif
+          }
+
+          base_type::exchange_global_info(standalone);
+#ifdef TUNING
+          if(l_procid == 0) {
+        logstream(LOG_INFO) << "exchange global info: "
+                            << ti.current_time()
+                            << " secs"
+                            << std::endl;
+      }
+#endif
+
+          if(l_procid == 0) {
+              memory_info::log_usage("base finalizing done.");
+              logstream(LOG_EMPH) << "base finalizing. ("
+                                  << ti.current_time()
+                                  << " secs)"
+                                  << std::endl;
+          }
+      } // end of modified base finalize
+
+
+  private:
+    boost::function<void(vertex_data_type&, const vertex_data_type&)> vertex_combine_strategy;
+
+    /**
+     * \brief Gather the vertex distributed meta data.
+     */
+    vertex_negotiator_record finalize_gather(lvid_type& lvid, graph_type& graph) {
+      vertex_negotiator_record accum;
+      accum.num_in_edges = graph.local_graph.num_in_edges(lvid);
+      accum.num_out_edges = graph.local_graph.num_out_edges(lvid);
+      if (graph.l_is_master(lvid)) {
+        accum.has_data = true;
+        accum.vdata = graph.l_vertex(lvid).data();
+        accum.mirrors = graph.lvid2record[lvid]._mirrors;
+      }
+      return accum;
+    }
+
+    /**
+     * \brief Update the vertex data structures with the gathered vertex metadata.
+     */
+    void finalize_apply(lvid_type lvid, const vertex_negotiator_record& accum, graph_type& graph) {
+      typename graph_type::vertex_record& vrec = graph.lvid2record[lvid];
+      vrec.num_in_edges = accum.num_in_edges;
+      vrec.num_out_edges = accum.num_out_edges;
+      graph.l_vertex(lvid).data() = accum.vdata;
+      vrec._mirrors = accum.mirrors;
+    }
+  };
+
+}; // end of namespace graphlab
+#include <graphlab/macros_undef.hpp>
+#endif
