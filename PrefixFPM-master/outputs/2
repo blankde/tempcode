@@ -1,656 +1,820 @@
-9970  |PDB| = 136
-9955  |PDB| = 353
-9903  |PDB| = 111
-9892  |PDB| = 108
-9877  |PDB| = 117
-9821  |PDB| = 162
-9807  |PDB| = 135
-9805  |PDB| = 149
-9757  |PDB| = 148
-9705  |PDB| = 277
-9679  |PDB| = 140
-9651  |PDB| = 146
-9639  |PDB| = 487
-9593  |PDB| = 163
-9569  |PDB| = 387
-9550  |PDB| = 169
-9529  |PDB| = 105
-9523  |PDB| = 313
-9484  |PDB| = 139
-9456  |PDB| = 328
-9456 2743  |PDB| = 102
-9433  |PDB| = 248
-9405  |PDB| = 112
-9395  |PDB| = 162
-9376  |PDB| = 105
-9300 860  |PDB| = 101
-9280  |PDB| = 206
-9255  |PDB| = 158
-9229  |PDB| = 323
-9194  |PDB| = 144
-9194 9679  |PDB| = 114
-8938  |PDB| = 296
-8938 2345  |PDB| = 142
-8921  |PDB| = 271
-8902  |PDB| = 295
-8870  |PDB| = 285
-8813  |PDB| = 337
-8797  |PDB| = 139
-8789  |PDB| = 160
-8784  |PDB| = 163
-8769  |PDB| = 103
-8768  |PDB| = 111
-8743  |PDB| = 148
-8743 3481  |PDB| = 106
-8783 7284  |PDB| = 105
-8783 3408  |PDB| = 100
-8751 2007  |PDB| = 119
-8677  |PDB| = 217
-8651  |PDB| = 179
-8641  |PDB| = 133
-8630  |PDB| = 158
-8610  |PDB| = 108
-8604  |PDB| = 152
-8594  |PDB| = 119
-8559  |PDB| = 135
-8542  |PDB| = 334
-8542 6231  |PDB| = 120
-8542 3846  |PDB| = 132
-8542 3846 6231  |PDB| = 106
-8425  |PDB| = 207
-8410  |PDB| = 213
-8421 6078  |PDB| = 111
-8341  |PDB| = 398
-8334  |PDB| = 127
-8332  |PDB| = 436
-8306  |PDB| = 120
-8300  |PDB| = 209
-8285  |PDB| = 183
-8261  |PDB| = 128
-8225  |PDB| = 111
-8222  |PDB| = 336
-8197  |PDB| = 133
-8157  |PDB| = 145
-8141  |PDB| = 107
-8123  |PDB| = 154
-8105  |PDB| = 210
-8096  |PDB| = 149
-8085  |PDB| = 307
-8061  |PDB| = 101
-8083 8351 47  |PDB| = 120
-8083 8351 47 1698  |PDB| = 112
-8083 8351 47 819  |PDB| = 109
-8083 8351 47 819 1698  |PDB| = 102
-8020  |PDB| = 122
-8015  |PDB| = 226
-7989  |PDB| = 151
-7987  |PDB| = 233
-7959  |PDB| = 155
-7952  |PDB| = 129
-7940  |PDB| = 137
-7930  |PDB| = 433
-7887  |PDB| = 270
-7887 7783  |PDB| = 103
-7864  |PDB| = 161
-7856  |PDB| = 150
-7849  |PDB| = 109
-7842  |PDB| = 185
-7837  |PDB| = 206
-7804  |PDB| = 239
-7788  |PDB| = 102
-7763  |PDB| = 146
-7755  |PDB| = 214
-7719  |PDB| = 105
-7708  |PDB| = 112
-7680  |PDB| = 128
-7657  |PDB| = 109
-7649  |PDB| = 273
-7616  |PDB| = 213
-7608  |PDB| = 173
-7589  |PDB| = 112
-7586  |PDB| = 362
-7566  |PDB| = 230
-7545  |PDB| = 120
-7540  |PDB| = 133
-7514  |PDB| = 202
-7489  |PDB| = 235
-7462  |PDB| = 252
-7426  |PDB| = 158
-7411  |PDB| = 237
-7388  |PDB| = 135
-7387  |PDB| = 224
-7400 4082  |PDB| = 101
-7368  |PDB| = 192
-7325  |PDB| = 190
-7325 5656  |PDB| = 127
-7286  |PDB| = 215
-7277  |PDB| = 127
-7270  |PDB| = 304
-7284 52  |PDB| = 103
-7244  |PDB| = 117
-7228  |PDB| = 123
-7228 7540  |PDB| = 117
-7176  |PDB| = 160
-7145  |PDB| = 114
-7133  |PDB| = 180
-7124  |PDB| = 134
-7119  |PDB| = 129
-7079  |PDB| = 559
-7033  |PDB| = 168
-7009  |PDB| = 114
-7007  |PDB| = 100
-6972  |PDB| = 220
-6961  |PDB| = 312
-6936  |PDB| = 180
-6909  |PDB| = 190
-6904  |PDB| = 300
-6892  |PDB| = 128
-6872  |PDB| = 114
-6815  |PDB| = 137
-6786  |PDB| = 170
-6783  |PDB| = 102
-6761  |PDB| = 152
-6761 7989  |PDB| = 149
-6734  |PDB| = 122
-6730  |PDB| = 246
-6730 8925  |PDB| = 112
-6730 2743  |PDB| = 103
-6730 1351  |PDB| = 109
-6730 1351 8925  |PDB| = 108
-6687  |PDB| = 230
-6649  |PDB| = 152
-6640  |PDB| = 242
-6602  |PDB| = 108
-6598  |PDB| = 289
-6595  |PDB| = 116
-6593  |PDB| = 194
-6573  |PDB| = 117
-6554  |PDB| = 458
-6511  |PDB| = 224
-6503  |PDB| = 241
-6487  |PDB| = 129
-6467  |PDB| = 108
-6452  |PDB| = 100
-6449  |PDB| = 124
-6422  |PDB| = 108
-6413  |PDB| = 184
-6413 6048  |PDB| = 126
-6413 6048 4007  |PDB| = 100
-6413 6048 3825  |PDB| = 100
-6413 3797  |PDB| = 129
-6413 3797 6048  |PDB| = 100
-6413 3797 2235  |PDB| = 112
-6413 3026 2412  |PDB| = 115
-6413 3026 2412 6048  |PDB| = 103
-6413 3026 1032 2412  |PDB| = 113
-6413 3026 1032 2412 6048  |PDB| = 102
-6413 2235  |PDB| = 144
-6413 2235 6048  |PDB| = 102
-6413 1492 3797  |PDB| = 125
-6413 1492 3797 3820  |PDB| = 100
-6413 1492 3797 2235  |PDB| = 109
-6413 1414 2235 3026  |PDB| = 107
-6413 1492 1414  |PDB| = 108
-6413 1492 1414 2235  |PDB| = 107
-6413 1032 4007  |PDB| = 100
-6413 1032 2412  |PDB| = 122
-6413 1032 2412 6048  |PDB| = 110
-6335  |PDB| = 148
-6314  |PDB| = 123
-6303  |PDB| = 108
-6291  |PDB| = 136
-6258  |PDB| = 153
-6250  |PDB| = 139
-6236  |PDB| = 201
-6231  |PDB| = 298
-6205  |PDB| = 184
-6194  |PDB| = 350
-6168  |PDB| = 130
-6168 7841  |PDB| = 102
-6129  |PDB| = 201
-6102  |PDB| = 219
-6064  |PDB| = 160
-6064 9243  |PDB| = 126
-6064 9243 9021  |PDB| = 112
-6052  |PDB| = 215
-6052 9281  |PDB| = 150
-6032  |PDB| = 312
-6001  |PDB| = 105
-5991  |PDB| = 129
-5972  |PDB| = 140
-5972 6961  |PDB| = 137
-5940  |PDB| = 442
-5922  |PDB| = 160
-5914  |PDB| = 193
-5914 8230  |PDB| = 131
-5853  |PDB| = 104
-5852  |PDB| = 459
-5795  |PDB| = 411
-5756  |PDB| = 203
-5720  |PDB| = 129
-5720 1002  |PDB| = 102
-5678  |PDB| = 163
-5672  |PDB| = 109
-5658  |PDB| = 102
-5643  |PDB| = 216
-5611  |PDB| = 123
-5636 3662  |PDB| = 116
-5636 3662 7794  |PDB| = 115
-5636 4511 3379  |PDB| = 104
-5636 4511 1514  |PDB| = 109
-5636 2612  |PDB| = 109
-5636 2612 5477  |PDB| = 109
-5594  |PDB| = 113
-5562  |PDB| = 339
-5563 3846  |PDB| = 104
-5540  |PDB| = 213
-5538  |PDB| = 345
-5483  |PDB| = 161
-5444  |PDB| = 153
-5412  |PDB| = 152
-5393  |PDB| = 216
-5381  |PDB| = 118
-5372  |PDB| = 189
-5388 8133  |PDB| = 164
-5388 8133 9104  |PDB| = 162
-5346 7325  |PDB| = 132
-5346 7325 5656  |PDB| = 112
-5307  |PDB| = 111
-5307 5585  |PDB| = 111
-5301  |PDB| = 134
-5265  |PDB| = 214
-5234  |PDB| = 359
-5234 6784  |PDB| = 108
-5200  |PDB| = 103
-5168  |PDB| = 116
-5148  |PDB| = 137
-5132  |PDB| = 340
-5132 8743  |PDB| = 101
-5132 3348  |PDB| = 100
-5112  |PDB| = 120
-5132 5923 3481  |PDB| = 100
-5105  |PDB| = 254
-5062  |PDB| = 170
-5062 7387  |PDB| = 124
-5031  |PDB| = 159
-4976  |PDB| = 298
-4957  |PDB| = 119
-4945  |PDB| = 102
-4923  |PDB| = 122
-4914  |PDB| = 214
-4894  |PDB| = 383
-4894 8917  |PDB| = 143
-4869  |PDB| = 213
-4814  |PDB| = 114
-4796  |PDB| = 153
-4796 7365  |PDB| = 118
-4770  |PDB| = 238
-4770 7586  |PDB| = 111
-4746  |PDB| = 599
-4746 8017  |PDB| = 110
-4683  |PDB| = 301
-4667  |PDB| = 264
-4654  |PDB| = 174
-4630  |PDB| = 232
-4588  |PDB| = 119
-4575  |PDB| = 131
-4571  |PDB| = 167
-4563  |PDB| = 387
-4563 7841  |PDB| = 103
-4563 6168  |PDB| = 105
-4563 6168 7841  |PDB| = 102
-4538  |PDB| = 116
-4514  |PDB| = 137
-4502  |PDB| = 182
-4502 8572  |PDB| = 114
-4497  |PDB| = 144
-4491  |PDB| = 283
-4444  |PDB| = 418
-4411  |PDB| = 161
-4411 8410  |PDB| = 104
-4411 5491  |PDB| = 100
-4387  |PDB| = 126
-4387 5037  |PDB| = 123
-4335  |PDB| = 121
-4319  |PDB| = 133
-4299  |PDB| = 207
-4259  |PDB| = 181
-4246  |PDB| = 100
-4241  |PDB| = 208
-4230  |PDB| = 342
-4188  |PDB| = 119
-4183  |PDB| = 367
-4183 8784  |PDB| = 114
-4183 8289  |PDB| = 116
-4183 8289 8784  |PDB| = 111
-4149  |PDB| = 175
-4116  |PDB| = 135
-4082  |PDB| = 118
-4082 4752  |PDB| = 116
-4076  |PDB| = 107
-4076 8718  |PDB| = 105
-4014  |PDB| = 121
-4014 6252  |PDB| = 120
-4026 860  |PDB| = 105
-4026 52  |PDB| = 112
-3991  |PDB| = 270
-3964  |PDB| = 108
-3951  |PDB| = 165
-3930  |PDB| = 135
-3890  |PDB| = 116
-3879  |PDB| = 137
-3851  |PDB| = 136
-3846  |PDB| = 391
-3846 6231  |PDB| = 117
-3828  |PDB| = 157
-3820  |PDB| = 148
-3820 6048  |PDB| = 128
-3820 6048 4007  |PDB| = 100
-3820 4007  |PDB| = 110
-3820 3825  |PDB| = 109
-3820 3825 4007  |PDB| = 109
-3796  |PDB| = 227
-3797 3820  |PDB| = 113
-3797 1414  |PDB| = 122
-3797 1414 2235  |PDB| = 120
-3754  |PDB| = 117
-3723  |PDB| = 170
-3707  |PDB| = 118
-3702  |PDB| = 317
-3675  |PDB| = 280
-3658  |PDB| = 155
-3648  |PDB| = 421
-3617  |PDB| = 104
-3607  |PDB| = 108
-3595  |PDB| = 152
-3619 2655  |PDB| = 104
-3570  |PDB| = 259
-3552  |PDB| = 202
-3548  |PDB| = 171
-3545  |PDB| = 181
-3518  |PDB| = 174
-3499  |PDB| = 212
-3499 9104  |PDB| = 134
-3499 5388  |PDB| = 135
-3499 5388 9104  |PDB| = 133
-3459  |PDB| = 226
-3429  |PDB| = 238
-3411  |PDB| = 231
-3379  |PDB| = 208
-3372  |PDB| = 117
-3372 4451  |PDB| = 114
-3348  |PDB| = 299
-3348 8743  |PDB| = 127
-3348 8743 3481  |PDB| = 104
-3327  |PDB| = 132
-3306  |PDB| = 129
-3292  |PDB| = 188
-3263  |PDB| = 177
-3269 1868  |PDB| = 102
-3269 1868 6063  |PDB| = 101
-3229  |PDB| = 187
-3209  |PDB| = 123
-3189  |PDB| = 125
-3183  |PDB| = 134
-3153  |PDB| = 116
-3134  |PDB| = 189
-3115  |PDB| = 101
-3089  |PDB| = 119
-3078  |PDB| = 112
-3064  |PDB| = 128
-3039  |PDB| = 377
-3039 6648  |PDB| = 120
-3021  |PDB| = 247
-2984  |PDB| = 108
-2969  |PDB| = 181
-3026 4007  |PDB| = 115
-3026 3825  |PDB| = 118
-3026 3825 4007  |PDB| = 113
-3026 6048 3825  |PDB| = 105
-3026 6048 3825 4007  |PDB| = 103
-3026 2412  |PDB| = 132
-3026 2412 6048  |PDB| = 115
-3026 3820 4007  |PDB| = 101
-3026 3820 2412  |PDB| = 114
-3026 3820 2412 6048  |PDB| = 103
-3026 1032 2412 3825  |PDB| = 101
-3026 1032 2412 3825 4007  |PDB| = 100
-2943  |PDB| = 125
-2915  |PDB| = 411
-2879  |PDB| = 355
-2858  |PDB| = 129
-2837  |PDB| = 104
-2828  |PDB| = 131
-2812  |PDB| = 116
-2786  |PDB| = 218
-2743  |PDB| = 286
-2717  |PDB| = 132
-2691  |PDB| = 572
-2691 7387  |PDB| = 121
-2691 6234  |PDB| = 201
-2691 6234 7387  |PDB| = 113
-2594  |PDB| = 155
-2579  |PDB| = 146
-2612 4772  |PDB| = 110
-2612 4772 4511  |PDB| = 101
-2569  |PDB| = 285
-2536  |PDB| = 107
-2511  |PDB| = 114
-2505  |PDB| = 183
-2496  |PDB| = 140
-2474  |PDB| = 192
-2456  |PDB| = 194
-2446  |PDB| = 188
-2422  |PDB| = 284
-2422 2007  |PDB| = 115
-2404  |PDB| = 266
-2412 3825  |PDB| = 113
-2412 3825 4007  |PDB| = 111
-2397  |PDB| = 124
-2387  |PDB| = 169
-2375  |PDB| = 115
-2375 9091  |PDB| = 112
-2352  |PDB| = 196
-2337  |PDB| = 179
-2320  |PDB| = 122
-2311  |PDB| = 141
-2299  |PDB| = 120
-2292  |PDB| = 196
-2269  |PDB| = 158
-2257  |PDB| = 167
-2246  |PDB| = 184
-2230  |PDB| = 130
-2216  |PDB| = 116
-2197  |PDB| = 182
-2197 5202  |PDB| = 116
-2235 4007  |PDB| = 103
-2235 3026  |PDB| = 129
-2235 3026 6048  |PDB| = 105
-2235 1032 2412  |PDB| = 116
-2235 1032 2412 6048  |PDB| = 103
-2171  |PDB| = 110
-2139  |PDB| = 223
-2119  |PDB| = 121
-2111  |PDB| = 154
-2101  |PDB| = 102
-2116 2743  |PDB| = 102
-2089  |PDB| = 149
-2075  |PDB| = 244
-2014  |PDB| = 157
-2014 3361  |PDB| = 141
-2009  |PDB| = 174
-1987  |PDB| = 339
-1979  |PDB| = 108
-1968  |PDB| = 133
-1967  |PDB| = 169
-1954  |PDB| = 115
-1936  |PDB| = 153
-1922  |PDB| = 174
-1880  |PDB| = 223
-1856  |PDB| = 172
-1844  |PDB| = 206
-1836  |PDB| = 115
-1815  |PDB| = 263
-1815 7387  |PDB| = 116
-1815 2691  |PDB| = 199
-1815 2691 7387  |PDB| = 113
-1793 3846  |PDB| = 104
-1766  |PDB| = 140
-1793 5563 6231  |PDB| = 100
-1757  |PDB| = 155
-1740  |PDB| = 128
-1729  |PDB| = 371
-1698  |PDB| = 519
-1661  |PDB| = 286
-1658  |PDB| = 129
-1649  |PDB| = 385
-1649 4093  |PDB| = 131
-1603  |PDB| = 144
-1603 5128  |PDB| = 100
-1539  |PDB| = 135
-1516  |PDB| = 112
-1511  |PDB| = 233
-1487  |PDB| = 102
-1478  |PDB| = 173
-1478 8925  |PDB| = 111
-1492 3026 3820  |PDB| = 107
-1492 3797 2412  |PDB| = 108
-1478 6730 3269  |PDB| = 132
-1478 6730 3269 8925  |PDB| = 100
-1492 3797 1032  |PDB| = 108
-1492 3797 1032 2412  |PDB| = 106
-1478 2743  |PDB| = 104
-1478 1351  |PDB| = 108
-1478 1351 8925  |PDB| = 107
-1472  |PDB| = 373
-1472 8306  |PDB| = 104
-1414  |PDB| = 810
-1414 7467  |PDB| = 157
-1414 2412  |PDB| = 120
-1414 2412 6048  |PDB| = 104
-1414 3026 1032  |PDB| = 109
-1414 3026 1032 2412  |PDB| = 107
-1369  |PDB| = 236
-1414 2235 3820 2412  |PDB| = 101
-1414 2235 3026 3820  |PDB| = 105
-1361  |PDB| = 418
-1338  |PDB| = 185
-1351 8925 2743  |PDB| = 103
-1351 8925 1868  |PDB| = 101
-1321  |PDB| = 124
-1301  |PDB| = 108
-1287  |PDB| = 113
-1279  |PDB| = 177
-1258  |PDB| = 141
-1237  |PDB| = 182
-1221  |PDB| = 363
-1204  |PDB| = 119
-1204 3248  |PDB| = 101
-1197  |PDB| = 139
-1201 9021  |PDB| = 112
-1201 6064  |PDB| = 125
-1201 6064 9243  |PDB| = 124
-1201 6064 9243 9021  |PDB| = 110
-1202 5656  |PDB| = 102
-1202 5346  |PDB| = 110
-1175  |PDB| = 107
-1173  |PDB| = 134
-1150  |PDB| = 190
-1122  |PDB| = 169
-1122 5858  |PDB| = 119
-1091  |PDB| = 102
-1084  |PDB| = 133
-1076  |PDB| = 139
-1070  |PDB| = 133
-1040  |PDB| = 282
-1013  |PDB| = 102
-1032 6048 3825  |PDB| = 103
-1032 6048 3825 4007  |PDB| = 100
-1002  |PDB| = 220
-1002 864  |PDB| = 103
-988  |PDB| = 164
-968  |PDB| = 158
-952  |PDB| = 144
-929  |PDB| = 239
-920  |PDB| = 237
-920 9467  |PDB| = 135
-920 552  |PDB| = 136
-920 552 9467  |PDB| = 124
-864  |PDB| = 128
-860  |PDB| = 113
-841  |PDB| = 240
-841 8117  |PDB| = 139
-797  |PDB| = 243
-797 3020  |PDB| = 100
-773  |PDB| = 143
-759  |PDB| = 231
-740  |PDB| = 427
-727  |PDB| = 161
-669  |PDB| = 106
-650  |PDB| = 212
-617  |PDB| = 224
-617 8392  |PDB| = 108
-617 3334  |PDB| = 104
-557  |PDB| = 262
-542  |PDB| = 367
-542 3477  |PDB| = 103
-511  |PDB| = 204
-488  |PDB| = 282
-461  |PDB| = 199
-435  |PDB| = 103
-434  |PDB| = 131
-448 9021  |PDB| = 150
-448 6064  |PDB| = 115
-448 6064 9243  |PDB| = 114
-448 6064 9243 9021  |PDB| = 103
-448 6064 9021  |PDB| = 103
-448 1201  |PDB| = 116
-448 1201 9243  |PDB| = 115
-448 1201 9243 9021  |PDB| = 104
-431 7228  |PDB| = 117
-431 7228 7540  |PDB| = 114
-410 5505  |PDB| = 114
-410 5505 5801  |PDB| = 114
-364  |PDB| = 122
-356  |PDB| = 131
-348  |PDB| = 130
-343  |PDB| = 183
-326  |PDB| = 160
-304  |PDB| = 138
-324 3408  |PDB| = 101
-324 3408 9731  |PDB| = 100
-293  |PDB| = 402
-320 7325  |PDB| = 124
-320 7325 5656  |PDB| = 107
-240  |PDB| = 122
-320 5346 5656  |PDB| = 112
-234  |PDB| = 101
-215  |PDB| = 124
-212  |PDB| = 123
-200  |PDB| = 109
-188  |PDB| = 328
-188 9243  |PDB| = 114
-188 9243 9021  |PDB| = 102
-188 9021  |PDB| = 154
-188 4936  |PDB| = 167
-188 4936 9243  |PDB| = 104
-188 1201 9021  |PDB| = 100
-188 1201 6064  |PDB| = 109
-188 1201 6064 9243  |PDB| = 108
-188 4936 1201 6064  |PDB| = 102
-188 4936 1201 6064 9243  |PDB| = 101
-119  |PDB| = 118
-119 9820  |PDB| = 115
-188 448 4936  |PDB| = 138
-188 448 4936 9021  |PDB| = 125
-188 448 1201 6064  |PDB| = 101
-188 448 1201 6064 9243  |PDB| = 100
-94  |PDB| = 301
-67  |PDB| = 158
-67 5932  |PDB| = 150
-47  |PDB| = 331
-47 1698  |PDB| = 148
-47 819  |PDB| = 138
-47 819 1698  |PDB| = 127
-22 6921  |PDB| = 119
-22 6921 7616  |PDB| = 115
+   * \li <b>max_iterations</b>: (default: infinity) The maximum number
+   * of iterations (super-steps) to run.
+   *
+   * \li <b>timeout</b>: (default: infinity) The maximum time in
+   * seconds that the engine may run. When the time runs out the
+   * current iteration is completed and then the engine terminates.
+   *
+   * \li <b>use_cache</b>: (default: false) This is used to enable
+   * caching.  When caching is enabled the gather phase is skipped for
+   * vertices that already have a cached value.  To use caching the
+   * vertex program must either clear (\ref icontext::clear_gather_cache)
+   * or update (\ref icontext::post_delta) the cache values of
+   * neighboring vertices during the scatter phase.
+   *
+   * \li \b snapshot_interval If set to a positive value, a snapshot
+   * is taken every this number of iterations. If set to 0, a snapshot
+   * is taken before the first iteration. If set to a negative value,
+   * no snapshots are taken. Defaults to -1. A snapshot is a binary
+   * dump of the graph.
+   *
+   * \li \b snapshot_path If snapshot_interval is set to a value >=0,
+   * this option must be specified and should contain a target basename
+   * for the snapshot. The path including folder and file prefix in
+   * which the snapshots should be saved.
+   *
+   * \see graphlab::omni_engine
+   * \see graphlab::async_consistent_engine
+   * \see graphlab::semi_synchronous_engine
+   * \see graphlab::topoX_sync_engine
+   */
+  template<typename VertexProgram>
+  class topoX_sync_engine :
+    public iengine<VertexProgram> {
+
+  public:
+    /**
+     * \brief The user defined vertex program type. Equivalent to the
+     * VertexProgram template argument.
+     *
+     * The user defined vertex program type which should implement the
+     * \ref graphlab::ivertex_program interface.
+     */
+    typedef VertexProgram vertex_program_type;
+
+    /**
+     * \brief The user defined type returned by the gather function.
+     *
+     * The gather type is defined in the \ref graphlab::ivertex_program
+     * interface and is the value returned by the
+     * \ref graphlab::ivertex_program::gather function.  The
+     * gather type must have an <code>operator+=(const gather_type&
+     * other)</code> function and must be \ref sec_serializable.
+     */
+    typedef typename VertexProgram::gather_type gather_type;
+
+
+    /**
+     * \brief The user defined message type used to signal neighboring
+     * vertex programs.
+     *
+     * The message type is defined in the \ref graphlab::ivertex_program
+     * interface and used in the call to \ref graphlab::icontext::signal.
+     * The message type must have an
+     * <code>operator+=(const gather_type& other)</code> function and
+     * must be \ref sec_serializable.
+     */
+    typedef typename VertexProgram::message_type message_type;
+
+    /**
+     * \brief The type of data associated with each vertex in the graph
+     *
+     * The vertex data type must be \ref sec_serializable.
+     */
+    typedef typename VertexProgram::vertex_data_type vertex_data_type;
+
+    /**
+     * \brief The type of data associated with each edge in the graph
+     *
+     * The edge data type must be \ref sec_serializable.
+     */
+    typedef typename VertexProgram::edge_data_type edge_data_type;
+
+    /**
+     * \brief The type of graph supported by this vertex program
+     *
+     * See graphlab::distributed_graph
+     */
+    typedef typename VertexProgram::graph_type  graph_type;
+
+    /**
+     * \brief The type used to represent a vertex in the graph.
+     * See \ref graphlab::distributed_graph::vertex_type for details
+     *
+     * The vertex type contains the function
+     * \ref graphlab::distributed_graph::vertex_type::data which
+     * returns a reference to the vertex data as well as other functions
+     * like \ref graphlab::distributed_graph::vertex_type::num_in_edges
+     * which returns the number of in edges.
+     *
+     */
+    typedef typename graph_type::vertex_type          vertex_type;
+
+    /**
+     * \brief The type used to represent an edge in the graph.
+     * See \ref graphlab::distributed_graph::edge_type for details.
+     *
+     * The edge type contains the function
+     * \ref graphlab::distributed_graph::edge_type::data which returns a
+     * reference to the edge data.  In addition the edge type contains
+     * the function \ref graphlab::distributed_graph::edge_type::source and
+     * \ref graphlab::distributed_graph::edge_type::target.
+     *
+     */
+    typedef typename graph_type::edge_type            edge_type;
+
+    /**
+     * \brief The type of the callback interface passed by the engine to vertex
+     * programs.  See \ref graphlab::icontext for details.
+     *
+     * The context callback is passed to the vertex program functions and is
+     * used to signal other vertices, get the current iteration, and access
+     * information about the engine.
+     */
+    typedef icontext<graph_type, gather_type, message_type> icontext_type;
+
+  private:
+
+    /**
+     * \brief Local vertex type used by the engine for fast indexing
+     */
+    typedef typename graph_type::local_vertex_type    local_vertex_type;
+
+    /**
+     * \brief Local edge type used by the engine for fast indexing
+     */
+    typedef typename graph_type::local_edge_type      local_edge_type;
+
+    /**
+     * \brief Local vertex id type used by the engine for fast indexing
+     */
+    typedef typename graph_type::lvid_type            lvid_type;
+
+    std::vector<double> per_thread_compute_time;
+	std::vector<double> per_thread_low_time;
+	std::vector<double> per_thread_high_time;
+	std::vector<double> per_thread_gather_time;
+
+
+	std::vector<double> per_thread_high_time2;
+
+	std::vector<double> per_thread_apply_time;
+
+    /**
+     * \brief The actual instance of the context type used by this engine.
+     */
+    typedef context<topoX_sync_engine> context_type;
+    friend class context<topoX_sync_engine>;
+
+
+    /**
+     * \brief The type of the distributed aggregator inherited from iengine
+     */
+    typedef typename iengine<vertex_program_type>::aggregator_type aggregator_type;
+
+    /**
+     * \brief The object used to communicate with remote copies of the
+     * synchronous engine.
+     */
+    dc_dist_object< topoX_sync_engine<VertexProgram> > rmi;
+
+    /**
+     * \brief A reference to the distributed graph on which this
+     * synchronous engine is running.
+     */
+    graph_type& graph;
+
+    /**
+     * \brief The number of CPUs used.
+     */
+    size_t ncpus;
+
+    /**
+     * \brief The local worker threads used by this engine
+     */
+    fiber_group threads;
+
+    /**
+     * \brief A thread barrier that is used to control the threads in the
+     * thread pool.
+     */
+    fiber_barrier thread_barrier;
+
+    /**
+     * \brief The maximum number of super-steps (iterations) to run
+     * before terminating.  If the max iterations is reached the
+     * engine will terminate if their are no messages remaining.
+     */
+    size_t max_iterations;
+
+
+   /*
+    * \brief When caching is enabled the gather phase is skipped for
+    * vertices that already have a cached value.  To use caching the
+    * vertex program must either clear (\ref icontext::clear_gather_cache)
+    * or update (\ref icontext::post_delta) the cache values of
+    * neighboring vertices during the scatter phase.
+    */
+    bool use_cache;
+
+    /**
+     * \brief A snapshot is taken every this number of iterations.
+     * If snapshot_interval == 0, a snapshot is only taken before the first
+     * iteration. If snapshot_interval < 0, no snapshots are taken.
+     */
+    int snapshot_interval;
+
+    /// \brief The target base name the snapshot is saved in.
+    std::string snapshot_path;
+
+    /**
+     * \brief A counter that tracks the current iteration number since
+     * start was last invoked.
+     */
+    size_t iteration_counter;
+
+    /**
+     * \brief The time in seconds at which the engine started.
+     */
+    float start_time;
+
+    /**
+     * \brief The total execution time.
+     */
+    double exec_time;
+
+    /**
+     * \brief The time spends on exch-msgs phase.
+     */
+    double exch_time;
+
+    /**
+     * \brief The time spends on recv-msgs phase.
+     */
+    double recv_time;
+
+    /**
+     * \brief The time spends on gather phase.
+     */
+    double gather_time;
+
+    /**
+     * \brief The time spends on apply phase.
+     */
+    double apply_time;
+
+    /**
+     * \brief The time spends on scatter phase.
+     */
+    double scatter_time;
+	double per_gather_time;
+	double per_apply_time;
+	double per_scatter_time;
+
+    /**
+     * \brief The interval time to print status.
+     */
+    float print_interval;
+
+    /**
+     * \brief The timeout time in seconds
+     */
+    float timeout;
+
+    /**
+     * \brief Schedules all vertices every iteration
+     */
+    bool sched_allv;
+
+    /**
+     * \brief Used to stop the engine prematurely
+     */
+    bool force_abort;
+
+    /**
+     * \brief The vertex locks protect access to vertex specific
+     * data-structures including
+     * \ref graphlab::topoX_sync_engine::gather_accum
+     * and \ref graphlab::topoX_sync_engine::messages.
+     */
+    std::vector<simple_spinlock> vlocks;
+
+    /**
+     * \brief The elocks protect individual edges during gather and
+     * scatter.  Technically there is a potential race since gather
+     * and scatter can modify edge values and can overlap.  The edge
+     * lock ensures that only one gather or scatter occurs on an edge
+     * at a time.
+     */
+    std::vector<simple_spinlock> elocks;
+
+    /**
+     * \brief The vertex programs associated with each vertex on this
+     * machine.
+     */
+    std::vector<vertex_program_type> vertex_programs;
+
+    /**
+     * \brief Vector of messages associated with each vertex.
+     */
+    std::vector<message_type> messages;
+
+    /**
+     * \brief Bit indicating whether a message is present for each vertex.
+     */
+    dense_bitset has_message;
+
+
+    /**
+     * \brief Gather accumulator used for each master vertex to merge
+     * the result of all the machine specific accumulators (or
+     * caches).
+     *
+     * The gather accumulator can be accessed by multiple threads at
+     * once and therefore must be guarded by a vertex locks in
+     * \ref graphlab::topoX_sync_engine::vlocks
+     */
+    std::vector<gather_type>  gather_accum;
+
+    /**
+     * \brief Bit indicating if the gather has accumulator contains any
+     * values.
+     *
+     * While dense bitsets are thread safe the value of this bit must
+     * change concurrently with the
+     * \ref graphlab::topoX_sync_engine::gather_accum and therefore is
+     * set while holding the lock in
+     * \ref graphlab::topoX_sync_engine::vlocks.
+     */
+    dense_bitset has_gather_accum;
+
+
+    /**
+     * \brief This optional vector contains caches of previous gather
+     * contributions for each machine.
+     *
+     * Caching is done locally and therefore a high-degree vertex may
+     * have multiple caches (one per machine).
+     */
+    std::vector<gather_type>  gather_cache;
+
+    /**
+     * \brief A bit indicating if the local gather for that vertex is
+     * available.
+     */
+    dense_bitset has_cache;
+
+    /**
+     * \brief A bit (for master vertices) indicating if that vertex is active
+     * (received a message on this iteration).
+     */
+    dense_bitset active_superstep;
+
+    /**
+     * \brief  The number of local vertices (masters) that are active on this
+     * iteration.
+     */
+    atomic<size_t> num_active_vertices;
+
+    /**
+     * \brief A bit indicating (for all vertices) whether to
+     * participate in the current minor-step (gather or scatter).
+     */
+    dense_bitset active_minorstep;
+
+    /**
+     * \brief A counter measuring the number of gathers that have been completed
+     */
+    atomic<size_t> completed_gathers;
+
+    /**
+     * \brief A counter measuring the number of applys that have been completed
+     */
+    atomic<size_t> completed_applys;
+
+    /**
+     * \brief A counter measuring the number of scatters that have been completed
+     */
+    atomic<size_t> completed_scatters;
+
+
+    /**
+     * \brief The shared counter used coordinate operations between
+     * threads.
+     */
+    atomic<size_t> shared_lvid_counter;
+
+    /**
+     * \brief The engine type used to create express.
+     */
+    typedef topoX_sync_engine<VertexProgram> engine_type;
+
+    /**
+     * \brief The pair type used to synchronize vertex programs across machines.
+     */
+    typedef std::pair<vertex_id_type, vertex_program_type> vid_vprog_pair_type;
+
+    /**
+     * \brief The type of the express used to activate mirrors
+     */
+    typedef fiber_buffered_exchange<vid_vprog_pair_type>
+      activ_exchange_type;
+
+    /**
+     * \brief The type of buffer used by the express to activate mirrors
+     */
+    typedef typename activ_exchange_type::buffer_type activ_buffer_type;
+
+    /**
+     * \brief The distributed express used to activate mirrors
+     * vertex programs.
+     */
+    activ_exchange_type activ_exchange;
+
+    /**
+     * \brief The triple type used to update vertex data and activate neighbors.
+     */
+    typedef triple<vertex_id_type, vertex_data_type, vertex_program_type>
+      vid_vdata_vprog_triple_type;
+
+    /**
+     * \brief The type of the exchange used to update mirrors
+     */
+    typedef fiber_buffered_exchange<vid_vdata_vprog_triple_type>
+      update_activ_exchange_type;
+
+    /**
+     * \brief The type of buffer used by the exchange to update mirrors
+     */
+    typedef typename update_activ_exchange_type::buffer_type
+      update_activ_buffer_type;
+
+    /**
+     * \brief The distributed express used to update mirrors
+     * vertex programs.
+     */
+    update_activ_exchange_type update_activ_exchange;
+
+
+    /**
+     * \brief The triple type used to only update vertex data.
+     */
+    typedef std::pair<vertex_id_type, vertex_data_type> vid_vdata_pair_type;
+
+    /**
+         * \brief The type of the express used to update mirrors
+         */
+    typedef fiber_buffered_exchange<vid_vdata_pair_type> update_exchange_type;
+
+    /**
+     * \brief The type of buffer used by the exchange to update mirrors
+     */
+    typedef typename update_exchange_type::buffer_type update_buffer_type;
+
+    /**
+     * \brief The distributed express used to update mirrors
+     * vertex programs.
+     */
+    update_exchange_type update_exchange;
+
+
+    /**
+     * \brief The pair type used to synchronize the results of the gather phase
+     */
+    typedef std::pair<vertex_id_type, gather_type> vid_gather_pair_type;
+
+    /**
+     * \brief The type of the exchange used to synchronize accums
+     * accumulators
+     */
+    typedef fiber_buffered_exchange<vid_gather_pair_type> accum_exchange_type;
+
+    /**
+     * \brief The distributed exchange used to synchronize accums
+     * accumulators.
+     */
+    accum_exchange_type accum_exchange;
+
+    /**
+     * \brief The pair type used to synchronize messages
+     */
+    typedef std::pair<vertex_id_type, message_type> vid_message_pair_type;
+
+    /**
+     * \brief The type of the exchange used to synchronize messages
+     */
+    typedef fiber_buffered_exchange<vid_message_pair_type> message_exchange_type;
+
+    /**
+     * \brief The distributed exchange used to synchronize messages
+     */
+    message_exchange_type message_exchange;
+
+
+    /**
+     * \brief The distributed aggregator used to manage background
+     * aggregation.
+     */
+    aggregator_type aggregator;
+
+    DECLARE_EVENT(EVENT_APPLIES);
+    DECLARE_EVENT(EVENT_GATHERS);
+    DECLARE_EVENT(EVENT_SCATTERS);
+    DECLARE_EVENT(EVENT_ACTIVE_CPUS);
+  public:
+
+    /**
+     * \brief Construct a synchronous engine for a given graph and options.
+     *
+     * The synchronous engine should be constructed after the graph
+     * has been loaded (e.g., \ref graphlab::distributed_graph::load)
+     * and the graphlab options have been set
+     * (e.g., \ref graphlab::command_line_options).
+     *
+     * In the distributed engine the synchronous engine must be called
+     * on all machines at the same time (in the same order) passing
+     * the \ref graphlab::distributed_control object.  Upon
+     * construction the synchronous engine allocates several
+     * data-structures to store messages, gather accumulants, and
+     * vertex programs and therefore may require considerable memory.
+     *
+     * The number of threads to create are read from
+     * \ref graphlab_options::get_ncpus "opts.get_ncpus()".
+     *
+     * See the <a href="#engineopts">main class documentation</a>
+     * for details on the available options.
+     *
+     * @param [in] dc Distributed controller to associate with
+     * @param [in,out] graph A reference to the graph object that this
+     * engine will modify. The graph must be fully constructed and
+     * finalized.
+     * @param [in] opts A graphlab::graphlab_options object specifying engine
+     *                  parameters.  This is typically constructed using
+     *                  \ref graphlab::command_line_options.
+     */
+    topoX_sync_engine(distributed_control& dc, graph_type& graph,
+                       const graphlab_options& opts = graphlab_options());
+
+
+    /**
+     * \brief Start execution of the synchronous engine.
+     *
+     * The start function begins computation and does not return until
+     * there are no remaining messages or until max_iterations has
+     * been reached.
+     *
+     * The start() function modifies the data graph through the vertex
+     * programs and so upon return the data graph should contain the
+     * result of the computation.
+     *
+     * @return The reason for termination
+     */
+    execution_status::status_enum start();
+
+    // documentation inherited from iengine
+    size_t num_updates() const;
+
+    // documentation inherited from iengine
+    void signal(vertex_id_type vid,
+                const message_type& message = message_type());
+
+    // documentation inherited from iengine
+    void signal_all(const message_type& message = message_type(),
+                    const std::string& order = "shuffle");
+
+    void signal_vset(const vertex_set& vset,
+                    const message_type& message = message_type(),
+                    const std::string& order = "shuffle");
+
+
+    // documentation inherited from iengine
+    float elapsed_seconds() const;
+
+    /**
+     * \brief Get the current iteration number since start was last
+     * invoked.
+     *
+     *  \return the current iteration
+     */
+    int iteration() const;
+
+
+    /**
+     * \brief Compute the total memory used by the entire distributed
+     * system.
+     *
+     * @return The total memory used in bytes.
+     */
+    size_t total_memory_usage() const;
+
+    /**
+     * \brief Get a pointer to the distributed aggregator object.
+     *
+     * This is currently used by the \ref graphlab::iengine interface to
+     * implement the calls to aggregation.
+     *
+     * @return a pointer to the local aggregator.
+     */
+    aggregator_type* get_aggregator();
+
+    /**
+     * \brief Initialize the engine and allocate datastructures for vertex, and lock,
+     * clear all the messages.
+     */
+    void init();
+
+
+  private:
+
+
+    /**
+     * \brief Resize the datastructures to fit the graph size (in case of dynamic graph). Keep all the messages
+     * and caches.
+     */
+    void resize();
+
+    /**
+     * \brief This internal stop function is called by the \ref graphlab::context to
+     * terminate execution of the engine.
+     */
+    void internal_stop();
+
+    /**
+     * \brief This function is called remote by the rpc to force the
+     * engine to stop.
+     */
+    void rpc_stop();
+
+    /**
+     * \brief Signal a vertex.
+     *
+     * This function is called by the \ref graphlab::context.
+     *
+     * @param [in] vertex the vertex to signal
+     * @param [in] message the message to send to that vertex.
+     */
+    void internal_signal(const vertex_type& vertex,
+                         const message_type& message);
+
+    void internal_signal(const vertex_type& vertex);
+
+    /**
+     * \brief Called by the context to signal an arbitrary vertex.
+     * This must be done by finding the owner of that vertex.
+     *
+     * @param [in] gvid the global vertex id of the vertex to signal
+     * @param [in] message the message to send to that vertex.
+     */
+    void internal_signal_gvid(vertex_id_type gvid,
+                                   const message_type& message = message_type());
+
+    /**
+     * \brief This function tests if this machine is the master of
+     * gvid and signals if successful.
+     */
+    void internal_signal_rpc(vertex_id_type gvid,
+                              const message_type& message = message_type());
+
+
+    /**
+     * \brief Post a to a previous gather for a give vertex.
+     *
+     * This function is called by the \ref graphlab::context.
+     *
+     * @param [in] vertex The vertex to which to post a change in the sum
+     * @param [in] delta The change in that sum
+     */
+    void internal_post_delta(const vertex_type& vertex,
+                             const gather_type& delta);
+
+    /**
+     * \brief Clear the cached gather for a vertex if one is
+     * available.
+     *
+     * This function is called by the \ref graphlab::context.
+     *
+     * @param [in] vertex the vertex for which to clear the cache
+     */
+    void internal_clear_gather_cache(const vertex_type& vertex);
+
+
+    // Program Steps ==========================================================
+
+
+    void thread_launch_wrapped_event_counter(boost::function<void(void)> fn) {
+      INCREMENT_EVENT(EVENT_ACTIVE_CPUS, 1);
+      fn();
+      DECREMENT_EVENT(EVENT_ACTIVE_CPUS, 1);
+    }
+
+    /**
+     * \brief Executes ncpus copies of a member function each with a
+     * unique consecutive id (thread id).
+     *
+     * This function is used by the main loop to execute each of the
+     * stages in parallel.
+     *
+     * The member function must have the type:
+     *
+     * \code
+     * void topoX_sync_engine::member_fun(size_t threadid);
+     * \endcode
+     *
+     * This function runs an rmi barrier after termination
+     *
+     * @tparam the type of the member function.
+     * @param [in] member_fun the function to call.
+     */
+    template<typename MemberFunction>
+    void run_synchronous(MemberFunction member_fun) {
+      shared_lvid_counter = 0;
+      if (ncpus <= 1) {
+        INCREMENT_EVENT(EVENT_ACTIVE_CPUS, 1);
+      }
+      // launch the initialization threads
+      for(size_t i = 0; i < ncpus; ++i) {
+        fiber_control::affinity_type affinity;
+        affinity.clear(); affinity.set_bit(i);
+        boost::function<void(void)> invoke = boost::bind(member_fun, this, i);
+        threads.launch(boost::bind(
+              &topoX_sync_engine::thread_launch_wrapped_event_counter,
+              this,
+              invoke), affinity);
+      }
+      // Wait for all threads to finish
+      threads.join();
+      rmi.barrier();
+      if (ncpus <= 1) {
+        DECREMENT_EVENT(EVENT_ACTIVE_CPUS, 1);
+      }
+    } // end of run_synchronous
+
+    inline bool high_lvid(const lvid_type lvid);
+    inline bool low_lvid(const lvid_type lvid);
+
+    // /**
+    //  * \brief Initialize all vertex programs by invoking
+    //  * \ref graphlab::ivertex_program::init on all vertices.
+    //  *
+    //  * @param thread_id the thread to run this as which determines
+    //  * which vertices to process.
+    //  */
+    // void initialize_vertex_programs(size_t thread_id);
+
+    /**
+     * \brief Synchronize all message data.
+     *
+     * @param thread_id the thread to run this as which determines
+     * which vertices to process.
+     */
+    void exchange_messages(size_t thread_id);
+
+
+    /**
+     * \brief Invoke the \ref graphlab::ivertex_program::init function
+     * on all vertex programs that have inbound messages.
+     *
+     * @param thread_id the thread to run this as which determines
+     * which vertices to process.
+     */
+    void receive_messages(size_t thread_id);
+
+
+    /**
+     * \brief Execute the \ref graphlab::ivertex_program::gather function on all
+     * vertices that received messages for the edges specified by the
+     * \ref graphlab::ivertex_program::gather_edges.
+     *
+     * @param thread_id the thread to run this as which determines
+     * which vertices to process.
+     */
+    void execute_gathers(size_t thread_id);
+
+
+
+
+    /**
+     * \brief Execute the \ref graphlab::ivertex_program::apply function on all
+     * all vertices that received messages in this super-step (active).
+     *
+     * @param thread_id the thread to run this as which determines
+     * which vertices to process.
+     */
+    void execute_applys(size_t thread_id);
+
+    /**
+     * \brief Execute the \ref graphlab::ivertex_program::scatter function on all
+     * vertices that received messages for the edges specified by the
+     * \ref graphlab::ivertex_program::scatter_edges.
+     *
+     * @param thread_id the thread to run this as which determines
+     * which vertices to process.
+     */
+    void execute_scatters(size_t thread_id);
+
+    // Data Synchronization ===================================================
+    /**
+     * \brief Send the activation messages (vertex program and edge set)
+     * for the local vertex id to all of its mirrors.
+     *
+     * @param [in] lvid the vertex to sync.  It must be the master of that vertex.
+     */
+    void send_activs(lvid_type lvid, size_t thread_id);
+
+    /**
+     * \brief do activation to local mirros.
+     *
+     * This function is a callback of express, and will be invoked when receives
+     * activation message.
+     */
+    void recv_activs();
