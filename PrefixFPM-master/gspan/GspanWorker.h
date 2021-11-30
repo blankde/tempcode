@@ -378,13 +378,49 @@ namespace graphlab {
                   //size_t point[1000]; // 当前等待计算的点的队列
                   //size_t topoX_count=0;
                   //int point_count = -1;
+                    /*
+                  procid_t min_proc = 0;
+                  if (fht[iter->first] == -1){
+
+                      int temp2 = count[0];
+                      for (size_t ix = 1; ix < cnodes; ix++){
+                          if (temp2>count[ix]){
+                              temp2 = count[ix];
+                              min_proc = ix;
+                          }
+                      }
+                      fht[iter->first] = min_proc;                  //第一次更新fht，此时只更新本地fht
+                  }
+                     */
                   double last_time = 0.0+ti.current_time();
                   for (size_t ix = 0; ix < cnodes; ix++)
                       count[ix] = 0;
                   for (target_hash_table_type::iterator iter = oht.begin(); iter != oht.end(); iter++){
-                      if(iht.find(iter->first) == iht.end())
-                          fly_vec.push_back(iter->first);
+                      if(iht.find(iter->first) == iht.end()){
+                          procid_t min_proc = 0;
+                          iht[iter->first];
+                          /*
+                          if (fht[iter->first] == -1){
+                              int temp2 = count[0];
+                              for (size_t ix = 1; ix < cnodes; ix++){
+                                  if (temp2>count[ix]){
+                                      temp2 = count[ix];
+                                      min_proc = ix;
+                                  }
+                              }
+                              fht[iter->first] = min_proc;                  //第一次更新fht，此时只更新本地fht
+                          }
+
+                          for (size_t ix = 0; ix < nprocs; ix++){
+                              if (ix != l_procid)
+                                  vht_exchange.send(ix, hash_pair_type(iter->first, min_proc ));
+                              else
+                                  vht[iter->first] = min_proc;
+                          }
+                           */
+                      }
                   }
+
                   for (target_hash_table_type::iterator iter = iht.begin(); iter != iht.end(); iter++){
                       //logstream(LOG_INFO) << "in ok!" << std::endl;
                       //   topoX_rpc.cout() << iht[iter->first].size() << std::endl;
@@ -649,6 +685,11 @@ namespace graphlab {
                           if (vht.find(rec.source) != vht.end()&&vht[rec.source]!=-1){
                               owning_proc = vht[rec.source];
                           }
+                          /*
+                          else if(in_degree_set[rec.source] <= threshold){
+                              owning_proc = rec.source%cnodes;
+                          }
+                           */
                           else {
                               int row, col;
                               col = (rec.source) % matrixSize;
@@ -657,6 +698,7 @@ namespace graphlab {
 
 
                               owning_proc = myMatrix[row][col];
+                          }
 
                               if (mht.find(rec.target) == mht.end()) {
                                   // update mht
@@ -667,7 +709,7 @@ namespace graphlab {
                                           mht[rec.target] = owning_proc;
                                   }
                               }
-                          }
+
 
                           if (owning_proc != l_procid){
 
